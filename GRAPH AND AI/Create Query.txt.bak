@@ -1,0 +1,18 @@
+CREATE 
+(n:FAMILY {name='PUCCI'}),
+(n:FAMILY {name='PERUZZI'}), 
+(n:FAMILY {name='STROZZI'}), 
+(n:FAMILY {name='BISCHERI'}), 
+(n:FAMILY {name='LAMBERTES'}),
+(n:FAMILY {name='CASTELLAN'}),
+(n:FAMILY {name='RIDOLF'}),
+(n:FAMILY {name='TORNABUON'}),
+(n:FAMILY {name='GUADAGNI'}),
+(n:FAMILY {name='ALBIZZI'}),
+(n:FAMILY {name='BARBADORI'}),
+(n:FAMILY {name='MEDICI'}),
+(n:FAMILY {name='GINORI'}),
+(n:FAMILY {name='SALVIATI'}),
+(n:FAMILY {name='ACCIAIUOL'}),
+(n:FAMILY {name='PAZZI'}),
+
