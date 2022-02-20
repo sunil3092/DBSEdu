@@ -1,4 +1,4 @@
-/Create Family
+// Create Family
 CREATE (n:FAMILY {name:'PUCCI'});
 CREATE (n:FAMILY {name:'PERUZZI'}); 
 CREATE (n:FAMILY {name:'STROZZI'}); 
@@ -16,75 +16,148 @@ CREATE (n:FAMILY {name:'SALVIATI'});
 CREATE (n:FAMILY {name:'ACCIAIUOL'});
 CREATE (n:FAMILY {name:'PAZZI'});
 
-/ Create Relations
+// Create Relations
+
 MATCH (n1:FAMILY), (n2:FAMILY)
 WHERE n1.name = 'MEDICI' AND n2.name = 'SALVIATI'
 CREATE (n1)-[mrg:MARRAGE]->(n2);
+
+MATCH (n1:FAMILY), (n2:FAMILY)
+WHERE n1.name = 'MEDICI' AND n2.name = 'SALVIATI'
+CREATE (n2)-[mrg:MARRAGE]->(n1);
 
 MATCH (n1:FAMILY), (n2:FAMILY)
 WHERE n1.name = 'MEDICI' AND n2.name = 'BARBADORI'
 CREATE (n1)-[mrg:MARRAGE]->(n2);
 
 MATCH (n1:FAMILY), (n2:FAMILY)
+WHERE n1.name = 'MEDICI' AND n2.name = 'BARBADORI'
+CREATE (n2)-[mrg:MARRAGE]->(n1);
+
+MATCH (n1:FAMILY), (n2:FAMILY)
 WHERE n1.name = 'MEDICI' AND n2.name = 'ALBIZZI'
 CREATE (n1)-[mrg:MARRAGE]->(n2);
+
+MATCH (n1:FAMILY), (n2:FAMILY)
+WHERE n1.name = 'MEDICI' AND n2.name = 'ALBIZZI'
+CREATE (n2)-[mrg:MARRAGE]->(n1);
 
 MATCH (n1:FAMILY), (n2:FAMILY)
 WHERE n1.name = 'MEDICI' AND n2.name = 'TORNABUON'
 CREATE (n1)-[mrg:MARRAGE]->(n2);
 
 MATCH (n1:FAMILY), (n2:FAMILY)
+WHERE n1.name = 'MEDICI' AND n2.name = 'TORNABUON'
+CREATE (n2)-[mrg:MARRAGE]->(n1);
+
+MATCH (n1:FAMILY), (n2:FAMILY)
 WHERE n1.name = 'MEDICI' AND n2.name = 'RIDOLF'
 CREATE (n1)-[mrg:MARRAGE]->(n2);
+
+MATCH (n1:FAMILY), (n2:FAMILY)
+WHERE n1.name = 'MEDICI' AND n2.name = 'RIDOLF'
+CREATE (n2)-[mrg:MARRAGE]->(n1);
 
 MATCH (n1:FAMILY), (n2:FAMILY)
 WHERE n1.name = 'MEDICI' AND n2.name = 'ACCIAIUOL'
 CREATE (n1)-[mrg:MARRAGE]->(n2);
 
 MATCH (n1:FAMILY), (n2:FAMILY)
+WHERE n1.name = 'MEDICI' AND n2.name = 'ACCIAIUOL'
+CREATE (n2)-[mrg:MARRAGE]->(n1);
+
+MATCH (n1:FAMILY), (n2:FAMILY)
 WHERE n1.name = 'SALVIATI' AND n2.name = 'PAZZI'
 CREATE (n1)-[mrg:MARRAGE]->(n2);
+
+MATCH (n1:FAMILY), (n2:FAMILY)
+WHERE n1.name = 'SALVIATI' AND n2.name = 'PAZZI'
+CREATE (n2)-[mrg:MARRAGE]->(n1);
 
 MATCH (n1:FAMILY), (n2:FAMILY)
 WHERE n1.name = 'BARBADORI' AND n2.name = 'CASTELLAN'
 CREATE (n1)-[mrg:MARRAGE]->(n2);
 
 MATCH (n1:FAMILY), (n2:FAMILY)
+WHERE n1.name = 'BARBADORI' AND n2.name = 'CASTELLAN'
+CREATE (n2)-[mrg:MARRAGE]->(n1);
+
+MATCH (n1:FAMILY), (n2:FAMILY)
 WHERE n1.name = 'CASTELLAN' AND n2.name = 'STROZZI'
 CREATE (n1)-[mrg:MARRAGE]->(n2);
+
+MATCH (n1:FAMILY), (n2:FAMILY)
+WHERE n1.name = 'CASTELLAN' AND n2.name = 'STROZZI'
+CREATE (n2)-[mrg:MARRAGE]->(n1);
 
 MATCH (n1:FAMILY), (n2:FAMILY)
 WHERE n1.name = 'CASTELLAN' AND n2.name = 'PERUZZI'
 CREATE (n1)-[mrg:MARRAGE]->(n2);
 
 MATCH (n1:FAMILY), (n2:FAMILY)
+WHERE n1.name = 'CASTELLAN' AND n2.name = 'PERUZZI'
+CREATE (n2)-[mrg:MARRAGE]->(n1);
+
+MATCH (n1:FAMILY), (n2:FAMILY)
 WHERE n1.name = 'STROZZI' AND n2.name = 'PERUZZI'
 CREATE (n1)-[mrg:MARRAGE]->(n2);
+
+MATCH (n1:FAMILY), (n2:FAMILY)
+WHERE n1.name = 'STROZZI' AND n2.name = 'PERUZZI'
+CREATE (n2)-[mrg:MARRAGE]->(n1);
 
 MATCH (n1:FAMILY), (n2:FAMILY)
 WHERE n1.name = 'RIDOLF' AND n2.name = 'STROZZI'
 CREATE (n1)-[mrg:MARRAGE]->(n2);
 
 MATCH (n1:FAMILY), (n2:FAMILY)
+WHERE n1.name = 'RIDOLF' AND n2.name = 'STROZZI'
+CREATE (n2)-[mrg:MARRAGE]->(n1);
+
+MATCH (n1:FAMILY), (n2:FAMILY)
 WHERE n1.name = 'TORNABUON' AND n2.name = 'RIDOLF'
 CREATE (n1)-[mrg:MARRAGE]->(n2);
+
+MATCH (n1:FAMILY), (n2:FAMILY)
+WHERE n1.name = 'TORNABUON' AND n2.name = 'RIDOLF'
+CREATE (n2)-[mrg:MARRAGE]->(n1);
 
 MATCH (n1:FAMILY), (n2:FAMILY)
 WHERE n1.name = 'TORNABUON' AND n2.name = 'GUADAGNI'
 CREATE (n1)-[mrg:MARRAGE]->(n2);
 
 MATCH (n1:FAMILY), (n2:FAMILY)
+WHERE n1.name = 'TORNABUON' AND n2.name = 'GUADAGNI'
+CREATE (n2)-[mrg:MARRAGE]->(n1);
+
+MATCH (n1:FAMILY), (n2:FAMILY)
 WHERE n1.name = 'ALBIZZI' AND n2.name = 'GUADAGNI'
 CREATE (n1)-[mrg:MARRAGE]->(n2);
+
+MATCH (n1:FAMILY), (n2:FAMILY)
+WHERE n1.name = 'ALBIZZI' AND n2.name = 'GUADAGNI'
+CREATE (n2)-[mrg:MARRAGE]->(n1);
 
 MATCH (n1:FAMILY), (n2:FAMILY)
 WHERE n1.name = 'ALBIZZI' AND n2.name = 'GINORI'
 CREATE (n1)-[mrg:MARRAGE]->(n2);
 
 MATCH (n1:FAMILY), (n2:FAMILY)
+WHERE n1.name = 'ALBIZZI' AND n2.name = 'GINORI'
+CREATE (n2)-[mrg:MARRAGE]->(n1);
+
+MATCH (n1:FAMILY), (n2:FAMILY)
 WHERE n1.name = 'GUADAGNI' AND n2.name = 'LAMBERTES'
 CREATE (n1)-[mrg:MARRAGE]->(n2);
 
 MATCH (n1:FAMILY), (n2:FAMILY)
+WHERE n1.name = 'GUADAGNI' AND n2.name = 'LAMBERTES'
+CREATE (n2)-[mrg:MARRAGE]->(n1);
+
+MATCH (n1:FAMILY), (n2:FAMILY)
 WHERE n1.name = 'GUADAGNI' AND n2.name = 'BISCHERI'
 CREATE (n1)-[mrg:MARRAGE]->(n2);
+
+MATCH (n1:FAMILY), (n2:FAMILY)
+WHERE n1.name = 'GUADAGNI' AND n2.name = 'BISCHERI'
+CREATE (n2)-[mrg:MARRAGE]->(n1);
