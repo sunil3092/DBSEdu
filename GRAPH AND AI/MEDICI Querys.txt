@@ -160,3 +160,40 @@ CREATE (n1)-[mrg:MARRAGE]->(n2);
 MATCH (n1:FAMILY), (n2:FAMILY)
 WHERE n1.name = 'GUADAGNI' AND n2.name = 'BISCHERI'
 CREATE (n2)-[mrg:MARRAGE]->(n1);
+
+CALL gds.graph.create(
+  'MEDICIGraph',
+  'FAMILY',
+  'MARRAGE'
+);
+
+CALL gds.pageRank.write('MEDICIGraph', {
+  maxIterations: 20,
+  dampingFactor: 0.85,
+  writeProperty: 'pagerank'
+})
+YIELD nodePropertiesWritten, ranIterations;
+
+CALL gds.eigenvector.write('MEDICIGraph', {
+  maxIterations: 20,
+  writeProperty: 'centrality'
+})
+YIELD nodePropertiesWritten, ranIterations;
+
+CALL gds.betweenness.write('MEDICIGraph', { writeProperty: 'betweenness' })
+YIELD centralityDistribution, nodePropertiesWritten
+RETURN centralityDistribution.min AS minimumScore, centralityDistribution.mean AS meanScore, nodePropertiesWritten;
+
+CALL gds.degree.write('MEDICIGraph', { writeProperty: 'degree' })
+YIELD centralityDistribution, nodePropertiesWritten
+RETURN centralityDistribution.min AS minimumScore, centralityDistribution.mean AS meanScore, nodePropertiesWritten;
+
+CALL gds.alpha.closeness.write({
+  nodeProjection: 'FAMILY',
+  relationshipProjection: 'MARRAGE',
+  writeProperty: 'centrality'
+}) YIELD nodes, writeProperty;
+
+CALL gds.degree.write('MEDICIGraph', { writeProperty: 'degree' })
+YIELD centralityDistribution, nodePropertiesWritten
+RETURN centralityDistribution.min AS minimumScore, centralityDistribution.mean AS meanScore, nodePropertiesWritten;
