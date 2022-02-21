@@ -50,6 +50,8 @@ CREATE
  (me) -[:LINKS {weight: 1.0}]-> (to);
  
  (pu) -[:LINKS {weight: }]-> (),
+ 
+ (pu) -[:LINKS {weight: }]-> (),
  (pe) -[:LINKS {weight: }]-> (),
  (st) -[:LINKS {weight: }]-> (),
  (bi) -[:LINKS {weight: }]-> (),
