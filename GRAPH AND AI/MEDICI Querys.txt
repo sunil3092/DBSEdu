@@ -193,7 +193,3 @@ CALL gds.alpha.closeness.write({
   relationshipProjection: 'MARRAGE',
   writeProperty: 'centrality'
 }) YIELD nodes, writeProperty;
-
-CALL gds.degree.write('MEDICIGraph', { writeProperty: 'degree' })
-YIELD centralityDistribution, nodePropertiesWritten
-RETURN centralityDistribution.min AS minimumScore, centralityDistribution.mean AS meanScore, nodePropertiesWritten;
