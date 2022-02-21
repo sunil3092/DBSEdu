@@ -17,7 +17,6 @@ CREATE (n:FAMILY {name:'ACCIAIUOL'});
 CREATE (n:FAMILY {name:'PAZZI'});
 
 // Create Relations
-
 MATCH (n1:FAMILY), (n2:FAMILY)
 WHERE n1.name = 'MEDICI' AND n2.name = 'SALVIATI'
 CREATE (n1)-[mrg:MARRAGE]->(n2);
