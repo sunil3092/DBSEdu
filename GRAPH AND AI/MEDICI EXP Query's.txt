@@ -25,7 +25,7 @@ CREATE
   
   
 CREATE 
- (pu:FAMILY {name:'PUCCI'});
+ (pu:FAMILY {name:'PUCCI'}),
  (pe:FAMILY {name:'PERUZZI'}), 
  (st:FAMILY {name:'STROZZI'}), 
  (bi:FAMILY {name:'BISCHERI'}), 
@@ -41,6 +41,13 @@ CREATE
  (sa:FAMILY {name:'SALVIATI'}),
  (ac:FAMILY {name:'ACCIAIUOL'}),
  (pa:FAMILY {name:'PAZZI'}),
+ 
+ (me) -[:LINKS {weight: 1.0}]-> (ri),
+ (me) -[:LINKS {weight: 1.0}]-> (al),
+ (me) -[:LINKS {weight: 1.0}]-> (ac),
+ (me) -[:LINKS {weight: 1.0}]-> (sa),
+ (me) -[:LINKS {weight: 1.0}]-> (ba),
+ (me) -[:LINKS {weight: 1.0}]-> (to);
  
  (pu) -[:LINKS {weight: }]-> (),
  (pe) -[:LINKS {weight: }]-> (),
