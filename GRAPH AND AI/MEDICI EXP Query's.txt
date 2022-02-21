@@ -59,7 +59,7 @@ CREATE
  (ac) -[:LINKS {weight: }]-> (),
  (pa) -[:LINKS {weight: }]-> (),
  
- () -[:LINKS {weight: }]-> (),
+ () -[:LINKS {weight: }]-> (pu),
  () -[:LINKS {weight: }]-> (),
  () -[:LINKS {weight: }]-> (),
  () -[:LINKS {weight: }]-> (),
