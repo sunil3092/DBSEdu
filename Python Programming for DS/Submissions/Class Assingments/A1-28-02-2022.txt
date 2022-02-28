@@ -1,0 +1,48 @@
+#Method returs the file Data
+def get_file_data(fileName):
+    data_from_file = {line.split()[0]:float(line.split()[1]) for line in open(fileName)}
+    return data_from_file
+
+class ShoppingBasket():
+    
+    def __init__(self):
+        self.__basket_dict = dict()
+        self.__total = 0
+		
+    #Util method to get the prices from a file   
+    priceList = get_file_data('prices1')
+    
+    def add_item_to_basket(self,item, qty):
+        if item not in priceList:
+            raise ValueError("Ivalid Item")
+        if qty <= 0:
+            raise ValueError("Invalid Quantity")
+        self.__basket_dict[item] = qty + self.__basket_dict.get(item,0)
+        
+    def checkout(self):
+        for value_of_item,number_of_item in self.__basket_dict.items():
+                self.__total += number_of_item * ShoppingBasket.priceList.get(value_of_item)
+        return self.__total
+		
+		
+class TestShoppingBasket(ut.TestCase):
+    def testAdd(self):
+        sb=ShoppingBasket()
+        self.assertEqual(sb.checkout(),0)
+    def testAddToBasket(self):
+        sb=ShoppingBasket()
+        sb.add_item_to_basket("bread",1)
+        self.assertEqual(sb.checkout(),1.49)
+    def testAddMoreToBasket(self):
+        sb=ShoppingBasket()
+        sb.add_item_to_basket("bread",1)
+        sb.add_item_to_basket("bread",1)
+        self.assertEqual(sb.checkout(),2.98)
+    def testAddNegetive(self):
+        sb=ShoppingBasket()
+        with self.assertRaises(ValueError):
+            sb.add_item_to_basket("bread",-10)
+    def testAddRandomItem(self):
+        sb=ShoppingBasket()
+        with self.assertRaises(ValueError):
+            sb.add_item_to_basket("colors",1)
