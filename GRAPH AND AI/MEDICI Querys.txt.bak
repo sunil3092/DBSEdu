@@ -106,22 +106,6 @@ WHERE n1.name = 'STROZZI' AND n2.name = 'PERUZZI'
 CREATE (n2)-[mrg:MARRAGE]->(n1);
 
 MATCH (n1:FAMILY), (n2:FAMILY)
-WHERE n1.name = 'PERUZZI' AND n2.name = 'BISCHERI'
-CREATE (n2)-[mrg:MARRAGE]->(n1);
-
-MATCH (n1:FAMILY), (n2:FAMILY)
-WHERE n1.name = 'BISCHERI' AND n2.name = 'STROZZI'
-CREATE (n2)-[mrg:MARRAGE]->(n1);
-
-MATCH (n1:FAMILY), (n2:FAMILY)
-WHERE n1.name = 'STROZZI' AND n2.name = 'BISCHERI'
-CREATE (n2)-[mrg:MARRAGE]->(n1);
-
-MATCH (n1:FAMILY), (n2:FAMILY)
-WHERE n1.name = 'BISCHERI' AND n2.name = 'PERUZZI'
-CREATE (n2)-[mrg:MARRAGE]->(n1);
-
-MATCH (n1:FAMILY), (n2:FAMILY)
 WHERE n1.name = 'RIDOLF' AND n2.name = 'STROZZI'
 CREATE (n1)-[mrg:MARRAGE]->(n2);
 
