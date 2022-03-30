@@ -1,0 +1,9 @@
+LOAD CSV WITH HEADERS FROM 'file:///Cleaned_Data.csv' AS row
+MERGE (movie:SeriesTitle{name:row.Series_Title})
+MERGE (director:Director{name:row.Director})-[:DIRECTED]-> (movie)
+MERGE (actor1:Actors1{name:row.Star1})-[:ACTED1]-> (movie)
+MERGE (actor2:Actors2{name:row.Star2})-[:ACTED2]-> (movie)
+MERGE (actor3:Actors3{name:row.Star3})-[:ACTED13]-> (movie)
+MERGE (actor4:Actors4{name:row.Star4})-[:ACTED14]-> (movie)
+MERGE (rating:Rating{name:row.IMDB_Rating})-[:RATING]-> (movie)
+MERGE (genre:Genre{name:row.Genre})-[:GENERE]-> (movie)
