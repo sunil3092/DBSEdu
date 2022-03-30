@@ -1,0 +1,1001 @@
+,Series_Title,Genre,IMDB_Rating,Director,Star1,Star2,Star3,Star4
+0,The Shawshank Redemption,Drama,9.3,Frank Darabont,Tim Robbins,Morgan Freeman,Bob Gunton,William Sadler
+1,The Godfather,"Crime, Drama",9.2,Francis Ford Coppola,Marlon Brando,Al Pacino,James Caan,Diane Keaton
+2,The Dark Knight,"Action, Crime, Drama",9.0,Christopher Nolan,Christian Bale,Heath Ledger,Aaron Eckhart,Michael Caine
+3,The Godfather: Part II,"Crime, Drama",9.0,Francis Ford Coppola,Al Pacino,Robert De Niro,Robert Duvall,Diane Keaton
+4,12 Angry Men,"Crime, Drama",9.0,Sidney Lumet,Henry Fonda,Lee J. Cobb,Martin Balsam,John Fiedler
+5,The Lord of the Rings: The Return of the King,"Action, Adventure, Drama",8.9,Peter Jackson,Elijah Wood,Viggo Mortensen,Ian McKellen,Orlando Bloom
+6,Pulp Fiction,"Crime, Drama",8.9,Quentin Tarantino,John Travolta,Uma Thurman,Samuel L. Jackson,Bruce Willis
+7,Schindler's List,"Biography, Drama, History",8.9,Steven Spielberg,Liam Neeson,Ralph Fiennes,Ben Kingsley,Caroline Goodall
+8,Inception,"Action, Adventure, Sci-Fi",8.8,Christopher Nolan,Leonardo DiCaprio,Joseph Gordon-Levitt,Elliot Page,Ken Watanabe
+9,Fight Club,Drama,8.8,David Fincher,Brad Pitt,Edward Norton,Meat Loaf,Zach Grenier
+10,The Lord of the Rings: The Fellowship of the Ring,"Action, Adventure, Drama",8.8,Peter Jackson,Elijah Wood,Ian McKellen,Orlando Bloom,Sean Bean
+11,Forrest Gump,"Drama, Romance",8.8,Robert Zemeckis,Tom Hanks,Robin Wright,Gary Sinise,Sally Field
+12,"Il buono, il brutto, il cattivo",Western,8.8,Sergio Leone,Clint Eastwood,Eli Wallach,Lee Van Cleef,Aldo Giuffrè
+13,The Lord of the Rings: The Two Towers,"Action, Adventure, Drama",8.7,Peter Jackson,Elijah Wood,Ian McKellen,Viggo Mortensen,Orlando Bloom
+14,The Matrix,"Action, Sci-Fi",8.7,Lana Wachowski,Lilly Wachowski,Keanu Reeves,Laurence Fishburne,Carrie-Anne Moss
+15,Goodfellas,"Biography, Crime, Drama",8.7,Martin Scorsese,Robert De Niro,Ray Liotta,Joe Pesci,Lorraine Bracco
+16,Star Wars: Episode V - The Empire Strikes Back,"Action, Adventure, Fantasy",8.7,Irvin Kershner,Mark Hamill,Harrison Ford,Carrie Fisher,Billy Dee Williams
+17,One Flew Over the Cuckoo's Nest,Drama,8.7,Milos Forman,Jack Nicholson,Louise Fletcher,Michael Berryman,Peter Brocco
+18,Hamilton,"Biography, Drama, History",8.6,Thomas Kail,Lin-Manuel Miranda,Phillipa Soo,Leslie Odom Jr.,Renée Elise Goldsberry
+19,Gisaengchung,"Comedy, Drama, Thriller",8.6,Bong Joon Ho,Kang-ho Song,Lee Sun-kyun,Cho Yeo-jeong,Choi Woo-sik
+20,Soorarai Pottru,Drama,8.6,Sudha Kongara,Suriya,Madhavan,Paresh Rawal,Aparna Balamurali
+21,Interstellar,"Adventure, Drama, Sci-Fi",8.6,Christopher Nolan,Matthew McConaughey,Anne Hathaway,Jessica Chastain,Mackenzie Foy
+22,Cidade de Deus,"Crime, Drama",8.6,Fernando Meirelles,Kátia Lund,Alexandre Rodrigues,Leandro Firmino,Matheus Nachtergaele
+23,Sen to Chihiro no kamikakushi,"Animation, Adventure, Family",8.6,Hayao Miyazaki,Daveigh Chase,Suzanne Pleshette,Miyu Irino,Rumi Hiiragi
+24,Saving Private Ryan,"Drama, War",8.6,Steven Spielberg,Tom Hanks,Matt Damon,Tom Sizemore,Edward Burns
+25,The Green Mile,"Crime, Drama, Fantasy",8.6,Frank Darabont,Tom Hanks,Michael Clarke Duncan,David Morse,Bonnie Hunt
+26,La vita è bella,"Comedy, Drama, Romance",8.6,Roberto Benigni,Roberto Benigni,Nicoletta Braschi,Giorgio Cantarini,Giustino Durano
+27,Se7en,"Crime, Drama, Mystery",8.6,David Fincher,Morgan Freeman,Brad Pitt,Kevin Spacey,Andrew Kevin Walker
+28,The Silence of the Lambs,"Crime, Drama, Thriller",8.6,Jonathan Demme,Jodie Foster,Anthony Hopkins,Lawrence A. Bonney,Kasi Lemmons
+29,Star Wars,"Action, Adventure, Fantasy",8.6,George Lucas,Mark Hamill,Harrison Ford,Carrie Fisher,Alec Guinness
+30,Seppuku,"Action, Drama, Mystery",8.6,Masaki Kobayashi,Tatsuya Nakadai,Akira Ishihama,Shima Iwashita,Tetsurô Tanba
+31,Shichinin no samurai,"Action, Adventure, Drama",8.6,Akira Kurosawa,Toshirô Mifune,Takashi Shimura,Keiko Tsushima,Yukiko Shimazaki
+32,It's a Wonderful Life,"Drama, Family, Fantasy",8.6,Frank Capra,James Stewart,Donna Reed,Lionel Barrymore,Thomas Mitchell
+33,Joker,"Crime, Drama, Thriller",8.5,Todd Phillips,Joaquin Phoenix,Robert De Niro,Zazie Beetz,Frances Conroy
+34,Whiplash,"Drama, Music",8.5,Damien Chazelle,Miles Teller,J.K. Simmons,Melissa Benoist,Paul Reiser
+35,The Intouchables,"Biography, Comedy, Drama",8.5,Olivier Nakache,Éric Toledano,François Cluzet,Omar Sy,Anne Le Ny
+36,The Prestige,"Drama, Mystery, Sci-Fi",8.5,Christopher Nolan,Christian Bale,Hugh Jackman,Scarlett Johansson,Michael Caine
+37,The Departed,"Crime, Drama, Thriller",8.5,Martin Scorsese,Leonardo DiCaprio,Matt Damon,Jack Nicholson,Mark Wahlberg
+38,The Pianist,"Biography, Drama, Music",8.5,Roman Polanski,Adrien Brody,Thomas Kretschmann,Frank Finlay,Emilia Fox
+39,Gladiator,"Action, Adventure, Drama",8.5,Ridley Scott,Russell Crowe,Joaquin Phoenix,Connie Nielsen,Oliver Reed
+40,American History X,Drama,8.5,Tony Kaye,Edward Norton,Edward Furlong,Beverly D'Angelo,Jennifer Lien
+41,The Usual Suspects,"Crime, Mystery, Thriller",8.5,Bryan Singer,Kevin Spacey,Gabriel Byrne,Chazz Palminteri,Stephen Baldwin
+42,Léon,"Action, Crime, Drama",8.5,Luc Besson,Jean Reno,Gary Oldman,Natalie Portman,Danny Aiello
+43,The Lion King,"Animation, Adventure, Drama",8.5,Roger Allers,Rob Minkoff,Matthew Broderick,Jeremy Irons,James Earl Jones
+44,Terminator 2: Judgment Day,"Action, Sci-Fi",8.5,James Cameron,Arnold Schwarzenegger,Linda Hamilton,Edward Furlong,Robert Patrick
+45,Nuovo Cinema Paradiso,"Drama, Romance",8.5,Giuseppe Tornatore,Philippe Noiret,Enzo Cannavale,Antonella Attili,Isa Danieli
+46,Hotaru no haka,"Animation, Drama, War",8.5,Isao Takahata,Tsutomu Tatsumi,Ayano Shiraishi,Akemi Yamaguchi,Yoshiko Shinohara
+47,Back to the Future,"Adventure, Comedy, Sci-Fi",8.5,Robert Zemeckis,Michael J. Fox,Christopher Lloyd,Lea Thompson,Crispin Glover
+48,Once Upon a Time in the West,Western,8.5,Sergio Leone,Henry Fonda,Charles Bronson,Claudia Cardinale,Jason Robards
+49,Psycho,"Horror, Mystery, Thriller",8.5,Alfred Hitchcock,Anthony Perkins,Janet Leigh,Vera Miles,John Gavin
+50,Casablanca,"Drama, Romance, War",8.5,Michael Curtiz,Humphrey Bogart,Ingrid Bergman,Paul Henreid,Claude Rains
+51,Modern Times,"Comedy, Drama, Family",8.5,Charles Chaplin,Charles Chaplin,Paulette Goddard,Henry Bergman,Tiny Sandford
+52,City Lights,"Comedy, Drama, Romance",8.5,Charles Chaplin,Charles Chaplin,Virginia Cherrill,Florence Lee,Harry Myers
+53,Capharnaüm,Drama,8.4,Nadine Labaki,Zain Al Rafeea,Yordanos Shiferaw,Boluwatife Treasure Bankole,Kawsar Al Haddad
+54,Ayla: The Daughter of War,"Biography, Drama, History",8.4,Can Ulkay,Erdem Can,Çetin Tekindor,Ismail Hacioglu,Kyung-jin Lee
+55,Vikram Vedha,"Action, Crime, Drama",8.4,Gayatri,Pushkar,Madhavan,Vijay Sethupathi,Shraddha Srinath
+56,Kimi no na wa.,"Animation, Drama, Fantasy",8.4,Makoto Shinkai,Ryûnosuke Kamiki,Mone Kamishiraishi,Ryô Narita,Aoi Yûki
+57,Dangal,"Action, Biography, Drama",8.4,Nitesh Tiwari,Aamir Khan,Sakshi Tanwar,Fatima Sana Shaikh,Sanya Malhotra
+58,Spider-Man: Into the Spider-Verse,"Animation, Action, Adventure",8.4,Bob Persichetti,Peter Ramsey,Rodney Rothman,Shameik Moore,Jake Johnson
+59,Avengers: Endgame,"Action, Adventure, Drama",8.4,Anthony Russo,Joe Russo,Robert Downey Jr.,Chris Evans,Mark Ruffalo
+60,Avengers: Infinity War,"Action, Adventure, Sci-Fi",8.4,Anthony Russo,Joe Russo,Robert Downey Jr.,Chris Hemsworth,Mark Ruffalo
+61,Coco,"Animation, Adventure, Family",8.4,Lee Unkrich,Adrian Molina,Anthony Gonzalez,Gael García Bernal,Benjamin Bratt
+62,Django Unchained,"Drama, Western",8.4,Quentin Tarantino,Jamie Foxx,Christoph Waltz,Leonardo DiCaprio,Kerry Washington
+63,The Dark Knight Rises,"Action, Adventure",8.4,Christopher Nolan,Christian Bale,Tom Hardy,Anne Hathaway,Gary Oldman
+64,3 Idiots,"Comedy, Drama",8.4,Rajkumar Hirani,Aamir Khan,Madhavan,Mona Singh,Sharman Joshi
+65,Taare Zameen Par,"Drama, Family",8.4,Aamir Khan,Amole Gupte,Darsheel Safary,Aamir Khan,Tisca Chopra
+66,WALL·E,"Animation, Adventure, Family",8.4,Andrew Stanton,Ben Burtt,Elissa Knight,Jeff Garlin,Fred Willard
+67,The Lives of Others,"Drama, Mystery, Thriller",8.4,Florian Henckel von Donnersmarck,Ulrich Mühe,Martina Gedeck,Sebastian Koch,Ulrich Tukur
+68,Oldeuboi,"Action, Drama, Mystery",8.4,Chan-wook Park,Choi Min-sik,Yoo Ji-Tae,Kang Hye-jeong,Kim Byeong-Ok
+69,Memento,"Mystery, Thriller",8.4,Christopher Nolan,Guy Pearce,Carrie-Anne Moss,Joe Pantoliano,Mark Boone Junior
+70,Mononoke-hime,"Animation, Action, Adventure",8.4,Hayao Miyazaki,Yôji Matsuda,Yuriko Ishida,Yûko Tanaka,Billy Crudup
+71,Once Upon a Time in America,"Crime, Drama",8.4,Sergio Leone,Robert De Niro,James Woods,Elizabeth McGovern,Treat Williams
+72,Raiders of the Lost Ark,"Action, Adventure",8.4,Steven Spielberg,Harrison Ford,Karen Allen,Paul Freeman,John Rhys-Davies
+73,The Shining,"Drama, Horror",8.4,Stanley Kubrick,Jack Nicholson,Shelley Duvall,Danny Lloyd,Scatman Crothers
+74,Apocalypse Now,"Drama, Mystery, War",8.4,Francis Ford Coppola,Martin Sheen,Marlon Brando,Robert Duvall,Frederic Forrest
+75,Alien,"Horror, Sci-Fi",8.4,Ridley Scott,Sigourney Weaver,Tom Skerritt,John Hurt,Veronica Cartwright
+76,Anand,"Drama, Musical",8.4,Hrishikesh Mukherjee,Rajesh Khanna,Amitabh Bachchan,Sumita Sanyal,Ramesh Deo
+77,Tengoku to jigoku,"Crime, Drama, Mystery",8.4,Akira Kurosawa,Toshirô Mifune,Yutaka Sada,Tatsuya Nakadai,Kyôko Kagawa
+78,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,Comedy,8.4,Stanley Kubrick,Peter Sellers,George C. Scott,Sterling Hayden,Keenan Wynn
+79,Witness for the Prosecution,"Crime, Drama, Mystery",8.4,Billy Wilder,Tyrone Power,Marlene Dietrich,Charles Laughton,Elsa Lanchester
+80,Paths of Glory,"Drama, War",8.4,Stanley Kubrick,Kirk Douglas,Ralph Meeker,Adolphe Menjou,George Macready
+81,Rear Window,"Mystery, Thriller",8.4,Alfred Hitchcock,James Stewart,Grace Kelly,Wendell Corey,Thelma Ritter
+82,Sunset Blvd.,"Drama, Film-Noir",8.4,Billy Wilder,William Holden,Gloria Swanson,Erich von Stroheim,Nancy Olson
+83,The Great Dictator,"Comedy, Drama, War",8.4,Charles Chaplin,Charles Chaplin,Paulette Goddard,Jack Oakie,Reginald Gardiner
+84,1917,"Drama, Thriller, War",8.3,Sam Mendes,Dean-Charles Chapman,George MacKay,Daniel Mays,Colin Firth
+85,Tumbbad,"Drama, Fantasy, Horror",8.3,Rahi Anil Barve,Anand Gandhi,Adesh Prasad,Sohum Shah,Jyoti Malshe
+86,Andhadhun,"Crime, Drama, Music",8.3,Sriram Raghavan,Ayushmann Khurrana,Tabu,Radhika Apte,Anil Dhawan
+87,Drishyam,"Crime, Drama, Thriller",8.3,Jeethu Joseph,Mohanlal,Meena,Asha Sharath,Ansiba
+88,Jagten,Drama,8.3,Thomas Vinterberg,Mads Mikkelsen,Thomas Bo Larsen,Annika Wedderkopp,Lasse Fogelstrøm
+89,Jodaeiye Nader az Simin,Drama,8.3,Asghar Farhadi,Payman Maadi,Leila Hatami,Sareh Bayat,Shahab Hosseini
+90,Incendies,"Drama, Mystery, War",8.3,Denis Villeneuve,Lubna Azabal,Mélissa Désormeaux-Poulin,Maxim Gaudette,Mustafa Kamel
+91,Miracle in cell NO.7,Drama,8.3,Mehmet Ada Öztekin,Aras Bulut Iynemli,Nisa Sofiya Aksongur,Deniz Baysal,Celile Toyon Uysal
+92,Babam ve Oglum,"Drama, Family",8.3,Çagan Irmak,Çetin Tekindor,Fikret Kuskan,Hümeyra,Ege Tanman
+93,Inglourious Basterds,"Adventure, Drama, War",8.3,Quentin Tarantino,Brad Pitt,Diane Kruger,Eli Roth,Mélanie Laurent
+94,Eternal Sunshine of the Spotless Mind,"Drama, Romance, Sci-Fi",8.3,Michel Gondry,Jim Carrey,Kate Winslet,Tom Wilkinson,Gerry Robert Byrne
+95,Amélie,"Comedy, Romance",8.3,Jean-Pierre Jeunet,Audrey Tautou,Mathieu Kassovitz,Rufus,Lorella Cravotta
+96,Snatch,"Comedy, Crime",8.3,Guy Ritchie,Jason Statham,Brad Pitt,Benicio Del Toro,Dennis Farina
+97,Requiem for a Dream,Drama,8.3,Darren Aronofsky,Ellen Burstyn,Jared Leto,Jennifer Connelly,Marlon Wayans
+98,American Beauty,Drama,8.3,Sam Mendes,Kevin Spacey,Annette Bening,Thora Birch,Wes Bentley
+99,Good Will Hunting,"Drama, Romance",8.3,Gus Van Sant,Robin Williams,Matt Damon,Ben Affleck,Stellan Skarsgård
+100,Bacheha-Ye aseman,"Drama, Family, Sport",8.3,Majid Majidi,Mohammad Amir Naji,Amir Farrokh Hashemian,Bahare Seddiqi,Nafise Jafar-Mohammadi
+101,Toy Story,"Animation, Adventure, Comedy",8.3,John Lasseter,Tom Hanks,Tim Allen,Don Rickles,Jim Varney
+102,Braveheart,"Biography, Drama, History",8.3,Mel Gibson,Mel Gibson,Sophie Marceau,Patrick McGoohan,Angus Macfadyen
+103,Reservoir Dogs,"Crime, Drama, Thriller",8.3,Quentin Tarantino,Harvey Keitel,Tim Roth,Michael Madsen,Chris Penn
+104,Full Metal Jacket,"Drama, War",8.3,Stanley Kubrick,Matthew Modine,R. Lee Ermey,Vincent D'Onofrio,Adam Baldwin
+105,Idi i smotri,"Drama, Thriller, War",8.3,Elem Klimov,Aleksey Kravchenko,Olga Mironova,Liubomiras Laucevicius,Vladas Bagdonas
+106,Aliens,"Action, Adventure, Sci-Fi",8.3,James Cameron,Sigourney Weaver,Michael Biehn,Carrie Henn,Paul Reiser
+107,Amadeus,"Biography, Drama, History",8.3,Milos Forman,F. Murray Abraham,Tom Hulce,Elizabeth Berridge,Roy Dotrice
+108,Scarface,"Crime, Drama",8.3,Brian De Palma,Al Pacino,Michelle Pfeiffer,Steven Bauer,Mary Elizabeth Mastrantonio
+109,Star Wars: Episode VI - Return of the Jedi,"Action, Adventure, Fantasy",8.3,Richard Marquand,Mark Hamill,Harrison Ford,Carrie Fisher,Billy Dee Williams
+110,Das Boot,"Adventure, Drama, Thriller",8.3,Wolfgang Petersen,Jürgen Prochnow,Herbert Grönemeyer,Klaus Wennemann,Hubertus Bengsch
+111,Taxi Driver,"Crime, Drama",8.3,Martin Scorsese,Robert De Niro,Jodie Foster,Cybill Shepherd,Albert Brooks
+112,The Sting,"Comedy, Crime, Drama",8.3,George Roy Hill,Paul Newman,Robert Redford,Robert Shaw,Charles Durning
+113,A Clockwork Orange,"Crime, Drama, Sci-Fi",8.3,Stanley Kubrick,Malcolm McDowell,Patrick Magee,Michael Bates,Warren Clarke
+114,2001: A Space Odyssey,"Adventure, Sci-Fi",8.3,Stanley Kubrick,Keir Dullea,Gary Lockwood,William Sylvester,Daniel Richter
+115,Per qualche dollaro in più,Western,8.3,Sergio Leone,Clint Eastwood,Lee Van Cleef,Gian Maria Volontè,Mara Krupp
+116,Lawrence of Arabia,"Adventure, Biography, Drama",8.3,David Lean,Peter O'Toole,Alec Guinness,Anthony Quinn,Jack Hawkins
+117,The Apartment,"Comedy, Drama, Romance",8.3,Billy Wilder,Jack Lemmon,Shirley MacLaine,Fred MacMurray,Ray Walston
+118,North by Northwest,"Adventure, Mystery, Thriller",8.3,Alfred Hitchcock,Cary Grant,Eva Marie Saint,James Mason,Jessie Royce Landis
+119,Vertigo,"Mystery, Romance, Thriller",8.3,Alfred Hitchcock,James Stewart,Kim Novak,Barbara Bel Geddes,Tom Helmore
+120,Singin' in the Rain,"Comedy, Musical, Romance",8.3,Stanley Donen,Gene Kelly,Gene Kelly,Donald O'Connor,Debbie Reynolds
+121,Ikiru,Drama,8.3,Akira Kurosawa,Takashi Shimura,Nobuo Kaneko,Shin'ichi Himori,Haruo Tanaka
+122,Ladri di biciclette,Drama,8.3,Vittorio De Sica,Lamberto Maggiorani,Enzo Staiola,Lianella Carell,Elena Altieri
+123,Double Indemnity,"Crime, Drama, Film-Noir",8.3,Billy Wilder,Fred MacMurray,Barbara Stanwyck,Edward G. Robinson,Byron Barr
+124,Citizen Kane,"Drama, Mystery",8.3,Orson Welles,Orson Welles,Joseph Cotten,Dorothy Comingore,Agnes Moorehead
+125,M - Eine Stadt sucht einen Mörder,"Crime, Mystery, Thriller",8.3,Fritz Lang,Peter Lorre,Ellen Widmann,Inge Landgut,Otto Wernicke
+126,Metropolis,"Drama, Sci-Fi",8.3,Fritz Lang,Brigitte Helm,Alfred Abel,Gustav Fröhlich,Rudolf Klein-Rogge
+127,The Kid,"Comedy, Drama, Family",8.3,Charles Chaplin,Charles Chaplin,Edna Purviance,Jackie Coogan,Carl Miller
+128,Chhichhore,"Comedy, Drama",8.2,Nitesh Tiwari,Sushant Singh Rajput,Shraddha Kapoor,Varun Sharma,Prateik
+129,Uri: The Surgical Strike,"Action, Drama, War",8.2,Aditya Dhar,Vicky Kaushal,Paresh Rawal,Mohit Raina,Yami Gautam
+130,K.G.F: Chapter 1,"Action, Drama",8.2,Prashanth Neel,Yash,Srinidhi Shetty,Ramachandra Raju,Archana Jois
+131,Green Book,"Biography, Comedy, Drama",8.2,Peter Farrelly,Viggo Mortensen,Mahershala Ali,Linda Cardellini,Sebastian Maniscalco
+132,"Three Billboards Outside Ebbing, Missouri","Comedy, Crime, Drama",8.2,Martin McDonagh,Frances McDormand,Woody Harrelson,Sam Rockwell,Caleb Landry Jones
+133,Talvar,"Crime, Drama, Mystery",8.2,Meghna Gulzar,Irrfan Khan,Konkona Sen Sharma,Neeraj Kabi,Sohum Shah
+134,Baahubali 2: The Conclusion,"Action, Drama",8.2,S.S. Rajamouli,Prabhas,Rana Daggubati,Anushka Shetty,Tamannaah Bhatia
+135,Klaus,"Animation, Adventure, Comedy",8.2,Sergio Pablos,Carlos Martínez López,Jason Schwartzman,J.K. Simmons,Rashida Jones
+136,Drishyam,"Crime, Drama, Mystery",8.2,Nishikant Kamat,Ajay Devgn,Shriya Saran,Tabu,Rajat Kapoor
+137,Queen,"Adventure, Comedy, Drama",8.2,Vikas Bahl,Kangana Ranaut,Rajkummar Rao,Lisa Haydon,Jeffrey Ho
+138,Mandariinid,"Drama, War",8.2,Zaza Urushadze,Lembit Ulfsak,Elmo Nüganen,Giorgi Nakashidze,Misha Meskhi
+139,Bhaag Milkha Bhaag,"Biography, Drama, Sport",8.2,Rakeysh Omprakash Mehra,Farhan Akhtar,Sonam Kapoor,Pawan Malhotra,Art Malik
+140,Gangs of Wasseypur,"Action, Comedy, Crime",8.2,Anurag Kashyap,Manoj Bajpayee,Richa Chadha,Nawazuddin Siddiqui,Tigmanshu Dhulia
+141,Udaan,Drama,8.2,Vikramaditya Motwane,Rajat Barmecha,Ronit Roy,Manjot Singh,Ram Kapoor
+142,Paan Singh Tomar,"Action, Biography, Crime",8.2,Tigmanshu Dhulia,Irrfan Khan,Mahie Gill,Rajesh Abhay,Hemendra Dandotiya
+143,El secreto de sus ojos,"Drama, Mystery, Romance",8.2,Juan José Campanella,Ricardo Darín,Soledad Villamil,Pablo Rago,Carla Quevedo
+144,Warrior,"Action, Drama, Sport",8.2,Gavin O'Connor,Tom Hardy,Nick Nolte,Joel Edgerton,Jennifer Morrison
+145,Shutter Island,"Mystery, Thriller",8.2,Martin Scorsese,Leonardo DiCaprio,Emily Mortimer,Mark Ruffalo,Ben Kingsley
+146,Up,"Animation, Adventure, Comedy",8.2,Pete Docter,Bob Peterson,Edward Asner,Jordan Nagai,John Ratzenberger
+147,The Wolf of Wall Street,"Biography, Crime, Drama",8.2,Martin Scorsese,Leonardo DiCaprio,Jonah Hill,Margot Robbie,Matthew McConaughey
+148,Chak De! India,"Drama, Family, Sport",8.2,Shimit Amin,Shah Rukh Khan,Vidya Malvade,Sagarika Ghatge,Shilpa Shukla
+149,There Will Be Blood,Drama,8.2,Paul Thomas Anderson,Daniel Day-Lewis,Paul Dano,Ciarán Hinds,Martin Stringer
+150,Pan's Labyrinth,"Drama, Fantasy, War",8.2,Guillermo del Toro,Ivana Baquero,Ariadna Gil,Sergi López,Maribel Verdú
+151,Toy Story 3,"Animation, Adventure, Comedy",8.2,Lee Unkrich,Tom Hanks,Tim Allen,Joan Cusack,Ned Beatty
+152,V for Vendetta,"Action, Drama, Sci-Fi",8.2,James McTeigue,Hugo Weaving,Natalie Portman,Rupert Graves,Stephen Rea
+153,Rang De Basanti,"Comedy, Crime, Drama",8.2,Rakeysh Omprakash Mehra,Aamir Khan,Soha Ali Khan,Siddharth,Sharman Joshi
+154,Black,Drama,8.2,Sanjay Leela Bhansali,Amitabh Bachchan,Rani Mukerji,Shernaz Patel,Ayesha Kapoor
+155,Batman Begins,"Action, Adventure",8.2,Christopher Nolan,Christian Bale,Michael Caine,Ken Watanabe,Liam Neeson
+156,"Swades: We, the People",Drama,8.2,Ashutosh Gowariker,Shah Rukh Khan,Gayatri Joshi,Kishori Ballal,Smit Sheth
+157,Der Untergang,"Biography, Drama, History",8.2,Oliver Hirschbiegel,Bruno Ganz,Alexandra Maria Lara,Ulrich Matthes,Juliane Köhler
+158,Hauru no ugoku shiro,"Animation, Adventure, Family",8.2,Hayao Miyazaki,Chieko Baishô,Takuya Kimura,Tatsuya Gashûin,Akihiro Miwa
+159,A Beautiful Mind,"Biography, Drama",8.2,Ron Howard,Russell Crowe,Ed Harris,Jennifer Connelly,Christopher Plummer
+160,Hera Pheri,"Action, Comedy, Crime",8.2,Priyadarshan,Akshay Kumar,Sunil Shetty,Paresh Rawal,Tabu
+161,"Lock, Stock and Two Smoking Barrels","Action, Comedy, Crime",8.2,Guy Ritchie,Jason Flemyng,Dexter Fletcher,Nick Moran,Jason Statham
+162,L.A. Confidential,"Crime, Drama, Mystery",8.2,Curtis Hanson,Kevin Spacey,Russell Crowe,Guy Pearce,Kim Basinger
+163,Eskiya,"Crime, Drama, Thriller",8.2,Yavuz Turgul,Sener Sen,Ugur Yücel,Sermin Hürmeriç,Yesim Salkim
+164,Heat,"Crime, Drama, Thriller",8.2,Michael Mann,Al Pacino,Robert De Niro,Val Kilmer,Jon Voight
+165,Casino,"Crime, Drama",8.2,Martin Scorsese,Robert De Niro,Sharon Stone,Joe Pesci,James Woods
+166,Andaz Apna Apna,"Action, Comedy, Romance",8.2,Rajkumar Santoshi,Aamir Khan,Salman Khan,Raveena Tandon,Karisma Kapoor
+167,Unforgiven,"Drama, Western",8.2,Clint Eastwood,Clint Eastwood,Gene Hackman,Morgan Freeman,Richard Harris
+168,Indiana Jones and the Last Crusade,"Action, Adventure",8.2,Steven Spielberg,Harrison Ford,Sean Connery,Alison Doody,Denholm Elliott
+169,Dom za vesanje,"Comedy, Crime, Drama",8.2,Emir Kusturica,Davor Dujmovic,Bora Todorovic,Ljubica Adzovic,Husnija Hasimovic
+170,Tonari no Totoro,"Animation, Family, Fantasy",8.2,Hayao Miyazaki,Hitoshi Takagi,Noriko Hidaka,Chika Sakamoto,Shigesato Itoi
+171,Die Hard,"Action, Thriller",8.2,John McTiernan,Bruce Willis,Alan Rickman,Bonnie Bedelia,Reginald VelJohnson
+172,Ran,"Action, Drama, War",8.2,Akira Kurosawa,Tatsuya Nakadai,Akira Terao,Jinpachi Nezu,Daisuke Ryû
+173,Raging Bull,"Biography, Drama, Sport",8.2,Martin Scorsese,Robert De Niro,Cathy Moriarty,Joe Pesci,Frank Vincent
+174,Stalker,"Drama, Sci-Fi",8.2,Andrei Tarkovsky,Alisa Freyndlikh,Aleksandr Kaydanovskiy,Anatoliy Solonitsyn,Nikolay Grinko
+175,Höstsonaten,"Drama, Music",8.2,Ingmar Bergman,Ingrid Bergman,Liv Ullmann,Lena Nyman,Halvar Björk
+176,The Message,"Biography, Drama, History",8.2,Moustapha Akkad,Anthony Quinn,Irene Papas,Michael Ansara,Johnny Sekka
+177,Sholay,"Action, Adventure, Comedy",8.2,Ramesh Sippy,Sanjeev Kumar,Dharmendra,Amitabh Bachchan,Amjad Khan
+178,Monty Python and the Holy Grail,"Adventure, Comedy, Fantasy",8.2,Terry Gilliam,Terry Jones,Graham Chapman,John Cleese,Eric Idle
+179,The Great Escape,"Adventure, Drama, History",8.2,John Sturges,Steve McQueen,James Garner,Richard Attenborough,Charles Bronson
+180,To Kill a Mockingbird,"Crime, Drama",8.2,Robert Mulligan,Gregory Peck,John Megna,Frank Overton,Rosemary Murphy
+181,Yôjinbô,"Action, Drama, Thriller",8.2,Akira Kurosawa,Toshirô Mifune,Eijirô Tôno,Tatsuya Nakadai,Yôko Tsukasa
+182,Judgment at Nuremberg,"Drama, War",8.2,Stanley Kramer,Spencer Tracy,Burt Lancaster,Richard Widmark,Marlene Dietrich
+183,Some Like It Hot,"Comedy, Music, Romance",8.2,Billy Wilder,Marilyn Monroe,Tony Curtis,Jack Lemmon,George Raft
+184,Smultronstället,"Drama, Romance",8.2,Ingmar Bergman,Victor Sjöström,Bibi Andersson,Ingrid Thulin,Gunnar Björnstrand
+185,Det sjunde inseglet,"Drama, Fantasy, History",8.2,Ingmar Bergman,Max von Sydow,Gunnar Björnstrand,Bengt Ekerot,Nils Poppe
+186,Du rififi chez les hommes,"Crime, Drama, Thriller",8.2,Jules Dassin,Jean Servais,Carl Möhner,Robert Manuel,Janine Darcey
+187,Dial M for Murder,"Crime, Thriller",8.2,Alfred Hitchcock,Ray Milland,Grace Kelly,Robert Cummings,John Williams
+188,Tôkyô monogatari,Drama,8.2,Yasujirô Ozu,Chishû Ryû,Chieko Higashiyama,Sô Yamamura,Setsuko Hara
+189,Rashômon,"Crime, Drama, Mystery",8.2,Akira Kurosawa,Toshirô Mifune,Machiko Kyô,Masayuki Mori,Takashi Shimura
+190,All About Eve,Drama,8.2,Joseph L. Mankiewicz,Bette Davis,Anne Baxter,George Sanders,Celeste Holm
+191,The Treasure of the Sierra Madre,"Adventure, Drama, Western",8.2,John Huston,Humphrey Bogart,Walter Huston,Tim Holt,Bruce Bennett
+192,To Be or Not to Be,"Comedy, War",8.2,Ernst Lubitsch,Carole Lombard,Jack Benny,Robert Stack,Felix Bressart
+193,The Gold Rush,"Adventure, Comedy, Drama",8.2,Charles Chaplin,Charles Chaplin,Mack Swain,Tom Murray,Henry Bergman
+194,Sherlock Jr.,"Action, Comedy, Romance",8.2,Buster Keaton,Buster Keaton,Kathryn McGuire,Joe Keaton,Erwin Connelly
+195,Portrait de la jeune fille en feu,"Drama, Romance",8.1,Céline Sciamma,Noémie Merlant,Adèle Haenel,Luàna Bajrami,Valeria Golino
+196,Pink,"Drama, Thriller",8.1,Aniruddha Roy Chowdhury,Taapsee Pannu,Amitabh Bachchan,Kirti Kulhari,Andrea Tariang
+197,Koe no katachi,"Animation, Drama, Family",8.1,Naoko Yamada,Miyu Irino,Saori Hayami,Aoi Yûki,Kenshô Ono
+198,Contratiempo,"Crime, Drama, Mystery",8.1,Oriol Paulo,Mario Casas,Ana Wagener,Jose Coronado,Bárbara Lennie
+199,Ah-ga-ssi,"Drama, Romance, Thriller",8.1,Chan-wook Park,Kim Min-hee,Jung-woo Ha,Cho Jin-woong,Moon So-Ri
+200,Mommy,Drama,8.1,Xavier Dolan,Anne Dorval,Antoine Olivier Pilon,Suzanne Clément,Patrick Huard
+201,Haider,"Action, Crime, Drama",8.1,Vishal Bhardwaj,Shahid Kapoor,Tabu,Shraddha Kapoor,Kay Kay Menon
+202,Logan,"Action, Drama, Sci-Fi",8.1,James Mangold,Hugh Jackman,Patrick Stewart,Dafne Keen,Boyd Holbrook
+203,Room,"Drama, Thriller",8.1,Lenny Abrahamson,Brie Larson,Jacob Tremblay,Sean Bridgers,Wendy Crewson
+204,Relatos salvajes,"Comedy, Drama, Thriller",8.1,Damián Szifron,Darío Grandinetti,María Marull,Mónica Villa,Diego Starosta
+205,Soul,"Animation, Adventure, Comedy",8.1,Pete Docter,Kemp Powers,Jamie Foxx,Tina Fey,Graham Norton
+206,Kis Uykusu,Drama,8.1,Nuri Bilge Ceylan,Haluk Bilginer,Melisa Sözen,Demet Akbag,Ayberk Pekcan
+207,PK,"Comedy, Drama, Musical",8.1,Rajkumar Hirani,Aamir Khan,Anushka Sharma,Sanjay Dutt,Boman Irani
+208,OMG: Oh My God!,"Comedy, Drama, Fantasy",8.1,Umesh Shukla,Paresh Rawal,Akshay Kumar,Mithun Chakraborty,Mahesh Manjrekar
+209,The Grand Budapest Hotel,"Adventure, Comedy, Crime",8.1,Wes Anderson,Ralph Fiennes,F. Murray Abraham,Mathieu Amalric,Adrien Brody
+210,Gone Girl,"Drama, Mystery, Thriller",8.1,David Fincher,Ben Affleck,Rosamund Pike,Neil Patrick Harris,Tyler Perry
+211,Ôkami kodomo no Ame to Yuki,"Animation, Drama, Fantasy",8.1,Mamoru Hosoda,Aoi Miyazaki,Takao Osawa,Haru Kuroki,Yukito Nishii
+212,Hacksaw Ridge,"Biography, Drama, History",8.1,Mel Gibson,Andrew Garfield,Sam Worthington,Luke Bracey,Teresa Palmer
+213,Inside Out,"Animation, Adventure, Comedy",8.1,Pete Docter,Ronnie Del Carmen,Amy Poehler,Bill Hader,Lewis Black
+214,Barfi!,"Comedy, Drama, Romance",8.1,Anurag Basu,Ranbir Kapoor,Priyanka Chopra,Ileana D'Cruz,Saurabh Shukla
+215,12 Years a Slave,"Biography, Drama, History",8.1,Steve McQueen,Chiwetel Ejiofor,Michael Kenneth Williams,Michael Fassbender,Brad Pitt
+216,Rush,"Action, Biography, Drama",8.1,Ron Howard,Daniel Brühl,Chris Hemsworth,Olivia Wilde,Alexandra Maria Lara
+217,Ford v Ferrari,"Action, Biography, Drama",8.1,James Mangold,Matt Damon,Christian Bale,Jon Bernthal,Caitriona Balfe
+218,Spotlight,"Biography, Crime, Drama",8.1,Tom McCarthy,Mark Ruffalo,Michael Keaton,Rachel McAdams,Liev Schreiber
+219,Song of the Sea,"Animation, Adventure, Drama",8.1,Tomm Moore,David Rawle,Brendan Gleeson,Lisa Hannigan,Fionnula Flanagan
+220,Kahaani,"Mystery, Thriller",8.1,Sujoy Ghosh,Vidya Balan,Parambrata Chattopadhyay,Indraneil Sengupta,Nawazuddin Siddiqui
+221,Zindagi Na Milegi Dobara,"Comedy, Drama",8.1,Zoya Akhtar,Hrithik Roshan,Farhan Akhtar,Abhay Deol,Katrina Kaif
+222,Prisoners,"Crime, Drama, Mystery",8.1,Denis Villeneuve,Hugh Jackman,Jake Gyllenhaal,Viola Davis,Melissa Leo
+223,Mad Max: Fury Road,"Action, Adventure, Sci-Fi",8.1,George Miller,Tom Hardy,Charlize Theron,Nicholas Hoult,Zoë Kravitz
+224,A Wednesday,"Action, Crime, Drama",8.1,Neeraj Pandey,Anupam Kher,Naseeruddin Shah,Jimmy Sheirgill,Aamir Bashir
+225,Gran Torino,Drama,8.1,Clint Eastwood,Clint Eastwood,Bee Vang,Christopher Carley,Ahney Her
+226,Harry Potter and the Deathly Hallows: Part 2,"Adventure, Drama, Fantasy",8.1,David Yates,Daniel Radcliffe,Emma Watson,Rupert Grint,Michael Gambon
+227,Okuribito,"Drama, Music",8.1,Yôjirô Takita,Masahiro Motoki,Ryôko Hirosue,Tsutomu Yamazaki,Kazuko Yoshiyuki
+228,Hachi: A Dog's Tale,"Biography, Drama, Family",8.1,Lasse Hallström,Richard Gere,Joan Allen,Cary-Hiroyuki Tagawa,Sarah Roemer
+229,Mary and Max,"Animation, Comedy, Drama",8.1,Adam Elliot,Toni Collette,Philip Seymour Hoffman,Eric Bana,Barry Humphries
+230,How to Train Your Dragon,"Animation, Action, Adventure",8.1,Dean DeBlois,Chris Sanders,Jay Baruchel,Gerard Butler,Christopher Mintz-Plasse
+231,Into the Wild,"Adventure, Biography, Drama",8.1,Sean Penn,Emile Hirsch,Vince Vaughn,Catherine Keener,Marcia Gay Harden
+232,No Country for Old Men,"Crime, Drama, Thriller",8.1,Ethan Coen,Joel Coen,Tommy Lee Jones,Javier Bardem,Josh Brolin
+233,Lage Raho Munna Bhai,"Comedy, Drama, Romance",8.1,Rajkumar Hirani,Sanjay Dutt,Arshad Warsi,Vidya Balan,Boman Irani
+234,Million Dollar Baby,"Drama, Sport",8.1,Clint Eastwood,Hilary Swank,Clint Eastwood,Morgan Freeman,Jay Baruchel
+235,Hotel Rwanda,"Biography, Drama, History",8.1,Terry George,Don Cheadle,Sophie Okonedo,Joaquin Phoenix,Xolani Mali
+236,Taegukgi hwinalrimyeo,"Action, Drama, War",8.1,Je-kyu Kang,Jang Dong-Gun,Won Bin,Eun-ju Lee,Hyeong-jin Kong
+237,Before Sunset,"Drama, Romance",8.1,Richard Linklater,Ethan Hawke,Julie Delpy,Vernon Dobtcheff,Louise Lemoine Torrès
+238,Munna Bhai M.B.B.S.,"Comedy, Drama, Musical",8.1,Rajkumar Hirani,Sanjay Dutt,Arshad Warsi,Gracy Singh,Sunil Dutt
+239,Salinui chueok,"Crime, Drama, Mystery",8.1,Bong Joon Ho,Kang-ho Song,Kim Sang-kyung,Roe-ha Kim,Jae-ho Song
+240,Dil Chahta Hai,"Comedy, Drama, Romance",8.1,Farhan Akhtar,Aamir Khan,Saif Ali Khan,Akshaye Khanna,Preity Zinta
+241,Kill Bill: Vol. 1,"Action, Crime, Drama",8.1,Quentin Tarantino,Uma Thurman,David Carradine,Daryl Hannah,Michael Madsen
+242,Finding Nemo,"Animation, Adventure, Comedy",8.1,Andrew Stanton,Lee Unkrich,Albert Brooks,Ellen DeGeneres,Alexander Gould
+243,Catch Me If You Can,"Biography, Crime, Drama",8.1,Steven Spielberg,Leonardo DiCaprio,Tom Hanks,Christopher Walken,Martin Sheen
+244,Amores perros,"Drama, Thriller",8.1,Alejandro G. Iñárritu,Emilio Echevarría,Gael García Bernal,Goya Toledo,Álvaro Guerrero
+245,"Monsters, Inc.","Animation, Adventure, Comedy",8.1,Pete Docter,David Silverman,Lee Unkrich,Billy Crystal,John Goodman
+246,"Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni","Animation, Action, Drama",8.1,Hideaki Anno,Kazuya Tsurumaki,Megumi Ogata,Megumi Hayashibara,Yûko Miyamura
+247,Lagaan: Once Upon a Time in India,"Adventure, Drama, Musical",8.1,Ashutosh Gowariker,Aamir Khan,Raghuvir Yadav,Gracy Singh,Rachel Shelley
+248,The Sixth Sense,"Drama, Mystery, Thriller",8.1,M. Night Shyamalan,Bruce Willis,Haley Joel Osment,Toni Collette,Olivia Williams
+249,La leggenda del pianista sull'oceano,"Drama, Music, Romance",8.1,Giuseppe Tornatore,Tim Roth,Pruitt Taylor Vince,Mélanie Thierry,Bill Nunn
+250,The Truman Show,"Comedy, Drama",8.1,Peter Weir,Jim Carrey,Ed Harris,Laura Linney,Noah Emmerich
+251,"Crna macka, beli macor","Comedy, Crime, Romance",8.1,Emir Kusturica,Bajram Severdzan,Srdjan 'Zika' Todorovic,Branka Katic,Florijan Ajdini
+252,The Big Lebowski,"Comedy, Crime, Sport",8.1,Joel Coen,Ethan Coen,Jeff Bridges,John Goodman,Julianne Moore
+253,Fa yeung nin wah,"Drama, Romance",8.1,Kar-Wai Wong,Tony Chiu-Wai Leung,Maggie Cheung,Ping Lam Siu,Tung Cho 'Joe' Cheung
+254,Trainspotting,Drama,8.1,Danny Boyle,Ewan McGregor,Ewen Bremner,Jonny Lee Miller,Kevin McKidd
+255,Fargo,"Crime, Drama, Thriller",8.1,Joel Coen,Ethan Coen,William H. Macy,Frances McDormand,Steve Buscemi
+256,Underground,"Comedy, Drama, War",8.1,Emir Kusturica,Predrag 'Miki' Manojlovic,Lazar Ristovski,Mirjana Jokovic,Slavko Stimac
+257,La haine,"Crime, Drama",8.1,Mathieu Kassovitz,Vincent Cassel,Hubert Koundé,Saïd Taghmaoui,Abdel Ahmed Ghili
+258,Dilwale Dulhania Le Jayenge,"Drama, Romance",8.1,Aditya Chopra,Shah Rukh Khan,Kajol,Amrish Puri,Farida Jalal
+259,Before Sunrise,"Drama, Romance",8.1,Richard Linklater,Ethan Hawke,Julie Delpy,Andrea Eckert,Hanno Pöschl
+260,Trois couleurs: Rouge,"Drama, Mystery, Romance",8.1,Krzysztof Kieslowski,Irène Jacob,Jean-Louis Trintignant,Frédérique Feder,Jean-Pierre Lorit
+261,Chung Hing sam lam,"Comedy, Crime, Drama",8.1,Kar-Wai Wong,Brigitte Lin,Takeshi Kaneshiro,Tony Chiu-Wai Leung,Faye Wong
+262,Jurassic Park,"Action, Adventure, Sci-Fi",8.1,Steven Spielberg,Sam Neill,Laura Dern,Jeff Goldblum,Richard Attenborough
+263,In the Name of the Father,"Biography, Crime, Drama",8.1,Jim Sheridan,Daniel Day-Lewis,Pete Postlethwaite,Alison Crosbie,Philip King
+264,Ba wang bie ji,"Drama, Music, Romance",8.1,Kaige Chen,Leslie Cheung,Fengyi Zhang,Gong Li,You Ge
+265,Dà hóng denglong gaogao guà,"Drama, History, Romance",8.1,Yimou Zhang,Gong Li,Jingwu Ma,Saifei He,Cuifen Cao
+266,Dead Poets Society,"Comedy, Drama",8.1,Peter Weir,Robin Williams,Robert Sean Leonard,Ethan Hawke,Josh Charles
+267,Stand by Me,"Adventure, Drama",8.1,Rob Reiner,Wil Wheaton,River Phoenix,Corey Feldman,Jerry O'Connell
+268,Platoon,"Drama, War",8.1,Oliver Stone,Charlie Sheen,Tom Berenger,Willem Dafoe,Keith David
+269,"Paris, Texas",Drama,8.1,Wim Wenders,Harry Dean Stanton,Nastassja Kinski,Dean Stockwell,Aurore Clément
+270,Kaze no tani no Naushika,"Animation, Adventure, Fantasy",8.1,Hayao Miyazaki,Sumi Shimamoto,Mahito Tsujimura,Hisako Kyôda,Gorô Naya
+271,The Thing,"Horror, Mystery, Sci-Fi",8.1,John Carpenter,Kurt Russell,Wilford Brimley,Keith David,Richard Masur
+272,Pink Floyd: The Wall,"Drama, Fantasy, Music",8.1,Alan Parker,Bob Geldof,Christine Hargreaves,James Laurenson,Eleanor David
+273,Fitzcarraldo,"Adventure, Drama",8.1,Werner Herzog,Klaus Kinski,Claudia Cardinale,José Lewgoy,Miguel Ángel Fuentes
+274,Fanny och Alexander,Drama,8.1,Ingmar Bergman,Bertil Guve,Pernilla Allwin,Kristina Adolphson,Börje Ahlstedt
+275,Blade Runner,"Action, Sci-Fi, Thriller",8.1,Ridley Scott,Harrison Ford,Rutger Hauer,Sean Young,Edward James Olmos
+276,The Elephant Man,"Biography, Drama",8.1,David Lynch,Anthony Hopkins,John Hurt,Anne Bancroft,John Gielgud
+277,Life of Brian,Comedy,8.1,Terry Jones,Graham Chapman,John Cleese,Michael Palin,Terry Gilliam
+278,The Deer Hunter,"Drama, War",8.1,Michael Cimino,Robert De Niro,Christopher Walken,John Cazale,John Savage
+279,Rocky,"Drama, Sport",8.1,John G. Avildsen,Sylvester Stallone,Talia Shire,Burt Young,Carl Weathers
+280,Network,Drama,8.1,Sidney Lumet,Faye Dunaway,William Holden,Peter Finch,Robert Duvall
+281,Barry Lyndon,"Adventure, Drama, History",8.1,Stanley Kubrick,Ryan O'Neal,Marisa Berenson,Patrick Magee,Hardy Krüger
+282,Zerkalo,"Biography, Drama",8.1,Andrei Tarkovsky,Margarita Terekhova,Filipp Yankovskiy,Ignat Daniltsev,Oleg Yankovskiy
+283,Chinatown,"Drama, Mystery, Thriller",8.1,Roman Polanski,Jack Nicholson,Faye Dunaway,John Huston,Perry Lopez
+284,Paper Moon,"Comedy, Crime, Drama",8.1,Peter Bogdanovich,Ryan O'Neal,Tatum O'Neal,Madeline Kahn,John Hillerman
+285,Viskningar och rop,Drama,8.1,Ingmar Bergman,Harriet Andersson,Liv Ullmann,Kari Sylwan,Ingrid Thulin
+286,Solaris,"Drama, Mystery, Sci-Fi",8.1,Andrei Tarkovsky,Natalya Bondarchuk,Donatas Banionis,Jüri Järvet,Vladislav Dvorzhetskiy
+287,Le samouraï,"Crime, Drama, Mystery",8.1,Jean-Pierre Melville,Alain Delon,François Périer,Nathalie Delon,Cathy Rosier
+288,Cool Hand Luke,"Crime, Drama",8.1,Stuart Rosenberg,Paul Newman,George Kennedy,Strother Martin,J.D. Cannon
+289,Persona,"Drama, Thriller",8.1,Ingmar Bergman,Bibi Andersson,Liv Ullmann,Margaretha Krook,Gunnar Björnstrand
+290,Andrei Rublev,"Biography, Drama, History",8.1,Andrei Tarkovsky,Anatoliy Solonitsyn,Ivan Lapikov,Nikolay Grinko,Nikolay Sergeev
+291,La battaglia di Algeri,"Drama, War",8.1,Gillo Pontecorvo,Brahim Hadjadj,Jean Martin,Yacef Saadi,Samia Kerbash
+292,El ángel exterminador,"Drama, Fantasy",8.1,Luis Buñuel,Silvia Pinal,Jacqueline Andere,Enrique Rambal,José Baviera
+293,What Ever Happened to Baby Jane?,"Drama, Horror, Thriller",8.1,Robert Aldrich,Bette Davis,Joan Crawford,Victor Buono,Wesley Addy
+294,Sanjuro,"Action, Comedy, Crime",8.1,Akira Kurosawa,Toshirô Mifune,Tatsuya Nakadai,Keiju Kobayashi,Yûnosuke Itô
+295,The Man Who Shot Liberty Valance,"Drama, Western",8.1,John Ford,James Stewart,John Wayne,Vera Miles,Lee Marvin
+296,Ivanovo detstvo,"Drama, War",8.1,Andrei Tarkovsky,Eduard Abalov,Nikolay Burlyaev,Valentin Zubkov,Evgeniy Zharikov
+297,Jungfrukällan,Drama,8.1,Ingmar Bergman,Max von Sydow,Birgitta Valberg,Gunnel Lindblom,Birgitta Pettersson
+298,Inherit the Wind,"Biography, Drama, History",8.1,Stanley Kramer,Spencer Tracy,Fredric March,Gene Kelly,Dick York
+299,Les quatre cents coups,"Crime, Drama",8.1,François Truffaut,Jean-Pierre Léaud,Albert Rémy,Claire Maurier,Guy Decomble
+300,Ben-Hur,"Adventure, Drama, History",8.1,William Wyler,Charlton Heston,Jack Hawkins,Stephen Boyd,Haya Harareet
+301,Kakushi-toride no san-akunin,"Adventure, Drama",8.1,Akira Kurosawa,Toshirô Mifune,Misa Uehara,Minoru Chiaki,Kamatari Fujiwara
+302,Le notti di Cabiria,Drama,8.1,Federico Fellini,Giulietta Masina,François Périer,Franca Marzi,Dorian Gray
+303,Kumonosu-jô,"Drama, History",8.1,Akira Kurosawa,Toshirô Mifune,Minoru Chiaki,Isuzu Yamada,Takashi Shimura
+304,The Bridge on the River Kwai,"Adventure, Drama, War",8.1,David Lean,William Holden,Alec Guinness,Jack Hawkins,Sessue Hayakawa
+305,On the Waterfront,"Crime, Drama, Thriller",8.1,Elia Kazan,Marlon Brando,Karl Malden,Lee J. Cobb,Rod Steiger
+306,Le salaire de la peur,"Adventure, Drama, Thriller",8.1,Henri-Georges Clouzot,Yves Montand,Charles Vanel,Peter van Eyck,Folco Lulli
+307,Ace in the Hole,"Drama, Film-Noir",8.1,Billy Wilder,Kirk Douglas,Jan Sterling,Robert Arthur,Porter Hall
+308,White Heat,"Action, Crime, Drama",8.1,Raoul Walsh,James Cagney,Virginia Mayo,Edmond O'Brien,Margaret Wycherly
+309,The Third Man,"Film-Noir, Mystery, Thriller",8.1,Carol Reed,Orson Welles,Joseph Cotten,Alida Valli,Trevor Howard
+310,The Red Shoes,"Drama, Music, Romance",8.1,Michael Powell,Emeric Pressburger,Anton Walbrook,Marius Goring,Moira Shearer
+311,The Shop Around the Corner,"Comedy, Drama, Romance",8.1,Ernst Lubitsch,Margaret Sullavan,James Stewart,Frank Morgan,Joseph Schildkraut
+312,Rebecca,"Drama, Mystery, Romance",8.1,Alfred Hitchcock,Laurence Olivier,Joan Fontaine,George Sanders,Judith Anderson
+313,Mr. Smith Goes to Washington,"Comedy, Drama",8.1,Frank Capra,James Stewart,Jean Arthur,Claude Rains,Edward Arnold
+314,Gone with the Wind,"Drama, History, Romance",8.1,Victor Fleming,George Cukor,Sam Wood,Clark Gable,Vivien Leigh
+315,La Grande Illusion,"Drama, War",8.1,Jean Renoir,Jean Gabin,Dita Parlo,Pierre Fresnay,Erich von Stroheim
+316,It Happened One Night,"Comedy, Romance",8.1,Frank Capra,Clark Gable,Claudette Colbert,Walter Connolly,Roscoe Karns
+317,La passion de Jeanne d'Arc,"Biography, Drama, History",8.1,Carl Theodor Dreyer,Maria Falconetti,Eugene Silvain,André Berley,Maurice Schutz
+318,The Circus,"Comedy, Romance",8.1,Charles Chaplin,Charles Chaplin,Merna Kennedy,Al Ernest Garcia,Harry Crocker
+319,Sunrise: A Song of Two Humans,"Drama, Romance",8.1,F.W. Murnau,George O'Brien,Janet Gaynor,Margaret Livingston,Bodil Rosing
+320,The General,"Action, Adventure, Comedy",8.1,Clyde Bruckman,Buster Keaton,Buster Keaton,Marion Mack,Glen Cavender
+321,Das Cabinet des Dr. Caligari,"Fantasy, Horror, Mystery",8.1,Robert Wiene,Werner Krauss,Conrad Veidt,Friedrich Feher,Lil Dagover
+322,Badhaai ho,"Comedy, Drama",8.0,Amit Ravindernath Sharma,Ayushmann Khurrana,Neena Gupta,Gajraj Rao,Sanya Malhotra
+323,Togo,"Adventure, Biography, Drama",8.0,Ericson Core,Willem Dafoe,Julianne Nicholson,Christopher Heyerdahl,Richard Dormer
+324,Airlift,"Drama, History",8.0,Raja Menon,Akshay Kumar,Nimrat Kaur,Kumud Mishra,Prakash Belawadi
+325,Bajrangi Bhaijaan,"Action, Adventure, Comedy",8.0,Kabir Khan,Salman Khan,Harshaali Malhotra,Nawazuddin Siddiqui,Kareena Kapoor
+326,Baby,"Action, Crime, Thriller",8.0,Neeraj Pandey,Akshay Kumar,Danny Denzongpa,Rana Daggubati,Taapsee Pannu
+327,La La Land,"Comedy, Drama, Music",8.0,Damien Chazelle,Ryan Gosling,Emma Stone,Rosemarie DeWitt,J.K. Simmons
+328,Lion,"Biography, Drama",8.0,Garth Davis,Dev Patel,Nicole Kidman,Rooney Mara,Sunny Pawar
+329,The Martian,"Adventure, Drama, Sci-Fi",8.0,Ridley Scott,Matt Damon,Jessica Chastain,Kristen Wiig,Kate Mara
+330,Zootopia,"Animation, Adventure, Comedy",8.0,Byron Howard,Rich Moore,Jared Bush,Ginnifer Goodwin,Jason Bateman
+331,Bãhubali: The Beginning,"Action, Drama",8.0,S.S. Rajamouli,Prabhas,Rana Daggubati,Ramya Krishnan,Sathyaraj
+332,Kaguyahime no monogatari,"Animation, Adventure, Drama",8.0,Isao Takahata,Chloë Grace Moretz,James Caan,Mary Steenburgen,James Marsden
+333,Wonder,"Drama, Family",8.0,Stephen Chbosky,Jacob Tremblay,Owen Wilson,Izabela Vidovic,Julia Roberts
+334,Gully Boy,"Drama, Music, Romance",8.0,Zoya Akhtar,Vijay Varma,Nakul Roshan Sahdev,Ranveer Singh,Vijay Raaz
+335,Special Chabbis,"Crime, Drama, Thriller",8.0,Neeraj Pandey,Akshay Kumar,Anupam Kher,Manoj Bajpayee,Jimmy Sheirgill
+336,Short Term 12,Drama,8.0,Destin Daniel Cretton,Brie Larson,Frantz Turner,John Gallagher Jr.,Kaitlyn Dever
+337,Serbuan maut 2: Berandal,"Action, Crime, Thriller",8.0,Gareth Evans,Iko Uwais,Yayan Ruhian,Arifin Putra,Oka Antara
+338,The Imitation Game,"Biography, Drama, Thriller",8.0,Morten Tyldum,Benedict Cumberbatch,Keira Knightley,Matthew Goode,Allen Leech
+339,Guardians of the Galaxy,"Action, Adventure, Comedy",8.0,James Gunn,Chris Pratt,Vin Diesel,Bradley Cooper,Zoe Saldana
+340,Blade Runner 2049,"Action, Drama, Mystery",8.0,Denis Villeneuve,Harrison Ford,Ryan Gosling,Ana de Armas,Dave Bautista
+341,Her,"Drama, Romance, Sci-Fi",8.0,Spike Jonze,Joaquin Phoenix,Amy Adams,Scarlett Johansson,Rooney Mara
+342,Bohemian Rhapsody,"Biography, Drama, Music",8.0,Bryan Singer,Rami Malek,Lucy Boynton,Gwilym Lee,Ben Hardy
+343,The Revenant,"Action, Adventure, Drama",8.0,Alejandro G. Iñárritu,Leonardo DiCaprio,Tom Hardy,Will Poulter,Domhnall Gleeson
+344,The Perks of Being a Wallflower,"Drama, Romance",8.0,Stephen Chbosky,Logan Lerman,Emma Watson,Ezra Miller,Paul Rudd
+345,Tropa de Elite 2: O Inimigo Agora é Outro,"Action, Crime, Drama",8.0,José Padilha,Wagner Moura,Irandhir Santos,André Ramiro,Milhem Cortaz
+346,The King's Speech,"Biography, Drama, History",8.0,Tom Hooper,Colin Firth,Geoffrey Rush,Helena Bonham Carter,Derek Jacobi
+347,The Help,Drama,8.0,Tate Taylor,Emma Stone,Viola Davis,Octavia Spencer,Bryce Dallas Howard
+348,Deadpool,"Action, Adventure, Comedy",8.0,Tim Miller,Ryan Reynolds,Morena Baccarin,T.J. Miller,Ed Skrein
+349,Darbareye Elly,"Drama, Mystery",8.0,Asghar Farhadi,Golshifteh Farahani,Shahab Hosseini,Taraneh Alidoosti,Merila Zare'i
+350,Dev.D,"Drama, Romance",8.0,Anurag Kashyap,Abhay Deol,Mahie Gill,Kalki Koechlin,Dibyendu Bhattacharya
+351,Yip Man,"Action, Biography, Drama",8.0,Wilson Yip,Donnie Yen,Simon Yam,Siu-Wong Fan,Ka Tung Lam
+352,My Name Is Khan,Drama,8.0,Karan Johar,Shah Rukh Khan,Kajol,Sheetal Menon,Katie A. Keane
+353,Nefes: Vatan Sagolsun,"Action, Drama, Thriller",8.0,Levent Semerci,Erdem Can,Mete Horozoglu,Ilker Kizmaz,Baris Bagci
+354,Slumdog Millionaire,"Drama, Romance",8.0,Danny Boyle,Loveleen Tandan,Dev Patel,Freida Pinto,Saurabh Shukla
+355,Black Swan,"Drama, Thriller",8.0,Darren Aronofsky,Natalie Portman,Mila Kunis,Vincent Cassel,Winona Ryder
+356,Tropa de Elite,"Action, Crime, Drama",8.0,José Padilha,Wagner Moura,André Ramiro,Caio Junqueira,Milhem Cortaz
+357,The Avengers,"Action, Adventure, Sci-Fi",8.0,Joss Whedon,Robert Downey Jr.,Chris Evans,Scarlett Johansson,Jeremy Renner
+358,Persepolis,"Animation, Biography, Drama",8.0,Vincent Paronnaud,Marjane Satrapi,Chiara Mastroianni,Catherine Deneuve,Gena Rowlands
+359,Dallas Buyers Club,"Biography, Drama",8.0,Jean-Marc Vallée,Matthew McConaughey,Jennifer Garner,Jared Leto,Steve Zahn
+360,The Pursuit of Happyness,"Biography, Drama",8.0,Gabriele Muccino,Will Smith,Thandie Newton,Jaden Smith,Brian Howe
+361,Blood Diamond,"Adventure, Drama, Thriller",8.0,Edward Zwick,Leonardo DiCaprio,Djimon Hounsou,Jennifer Connelly,Kagiso Kuypers
+362,The Bourne Ultimatum,"Action, Mystery, Thriller",8.0,Paul Greengrass,Matt Damon,Edgar Ramírez,Joan Allen,Julia Stiles
+363,Bin-jip,"Crime, Drama, Romance",8.0,Ki-duk Kim,Seung-Yun Lee,Hee Jae,Hyuk-ho Kwon,Jin-mo Joo
+364,Sin City,"Crime, Thriller",8.0,Frank Miller,Quentin Tarantino,Robert Rodriguez,Mickey Rourke,Clive Owen
+365,Le scaphandre et le papillon,"Biography, Drama",8.0,Julian Schnabel,Laura Obiols,Mathieu Amalric,Emmanuelle Seigner,Marie-Josée Croze
+366,G.O.R.A.,"Adventure, Comedy, Sci-Fi",8.0,Ömer Faruk Sorak,Cem Yilmaz,Özge Özberk,Ozan Güven,Safak Sezer
+367,Ratatouille,"Animation, Adventure, Comedy",8.0,Brad Bird,Jan Pinkava,Brad Garrett,Lou Romano,Patton Oswalt
+368,Casino Royale,"Action, Adventure, Thriller",8.0,Martin Campbell,Daniel Craig,Eva Green,Judi Dench,Jeffrey Wright
+369,Kill Bill: Vol. 2,"Action, Crime, Thriller",8.0,Quentin Tarantino,Uma Thurman,David Carradine,Michael Madsen,Daryl Hannah
+370,Vozvrashchenie,Drama,8.0,Andrey Zvyagintsev,Vladimir Garin,Ivan Dobronravov,Konstantin Lavronenko,Nataliya Vdovina
+371,Bom Yeoareum Gaeul Gyeoul Geurigo Bom,"Drama, Romance",8.0,Ki-duk Kim,Ki-duk Kim,Yeong-su Oh,Jong-ho Kim,Kim Young-Min
+372,Mar adentro,"Biography, Drama",8.0,Alejandro Amenábar,Javier Bardem,Belén Rueda,Lola Dueñas,Mabel Rivera
+373,Cinderella Man,"Biography, Drama, History",8.0,Ron Howard,Russell Crowe,Renée Zellweger,Craig Bierko,Paul Giamatti
+374,Kal Ho Naa Ho,"Comedy, Drama, Musical",8.0,Nikkhil Advani,Preity Zinta,Shah Rukh Khan,Saif Ali Khan,Jaya Bachchan
+375,Mou gaan dou,"Action, Crime, Drama",8.0,Andrew Lau,Alan Mak,Andy Lau,Tony Chiu-Wai Leung,Anthony Chau-Sang Wong
+376,Pirates of the Caribbean: The Curse of the Black Pearl,"Action, Adventure, Fantasy",8.0,Gore Verbinski,Johnny Depp,Geoffrey Rush,Orlando Bloom,Keira Knightley
+377,Big Fish,"Adventure, Drama, Fantasy",8.0,Tim Burton,Ewan McGregor,Albert Finney,Billy Crudup,Jessica Lange
+378,The Incredibles,"Animation, Action, Adventure",8.0,Brad Bird,Craig T. Nelson,Samuel L. Jackson,Holly Hunter,Jason Lee
+379,Yeopgijeogin geunyeo,"Comedy, Drama, Romance",8.0,Jae-young Kwak,Tae-Hyun Cha,Jun Ji-Hyun,In-mun Kim,Song Wok-suk
+380,Dogville,"Crime, Drama",8.0,Lars von Trier,Nicole Kidman,Paul Bettany,Lauren Bacall,Harriet Andersson
+381,Vizontele,"Comedy, Drama",8.0,Yilmaz Erdogan,Ömer Faruk Sorak,Yilmaz Erdogan,Demet Akbag,Altan Erkekli
+382,Donnie Darko,"Drama, Mystery, Sci-Fi",8.0,Richard Kelly,Jake Gyllenhaal,Jena Malone,Mary McDonnell,Holmes Osborne
+383,Magnolia,Drama,8.0,Paul Thomas Anderson,Tom Cruise,Jason Robards,Julianne Moore,Philip Seymour Hoffman
+384,Dancer in the Dark,"Crime, Drama, Musical",8.0,Lars von Trier,Björk,Catherine Deneuve,David Morse,Peter Stormare
+385,The Straight Story,"Biography, Drama",8.0,David Lynch,Richard Farnsworth,Sissy Spacek,Jane Galloway Heitz,Joseph A. Carpenter
+386,Pâfekuto burû,"Animation, Crime, Mystery",8.0,Satoshi Kon,Junko Iwao,Rica Matsumoto,Shinpachi Tsuji,Masaaki Ôkura
+387,Festen,Drama,8.0,Thomas Vinterberg,Ulrich Thomsen,Henning Moritzen,Thomas Bo Larsen,Paprika Steen
+388,Central do Brasil,Drama,8.0,Walter Salles,Fernanda Montenegro,Vinícius de Oliveira,Marília Pêra,Soia Lira
+389,The Iron Giant,"Animation, Action, Adventure",8.0,Brad Bird,Eli Marienthal,Harry Connick Jr.,Jennifer Aniston,Vin Diesel
+390,Knockin' on Heaven's Door,"Action, Crime, Comedy",8.0,Thomas Jahn,Til Schweiger,Jan Josef Liefers,Thierry van Werveke,Moritz Bleibtreu
+391,Sling Blade,Drama,8.0,Billy Bob Thornton,Billy Bob Thornton,Dwight Yoakam,J.T. Walsh,John Ritter
+392,Secrets & Lies,"Comedy, Drama",8.0,Mike Leigh,Timothy Spall,Brenda Blethyn,Phyllis Logan,Claire Rushbrook
+393,Twelve Monkeys,"Mystery, Sci-Fi, Thriller",8.0,Terry Gilliam,Bruce Willis,Madeleine Stowe,Brad Pitt,Joseph Melito
+394,Kôkaku Kidôtai,"Animation, Action, Crime",8.0,Mamoru Oshii,Atsuko Tanaka,Iemasa Kayumi,Akio Ôtsuka,Kôichi Yamadera
+395,The Nightmare Before Christmas,"Animation, Family, Fantasy",8.0,Henry Selick,Danny Elfman,Chris Sarandon,Catherine O'Hara,William Hickey
+396,Groundhog Day,"Comedy, Fantasy, Romance",8.0,Harold Ramis,Bill Murray,Andie MacDowell,Chris Elliott,Stephen Tobolowsky
+397,Bound by Honor,"Crime, Drama",8.0,Taylor Hackford,Damian Chapa,Jesse Borrego,Benjamin Bratt,Enrique Castillo
+398,Scent of a Woman,Drama,8.0,Martin Brest,Al Pacino,Chris O'Donnell,James Rebhorn,Gabrielle Anwar
+399,Aladdin,"Animation, Adventure, Comedy",8.0,Ron Clements,John Musker,Scott Weinger,Robin Williams,Linda Larkin
+400,JFK,"Drama, History, Thriller",8.0,Oliver Stone,Kevin Costner,Gary Oldman,Jack Lemmon,Walter Matthau
+401,Beauty and the Beast,"Animation, Family, Fantasy",8.0,Gary Trousdale,Kirk Wise,Paige O'Hara,Robby Benson,Jesse Corti
+402,Dances with Wolves,"Adventure, Drama, Western",8.0,Kevin Costner,Kevin Costner,Mary McDonnell,Graham Greene,Rodney A. Grant
+403,Do the Right Thing,"Comedy, Drama",8.0,Spike Lee,Danny Aiello,Ossie Davis,Ruby Dee,Richard Edson
+404,Rain Man,Drama,8.0,Barry Levinson,Dustin Hoffman,Tom Cruise,Valeria Golino,Gerald R. Molen
+405,Akira,"Animation, Action, Sci-Fi",8.0,Katsuhiro Ôtomo,Mitsuo Iwata,Nozomu Sasaki,Mami Koyama,Tesshô Genda
+406,The Princess Bride,"Adventure, Family, Fantasy",8.0,Rob Reiner,Cary Elwes,Mandy Patinkin,Robin Wright,Chris Sarandon
+407,Der Himmel über Berlin,"Drama, Fantasy, Romance",8.0,Wim Wenders,Bruno Ganz,Solveig Dommartin,Otto Sander,Curt Bois
+408,Au revoir les enfants,"Drama, War",8.0,Louis Malle,Gaspard Manesse,Raphael Fejtö,Francine Racette,Stanislas Carré de Malberg
+409,Tenkû no shiro Rapyuta,"Animation, Adventure, Drama",8.0,Hayao Miyazaki,Mayumi Tanaka,Keiko Yokozawa,Kotoe Hatsui,Minori Terada
+410,The Terminator,"Action, Sci-Fi",8.0,James Cameron,Arnold Schwarzenegger,Linda Hamilton,Michael Biehn,Paul Winfield
+411,Gandhi,"Biography, Drama, History",8.0,Richard Attenborough,Ben Kingsley,John Gielgud,Rohini Hattangadi,Roshan Seth
+412,Kagemusha,"Drama, History, War",8.0,Akira Kurosawa,Tatsuya Nakadai,Tsutomu Yamazaki,Ken'ichi Hagiwara,Jinpachi Nezu
+413,Being There,"Comedy, Drama",8.0,Hal Ashby,Peter Sellers,Shirley MacLaine,Melvyn Douglas,Jack Warden
+414,Annie Hall,"Comedy, Romance",8.0,Woody Allen,Woody Allen,Diane Keaton,Tony Roberts,Carol Kane
+415,Jaws,"Adventure, Thriller",8.0,Steven Spielberg,Roy Scheider,Robert Shaw,Richard Dreyfuss,Lorraine Gary
+416,Dog Day Afternoon,"Biography, Crime, Drama",8.0,Sidney Lumet,Al Pacino,John Cazale,Penelope Allen,Sully Boyar
+417,Young Frankenstein,Comedy,8.0,Mel Brooks,Gene Wilder,Madeline Kahn,Marty Feldman,Peter Boyle
+418,Papillon,"Biography, Crime, Drama",8.0,Franklin J. Schaffner,Steve McQueen,Dustin Hoffman,Victor Jory,Don Gordon
+419,The Exorcist,Horror,8.0,William Friedkin,Ellen Burstyn,Max von Sydow,Linda Blair,Lee J. Cobb
+420,Sleuth,"Mystery, Thriller",8.0,Joseph L. Mankiewicz,Laurence Olivier,Michael Caine,Alec Cawthorne,John Matthews
+421,The Last Picture Show,"Drama, Romance",8.0,Peter Bogdanovich,Timothy Bottoms,Jeff Bridges,Cybill Shepherd,Ben Johnson
+422,Fiddler on the Roof,"Drama, Family, Musical",8.0,Norman Jewison,Topol,Norma Crane,Leonard Frey,Molly Picon
+423,Il conformista,Drama,8.0,Bernardo Bertolucci,Jean-Louis Trintignant,Stefania Sandrelli,Gastone Moschin,Enzo Tarascio
+424,Butch Cassidy and the Sundance Kid,"Biography, Crime, Drama",8.0,George Roy Hill,Paul Newman,Robert Redford,Katharine Ross,Strother Martin
+425,Rosemary's Baby,"Drama, Horror",8.0,Roman Polanski,Mia Farrow,John Cassavetes,Ruth Gordon,Sidney Blackmer
+426,Planet of the Apes,"Adventure, Sci-Fi",8.0,Franklin J. Schaffner,Charlton Heston,Roddy McDowall,Kim Hunter,Maurice Evans
+427,The Graduate,"Comedy, Drama, Romance",8.0,Mike Nichols,Dustin Hoffman,Anne Bancroft,Katharine Ross,William Daniels
+428,Who's Afraid of Virginia Woolf?,Drama,8.0,Mike Nichols,Elizabeth Taylor,Richard Burton,George Segal,Sandy Dennis
+429,The Sound of Music,"Biography, Drama, Family",8.0,Robert Wise,Julie Andrews,Christopher Plummer,Eleanor Parker,Richard Haydn
+430,Doctor Zhivago,"Drama, Romance, War",8.0,David Lean,Omar Sharif,Julie Christie,Geraldine Chaplin,Rod Steiger
+431,Per un pugno di dollari,"Action, Drama, Western",8.0,Sergio Leone,Clint Eastwood,Gian Maria Volontè,Marianne Koch,Wolfgang Lukschy
+432,8½,Drama,8.0,Federico Fellini,Marcello Mastroianni,Anouk Aimée,Claudia Cardinale,Sandra Milo
+433,Vivre sa vie: Film en douze tableaux,Drama,8.0,Jean-Luc Godard,Anna Karina,Sady Rebbot,André S. Labarthe,Guylaine Schlumberger
+434,The Hustler,"Drama, Sport",8.0,Robert Rossen,Paul Newman,Jackie Gleason,Piper Laurie,George C. Scott
+435,La dolce vita,"Comedy, Drama",8.0,Federico Fellini,Marcello Mastroianni,Anita Ekberg,Anouk Aimée,Yvonne Furneaux
+436,Rio Bravo,"Action, Drama, Western",8.0,Howard Hawks,John Wayne,Dean Martin,Ricky Nelson,Angie Dickinson
+437,Anatomy of a Murder,"Crime, Drama, Mystery",8.0,Otto Preminger,James Stewart,Lee Remick,Ben Gazzara,Arthur O'Connell
+438,Touch of Evil,"Crime, Drama, Film-Noir",8.0,Orson Welles,Charlton Heston,Orson Welles,Janet Leigh,Joseph Calleia
+439,Cat on a Hot Tin Roof,Drama,8.0,Richard Brooks,Elizabeth Taylor,Paul Newman,Burl Ives,Jack Carson
+440,Sweet Smell of Success,"Drama, Film-Noir",8.0,Alexander Mackendrick,Burt Lancaster,Tony Curtis,Susan Harrison,Martin Milner
+441,The Killing,"Crime, Drama, Film-Noir",8.0,Stanley Kubrick,Sterling Hayden,Coleen Gray,Vince Edwards,Jay C. Flippen
+442,The Night of the Hunter,"Crime, Drama, Film-Noir",8.0,Charles Laughton,Robert Mitchum,Shelley Winters,Lillian Gish,James Gleason
+443,La Strada,Drama,8.0,Federico Fellini,Anthony Quinn,Giulietta Masina,Richard Basehart,Aldo Silvani
+444,Les diaboliques,"Crime, Drama, Horror",8.0,Henri-Georges Clouzot,Simone Signoret,Véra Clouzot,Paul Meurisse,Charles Vanel
+445,Stalag 17,"Comedy, Drama, War",8.0,Billy Wilder,William Holden,Don Taylor,Otto Preminger,Robert Strauss
+446,Roman Holiday,"Comedy, Romance",8.0,William Wyler,Gregory Peck,Audrey Hepburn,Eddie Albert,Hartley Power
+447,A Streetcar Named Desire,Drama,8.0,Elia Kazan,Vivien Leigh,Marlon Brando,Kim Hunter,Karl Malden
+448,In a Lonely Place,"Drama, Film-Noir, Mystery",8.0,Nicholas Ray,Humphrey Bogart,Gloria Grahame,Frank Lovejoy,Carl Benton Reid
+449,Kind Hearts and Coronets,"Comedy, Crime",8.0,Robert Hamer,Dennis Price,Alec Guinness,Valerie Hobson,Joan Greenwood
+450,Rope,"Crime, Drama, Mystery",8.0,Alfred Hitchcock,James Stewart,John Dall,Farley Granger,Dick Hogan
+451,Out of the Past,"Crime, Drama, Film-Noir",8.0,Jacques Tourneur,Robert Mitchum,Jane Greer,Kirk Douglas,Rhonda Fleming
+452,Brief Encounter,"Drama, Romance",8.0,David Lean,Celia Johnson,Trevor Howard,Stanley Holloway,Joyce Carey
+453,Laura,"Drama, Film-Noir, Mystery",8.0,Otto Preminger,Gene Tierney,Dana Andrews,Clifton Webb,Vincent Price
+454,The Best Years of Our Lives,"Drama, Romance, War",8.0,William Wyler,Myrna Loy,Dana Andrews,Fredric March,Teresa Wright
+455,Arsenic and Old Lace,"Comedy, Crime, Thriller",8.0,Frank Capra,Cary Grant,Priscilla Lane,Raymond Massey,Jack Carson
+456,The Maltese Falcon,"Film-Noir, Mystery",8.0,John Huston,Humphrey Bogart,Mary Astor,Gladys George,Peter Lorre
+457,The Grapes of Wrath,"Drama, History",8.0,John Ford,Henry Fonda,Jane Darwell,John Carradine,Charley Grapewin
+458,The Wizard of Oz,"Adventure, Family, Fantasy",8.0,Victor Fleming,George Cukor,Mervyn LeRoy,Norman Taurog,Richard Thorpe
+459,La règle du jeu,"Comedy, Drama",8.0,Jean Renoir,Marcel Dalio,Nora Gregor,Paulette Dubost,Mila Parély
+460,The Thin Man,"Comedy, Crime, Mystery",8.0,W.S. Van Dyke,William Powell,Myrna Loy,Maureen O'Sullivan,Nat Pendleton
+461,All Quiet on the Western Front,"Drama, War",8.0,Lewis Milestone,Lew Ayres,Louis Wolheim,John Wray,Arnold Lucy
+462,Bronenosets Potemkin,"Drama, History, Thriller",8.0,Sergei M. Eisenstein,Aleksandr Antonov,Vladimir Barskiy,Grigoriy Aleksandrov,Ivan Bobrov
+463,Knives Out,"Comedy, Crime, Drama",7.9,Rian Johnson,Daniel Craig,Chris Evans,Ana de Armas,Jamie Lee Curtis
+464,Dil Bechara,"Comedy, Drama, Romance",7.9,Mukesh Chhabra,Sushant Singh Rajput,Sanjana Sanghi,Sahil Vaid,Saswata Chatterjee
+465,Manbiki kazoku,"Crime, Drama",7.9,Hirokazu Koreeda,Lily Franky,Sakura Andô,Kirin Kiki,Mayu Matsuoka
+466,Marriage Story,"Comedy, Drama, Romance",7.9,Noah Baumbach,Adam Driver,Scarlett Johansson,Julia Greer,Azhy Robertson
+467,Call Me by Your Name,"Drama, Romance",7.9,Luca Guadagnino,Armie Hammer,Timothée Chalamet,Michael Stuhlbarg,Amira Casar
+468,"I, Daniel Blake",Drama,7.9,Ken Loach,Laura Obiols,Dave Johns,Hayley Squires,Sharon Percy
+469,Isle of Dogs,"Animation, Adventure, Comedy",7.9,Wes Anderson,Bryan Cranston,Koyu Rankin,Edward Norton,Bob Balaban
+470,Hunt for the Wilderpeople,"Adventure, Comedy, Drama",7.9,Taika Waititi,Sam Neill,Julian Dennison,Rima Te Wiata,Rachel House
+471,Captain Fantastic,"Comedy, Drama",7.9,Matt Ross,Viggo Mortensen,George MacKay,Samantha Isler,Annalise Basso
+472,Sing Street,"Comedy, Drama, Music",7.9,John Carney,Ferdia Walsh-Peelo,Aidan Gillen,Maria Doyle Kennedy,Jack Reynor
+473,Thor: Ragnarok,"Action, Adventure, Comedy",7.9,Taika Waititi,Chris Hemsworth,Tom Hiddleston,Cate Blanchett,Mark Ruffalo
+474,Nightcrawler,"Crime, Drama, Thriller",7.9,Dan Gilroy,Jake Gyllenhaal,Rene Russo,Bill Paxton,Riz Ahmed
+475,Jojo Rabbit,"Comedy, Drama, War",7.9,Taika Waititi,Roman Griffin Davis,Thomasin McKenzie,Scarlett Johansson,Taika Waititi
+476,Arrival,"Drama, Sci-Fi",7.9,Denis Villeneuve,Amy Adams,Jeremy Renner,Forest Whitaker,Michael Stuhlbarg
+477,Star Wars: Episode VII - The Force Awakens,"Action, Adventure, Sci-Fi",7.9,J.J. Abrams,Daisy Ridley,John Boyega,Oscar Isaac,Domhnall Gleeson
+478,Before Midnight,"Drama, Romance",7.9,Richard Linklater,Ethan Hawke,Julie Delpy,Seamus Davey-Fitzpatrick,Ariane Labed
+479,X-Men: Days of Future Past,"Action, Adventure, Sci-Fi",7.9,Bryan Singer,Patrick Stewart,Ian McKellen,Hugh Jackman,James McAvoy
+480,Bir Zamanlar Anadolu'da,"Crime, Drama",7.9,Nuri Bilge Ceylan,Muhammet Uzuner,Yilmaz Erdogan,Taner Birsel,Ahmet Mümtaz Taylan
+481,The Artist,"Comedy, Drama, Romance",7.9,Michel Hazanavicius,Jean Dujardin,Bérénice Bejo,John Goodman,James Cromwell
+482,Edge of Tomorrow,"Action, Adventure, Sci-Fi",7.9,Doug Liman,Tom Cruise,Emily Blunt,Bill Paxton,Brendan Gleeson
+483,Amour,"Drama, Romance",7.9,Michael Haneke,Jean-Louis Trintignant,Emmanuelle Riva,Isabelle Huppert,Alexandre Tharaud
+484,The Irishman,"Biography, Crime, Drama",7.9,Martin Scorsese,Robert De Niro,Al Pacino,Joe Pesci,Harvey Keitel
+485,Un prophète,"Crime, Drama",7.9,Jacques Audiard,Tahar Rahim,Niels Arestrup,Adel Bencherif,Reda Kateb
+486,Moon,"Drama, Mystery, Sci-Fi",7.9,Duncan Jones,Sam Rockwell,Kevin Spacey,Dominique McElligott,Rosie Shaw
+487,Låt den rätte komma in,"Crime, Drama, Fantasy",7.9,Tomas Alfredson,Kåre Hedebrant,Lina Leandersson,Per Ragnar,Henrik Dahl
+488,District 9,"Action, Sci-Fi, Thriller",7.9,Neill Blomkamp,Sharlto Copley,David James,Jason Cope,Nathalie Boltt
+489,The Wrestler,"Drama, Sport",7.9,Darren Aronofsky,Mickey Rourke,Marisa Tomei,Evan Rachel Wood,Mark Margolis
+490,Jab We Met,"Comedy, Drama, Romance",7.9,Imtiaz Ali,Shahid Kapoor,Kareena Kapoor,Tarun Arora,Dara Singh
+491,Boyhood,Drama,7.9,Richard Linklater,Ellar Coltrane,Patricia Arquette,Ethan Hawke,Elijah Smith
+492,"4 luni, 3 saptamâni si 2 zile",Drama,7.9,Cristian Mungiu,Anamaria Marinca,Laura Vasiliu,Vlad Ivanov,Alexandru Potocean
+493,Star Trek,"Action, Adventure, Sci-Fi",7.9,J.J. Abrams,Chris Pine,Zachary Quinto,Simon Pegg,Leonard Nimoy
+494,In Bruges,"Comedy, Crime, Drama",7.9,Martin McDonagh,Colin Farrell,Brendan Gleeson,Ciarán Hinds,Elizabeth Berrington
+495,The Man from Earth,"Drama, Fantasy, Mystery",7.9,Richard Schenkman,David Lee Smith,Tony Todd,John Billingsley,Ellen Crawford
+496,Letters from Iwo Jima,"Action, Adventure, Drama",7.9,Clint Eastwood,Ken Watanabe,Kazunari Ninomiya,Tsuyoshi Ihara,Ryô Kase
+497,The Fall,"Adventure, Drama, Fantasy",7.9,Tarsem Singh,Lee Pace,Catinca Untaru,Justine Waddell,Kim Uylenbroek
+498,Life of Pi,"Adventure, Drama, Fantasy",7.9,Ang Lee,Suraj Sharma,Irrfan Khan,Adil Hussain,Tabu
+499,Fantastic Mr. Fox,"Animation, Adventure, Comedy",7.9,Wes Anderson,George Clooney,Meryl Streep,Bill Murray,Jason Schwartzman
+500,C.R.A.Z.Y.,"Comedy, Drama",7.9,Jean-Marc Vallée,Michel Côté,Marc-André Grondin,Danielle Proulx,Émile Vallée
+501,Les choristes,"Drama, Music",7.9,Christophe Barratier,Gérard Jugnot,François Berléand,Jean-Baptiste Maunier,Kad Merad
+502,Iron Man,"Action, Adventure, Sci-Fi",7.9,Jon Favreau,Robert Downey Jr.,Gwyneth Paltrow,Terrence Howard,Jeff Bridges
+503,Shaun of the Dead,"Comedy, Horror",7.9,Edgar Wright,Simon Pegg,Nick Frost,Kate Ashfield,Lucy Davis
+504,Gegen die Wand,"Drama, Romance",7.9,Fatih Akin,Birol Ünel,Sibel Kekilli,Güven Kiraç,Zarah Jane McKenzie
+505,Mystic River,"Crime, Drama, Mystery",7.9,Clint Eastwood,Sean Penn,Tim Robbins,Kevin Bacon,Emmy Rossum
+506,Harry Potter and the Prisoner of Azkaban,"Adventure, Family, Fantasy",7.9,Alfonso Cuarón,Daniel Radcliffe,Emma Watson,Rupert Grint,Richard Griffiths
+507,Ying xiong,"Action, Adventure, History",7.9,Yimou Zhang,Jet Li,Tony Chiu-Wai Leung,Maggie Cheung,Ziyi Zhang
+508,Hable con ella,"Drama, Mystery, Romance",7.9,Pedro Almodóvar,Rosario Flores,Javier Cámara,Darío Grandinetti,Leonor Watling
+509,No Man's Land,"Comedy, Drama, War",7.9,Danis Tanovic,Branko Djuric,Rene Bitorajac,Filip Sovagovic,Georges Siatidis
+510,Cowboy Bebop: Tengoku no tobira,"Animation, Action, Crime",7.9,Shin'ichirô Watanabe,Tensai Okamura,Hiroyuki Okiura,Yoshiyuki Takei,Beau Billingslea
+511,The Bourne Identity,"Action, Mystery, Thriller",7.9,Doug Liman,Franka Potente,Matt Damon,Chris Cooper,Clive Owen
+512,Nueve reinas,"Crime, Drama, Thriller",7.9,Fabián Bielinsky,Ricardo Darín,Gastón Pauls,Graciela Tenenbaum,María Mercedes Villagra
+513,Children of Men,"Adventure, Drama, Sci-Fi",7.9,Alfonso Cuarón,Julianne Moore,Clive Owen,Chiwetel Ejiofor,Michael Caine
+514,Almost Famous,"Adventure, Comedy, Drama",7.9,Cameron Crowe,Billy Crudup,Patrick Fugit,Kate Hudson,Frances McDormand
+515,Mulholland Dr.,"Drama, Mystery, Thriller",7.9,David Lynch,Naomi Watts,Laura Harring,Justin Theroux,Jeanne Bates
+516,Toy Story 2,"Animation, Adventure, Comedy",7.9,John Lasseter,Ash Brannon,Lee Unkrich,Tom Hanks,Tim Allen
+517,Boogie Nights,Drama,7.9,Paul Thomas Anderson,Mark Wahlberg,Julianne Moore,Burt Reynolds,Luis Guzmán
+518,Mimi wo sumaseba,"Animation, Drama, Family",7.9,Yoshifumi Kondô,Yoko Honna,Issey Takahashi,Takashi Tachibana,Shigeru Muroi
+519,Once Were Warriors,"Crime, Drama",7.9,Lee Tamahori,Rena Owen,Temuera Morrison,Mamaengaroa Kerr-Bell,Julian Arahanga
+520,True Romance,"Crime, Drama, Romance",7.9,Tony Scott,Christian Slater,Patricia Arquette,Dennis Hopper,Val Kilmer
+521,Trois couleurs: Bleu,"Drama, Music, Mystery",7.9,Krzysztof Kieslowski,Juliette Binoche,Zbigniew Zamachowski,Julie Delpy,Benoît Régent
+522,Jûbê ninpûchô,"Animation, Action, Adventure",7.9,Yoshiaki Kawajiri,Kôichi Yamadera,Emi Shinohara,Takeshi Aono,Osamu Saka
+523,Carlito's Way,"Crime, Drama, Thriller",7.9,Brian De Palma,Al Pacino,Sean Penn,Penelope Ann Miller,John Leguizamo
+524,Edward Scissorhands,"Drama, Fantasy, Romance",7.9,Tim Burton,Johnny Depp,Winona Ryder,Dianne Wiest,Anthony Michael Hall
+525,My Left Foot: The Story of Christy Brown,"Biography, Drama",7.9,Jim Sheridan,Daniel Day-Lewis,Brenda Fricker,Alison Whelan,Kirsten Sheridan
+526,Crimes and Misdemeanors,"Comedy, Drama",7.9,Woody Allen,Martin Landau,Woody Allen,Bill Bernstein,Claire Bloom
+527,The Untouchables,"Crime, Drama, Thriller",7.9,Brian De Palma,Kevin Costner,Sean Connery,Robert De Niro,Charles Martin Smith
+528,Hannah and Her Sisters,"Comedy, Drama",7.9,Woody Allen,Mia Farrow,Dianne Wiest,Michael Caine,Barbara Hershey
+529,Brazil,"Drama, Sci-Fi",7.9,Terry Gilliam,Jonathan Pryce,Kim Greist,Robert De Niro,Katherine Helmond
+530,This Is Spinal Tap,"Comedy, Music",7.9,Rob Reiner,Rob Reiner,Michael McKean,Christopher Guest,Kimberly Stringer
+531,A Christmas Story,"Comedy, Family",7.9,Bob Clark,Peter Billingsley,Melinda Dillon,Darren McGavin,Scott Schwartz
+532,The Blues Brothers,"Action, Adventure, Comedy",7.9,John Landis,John Belushi,Dan Aykroyd,Cab Calloway,John Candy
+533,Manhattan,"Comedy, Drama, Romance",7.9,Woody Allen,Woody Allen,Diane Keaton,Mariel Hemingway,Michael Murphy
+534,All That Jazz,"Drama, Music, Musical",7.9,Bob Fosse,Roy Scheider,Jessica Lange,Ann Reinking,Leland Palmer
+535,Dawn of the Dead,"Action, Adventure, Horror",7.9,George A. Romero,David Emge,Ken Foree,Scott H. Reiniger,Gaylen Ross
+536,All the President's Men,"Biography, Drama, History",7.9,Alan J. Pakula,Dustin Hoffman,Robert Redford,Jack Warden,Martin Balsam
+537,La montaña sagrada,"Adventure, Drama, Fantasy",7.9,Alejandro Jodorowsky,Alejandro Jodorowsky,Horacio Salinas,Zamira Saunders,Juan Ferrara
+538,Amarcord,"Comedy, Drama, Family",7.9,Federico Fellini,Magali Noël,Bruno Zanin,Pupella Maggio,Armando Brancia
+539,Le charme discret de la bourgeoisie,Comedy,7.9,Luis Buñuel,Fernando Rey,Delphine Seyrig,Paul Frankeur,Bulle Ogier
+540,"Aguirre, der Zorn Gottes","Action, Adventure, Biography",7.9,Werner Herzog,Klaus Kinski,Ruy Guerra,Helena Rojo,Del Negro
+541,Harold and Maude,"Comedy, Drama, Romance",7.9,Hal Ashby,Ruth Gordon,Bud Cort,Vivian Pickles,Cyril Cusack
+542,Patton,"Biography, Drama, War",7.9,Franklin J. Schaffner,George C. Scott,Karl Malden,Stephen Young,Michael Strong
+543,The Wild Bunch,"Action, Adventure, Western",7.9,Sam Peckinpah,William Holden,Ernest Borgnine,Robert Ryan,Edmond O'Brien
+544,Night of the Living Dead,"Horror, Thriller",7.9,George A. Romero,Duane Jones,Judith O'Dea,Karl Hardman,Marilyn Eastman
+545,The Lion in Winter,"Biography, Drama, History",7.9,Anthony Harvey,Peter O'Toole,Katharine Hepburn,Anthony Hopkins,John Castle
+546,In the Heat of the Night,"Crime, Drama, Mystery",7.9,Norman Jewison,Sidney Poitier,Rod Steiger,Warren Oates,Lee Grant
+547,Charade,"Comedy, Mystery, Romance",7.9,Stanley Donen,Cary Grant,Audrey Hepburn,Walter Matthau,James Coburn
+548,The Manchurian Candidate,"Drama, Thriller",7.9,John Frankenheimer,Frank Sinatra,Laurence Harvey,Janet Leigh,Angela Lansbury
+549,Spartacus,"Adventure, Biography, Drama",7.9,Stanley Kubrick,Kirk Douglas,Laurence Olivier,Jean Simmons,Charles Laughton
+550,L'avventura,"Drama, Mystery",7.9,Michelangelo Antonioni,Gabriele Ferzetti,Monica Vitti,Lea Massari,Dominique Blanchar
+551,Hiroshima mon amour,"Drama, Romance",7.9,Alain Resnais,Emmanuelle Riva,Eiji Okada,Stella Dassas,Pierre Barbaud
+552,The Ten Commandments,"Adventure, Drama",7.9,Cecil B. DeMille,Charlton Heston,Yul Brynner,Anne Baxter,Edward G. Robinson
+553,The Searchers,"Adventure, Drama, Western",7.9,John Ford,John Wayne,Jeffrey Hunter,Vera Miles,Ward Bond
+554,East of Eden,Drama,7.9,Elia Kazan,James Dean,Raymond Massey,Julie Harris,Burl Ives
+555,High Noon,"Drama, Thriller, Western",7.9,Fred Zinnemann,Gary Cooper,Grace Kelly,Thomas Mitchell,Lloyd Bridges
+556,Strangers on a Train,"Crime, Film-Noir, Thriller",7.9,Alfred Hitchcock,Farley Granger,Robert Walker,Ruth Roman,Leo G. Carroll
+557,Harvey,"Comedy, Drama, Fantasy",7.9,Henry Koster,James Stewart,Wallace Ford,William H. Lynn,Victoria Horne
+558,Miracle on 34th Street,"Comedy, Drama, Family",7.9,George Seaton,Edmund Gwenn,Maureen O'Hara,John Payne,Gene Lockhart
+559,Notorious,"Drama, Film-Noir, Romance",7.9,Alfred Hitchcock,Cary Grant,Ingrid Bergman,Claude Rains,Louis Calhern
+560,The Big Sleep,"Crime, Film-Noir, Mystery",7.9,Howard Hawks,Humphrey Bogart,Lauren Bacall,John Ridgely,Martha Vickers
+561,The Lost Weekend,"Drama, Film-Noir",7.9,Billy Wilder,Ray Milland,Jane Wyman,Phillip Terry,Howard Da Silva
+562,The Philadelphia Story,"Comedy, Romance",7.9,George Cukor,Cary Grant,Katharine Hepburn,James Stewart,Ruth Hussey
+563,His Girl Friday,"Comedy, Drama, Romance",7.9,Howard Hawks,Cary Grant,Rosalind Russell,Ralph Bellamy,Gene Lockhart
+564,The Adventures of Robin Hood,"Action, Adventure, Romance",7.9,Michael Curtiz,William Keighley,Errol Flynn,Olivia de Havilland,Basil Rathbone
+565,A Night at the Opera,"Comedy, Music, Musical",7.9,Sam Wood,Edmund Goulding,Groucho Marx,Chico Marx,Harpo Marx
+566,King Kong,"Adventure, Horror, Sci-Fi",7.9,Merian C. Cooper,Ernest B. Schoedsack,Fay Wray,Robert Armstrong,Bruce Cabot
+567,Freaks,"Drama, Horror",7.9,Tod Browning,Wallace Ford,Leila Hyams,Olga Baclanova,Roscoe Ates
+568,Nosferatu,"Fantasy, Horror",7.9,F.W. Murnau,Max Schreck,Alexander Granach,Gustav von Wangenheim,Greta Schröder
+569,The Gentlemen,"Action, Comedy, Crime",7.8,Guy Ritchie,Matthew McConaughey,Charlie Hunnam,Michelle Dockery,Jeremy Strong
+570,Raazi,"Action, Drama, Thriller",7.8,Meghna Gulzar,Alia Bhatt,Vicky Kaushal,Rajit Kapoor,Shishir Sharma
+571,Sound of Metal,"Drama, Music",7.8,Darius Marder,Riz Ahmed,Olivia Cooke,Paul Raci,Lauren Ridloff
+572,Forushande,Drama,7.8,Asghar Farhadi,Shahab Hosseini,Taraneh Alidoosti,Babak Karimi,Mina Sadati
+573,Dunkirk,"Action, Drama, History",7.8,Christopher Nolan,Fionn Whitehead,Barry Keoghan,Mark Rylance,Tom Hardy
+574,Perfetti sconosciuti,"Comedy, Drama",7.8,Paolo Genovese,Giuseppe Battiston,Anna Foglietta,Marco Giallini,Edoardo Leo
+575,Hidden Figures,"Biography, Drama, History",7.8,Theodore Melfi,Taraji P. Henson,Octavia Spencer,Janelle Monáe,Kevin Costner
+576,Paddington 2,"Adventure, Comedy, Family",7.8,Paul King,Ben Whishaw,Hugh Grant,Hugh Bonneville,Sally Hawkins
+577,Udta Punjab,"Action, Crime, Drama",7.8,Abhishek Chaubey,Shahid Kapoor,Alia Bhatt,Kareena Kapoor,Diljit Dosanjh
+578,Kubo and the Two Strings,"Animation, Action, Adventure",7.8,Travis Knight,Charlize Theron,Art Parkinson,Matthew McConaughey,Ralph Fiennes
+579,M.S. Dhoni: The Untold Story,"Biography, Drama, Sport",7.8,Neeraj Pandey,Sushant Singh Rajput,Kiara Advani,Anupam Kher,Disha Patani
+580,Manchester by the Sea,Drama,7.8,Kenneth Lonergan,Casey Affleck,Michelle Williams,Kyle Chandler,Lucas Hedges
+581,Under sandet,"Drama, History, War",7.8,Martin Zandvliet,Roland Møller,Louis Hofmann,Joel Basman,Mikkel Boe Følsgaard
+582,Rogue One,"Action, Adventure, Sci-Fi",7.8,Gareth Edwards,Felicity Jones,Diego Luna,Alan Tudyk,Donnie Yen
+583,Captain America: Civil War,"Action, Adventure, Sci-Fi",7.8,Anthony Russo,Joe Russo,Chris Evans,Robert Downey Jr.,Scarlett Johansson
+584,The Hateful Eight,"Crime, Drama, Mystery",7.8,Quentin Tarantino,Samuel L. Jackson,Kurt Russell,Jennifer Jason Leigh,Walton Goggins
+585,Little Women,"Drama, Romance",7.8,Greta Gerwig,Saoirse Ronan,Emma Watson,Florence Pugh,Eliza Scanlen
+586,Loving Vincent,"Animation, Biography, Crime",7.8,Dorota Kobiela,Hugh Welchman,Douglas Booth,Jerome Flynn,Robert Gulaczyk
+587,Pride,"Biography, Comedy, Drama",7.8,Matthew Warchus,Bill Nighy,Imelda Staunton,Dominic West,Paddy Considine
+588,Le passé,"Drama, Mystery",7.8,Asghar Farhadi,Bérénice Bejo,Tahar Rahim,Ali Mosaffa,Pauline Burlet
+589,La grande bellezza,Drama,7.8,Paolo Sorrentino,Toni Servillo,Carlo Verdone,Sabrina Ferilli,Carlo Buccirosso
+590,The Lunchbox,"Drama, Romance",7.8,Ritesh Batra,Irrfan Khan,Nimrat Kaur,Nawazuddin Siddiqui,Lillete Dubey
+591,Vicky Donor,"Comedy, Romance",7.8,Shoojit Sircar,Ayushmann Khurrana,Yami Gautam,Annu Kapoor,Dolly Ahluwalia
+592,Big Hero 6,"Animation, Action, Adventure",7.8,Don Hall,Chris Williams,Ryan Potter,Scott Adsit,Jamie Chung
+593,About Time,"Comedy, Drama, Fantasy",7.8,Richard Curtis,Domhnall Gleeson,Rachel McAdams,Bill Nighy,Lydia Wilson
+594,English Vinglish,"Comedy, Drama, Family",7.8,Gauri Shinde,Sridevi,Adil Hussain,Mehdi Nebbou,Priya Anand
+595,Kaze tachinu,"Animation, Biography, Drama",7.8,Hayao Miyazaki,Hideaki Anno,Hidetoshi Nishijima,Miori Takimoto,Masahiko Nishimura
+596,Toy Story 4,"Animation, Adventure, Comedy",7.8,Josh Cooley,Tom Hanks,Tim Allen,Annie Potts,Tony Hale
+597,La migliore offerta,"Crime, Drama, Mystery",7.8,Giuseppe Tornatore,Geoffrey Rush,Jim Sturgess,Sylvia Hoeks,Donald Sutherland
+598,Moonrise Kingdom,"Comedy, Drama, Romance",7.8,Wes Anderson,Jared Gilman,Kara Hayward,Bruce Willis,Bill Murray
+599,How to Train Your Dragon 2,"Animation, Action, Adventure",7.8,Dean DeBlois,Jay Baruchel,Cate Blanchett,Gerard Butler,Craig Ferguson
+600,The Big Short,"Biography, Comedy, Drama",7.8,Adam McKay,Christian Bale,Steve Carell,Ryan Gosling,Brad Pitt
+601,Kokuhaku,"Drama, Thriller",7.8,Tetsuya Nakashima,Takako Matsu,Yoshino Kimura,Masaki Okada,Yukito Nishii
+602,Ang-ma-reul bo-at-da,"Action, Crime, Drama",7.8,Jee-woon Kim,Lee Byung-Hun,Choi Min-sik,Jeon Gook-Hwan,Ho-jin Chun
+603,The Girl with the Dragon Tattoo,"Crime, Drama, Mystery",7.8,David Fincher,Daniel Craig,Rooney Mara,Christopher Plummer,Stellan Skarsgård
+604,Captain Phillips,"Adventure, Biography, Crime",7.8,Paul Greengrass,Tom Hanks,Barkhad Abdi,Barkhad Abdirahman,Catherine Keener
+605,Ajeossi,"Action, Crime, Drama",7.8,Jeong-beom Lee,Won Bin,Sae-ron Kim,Tae-hoon Kim,Hee-won Kim
+606,Straight Outta Compton,"Biography, Drama, History",7.8,F. Gary Gray,O'Shea Jackson Jr.,Corey Hawkins,Jason Mitchell,Neil Brown Jr.
+607,Madeo,"Crime, Drama, Mystery",7.8,Bong Joon Ho,Hye-ja Kim,Won Bin,Jin Goo,Je-mun Yun
+608,Chugyeokja,"Action, Crime, Thriller",7.8,Hong-jin Na,Kim Yoon-seok,Jung-woo Ha,Yeong-hie Seo,Yoo-Jeong Kim
+609,The Hobbit: The Desolation of Smaug,"Adventure, Fantasy",7.8,Peter Jackson,Ian McKellen,Martin Freeman,Richard Armitage,Ken Stott
+610,Das weiße Band - Eine deutsche Kindergeschichte,"Drama, History, Mystery",7.8,Michael Haneke,Christian Friedel,Ernst Jacobi,Leonie Benesch,Ulrich Tukur
+611,Män som hatar kvinnor,"Crime, Drama, Mystery",7.8,Niels Arden Oplev,Michael Nyqvist,Noomi Rapace,Ewa Fröling,Lena Endre
+612,The Trial of the Chicago 7,"Drama, History, Thriller",7.8,Aaron Sorkin,Eddie Redmayne,Alex Sharp,Sacha Baron Cohen,Jeremy Strong
+613,Druk,"Comedy, Drama",7.8,Thomas Vinterberg,Mads Mikkelsen,Thomas Bo Larsen,Magnus Millang,Lars Ranthe
+614,The Fighter,"Biography, Drama, Sport",7.8,David O. Russell,Mark Wahlberg,Christian Bale,Amy Adams,Melissa Leo
+615,Taken,"Action, Thriller",7.8,Pierre Morel,Liam Neeson,Maggie Grace,Famke Janssen,Leland Orser
+616,The Boy in the Striped Pyjamas,"Drama, History, War",7.8,Mark Herman,Asa Butterfield,David Thewlis,Rupert Friend,Zac Mattoon O'Brien
+617,Once,"Drama, Music, Romance",7.8,John Carney,Glen Hansard,Markéta Irglová,Hugh Walsh,Gerard Hendrick
+618,The Hobbit: An Unexpected Journey,"Adventure, Fantasy",7.8,Peter Jackson,Martin Freeman,Ian McKellen,Richard Armitage,Andy Serkis
+619,Auf der anderen Seite,Drama,7.8,Fatih Akin,Baki Davrak,Nurgül Yesilçay,Tuncel Kurtiz,Nursel Köse
+620,Atonement,"Drama, Mystery, Romance",7.8,Joe Wright,Keira Knightley,James McAvoy,Brenda Blethyn,Saoirse Ronan
+621,Drive,"Crime, Drama",7.8,Nicolas Winding Refn,Ryan Gosling,Carey Mulligan,Bryan Cranston,Albert Brooks
+622,American Gangster,"Biography, Crime, Drama",7.8,Ridley Scott,Denzel Washington,Russell Crowe,Chiwetel Ejiofor,Josh Brolin
+623,Avatar,"Action, Adventure, Fantasy",7.8,James Cameron,Sam Worthington,Zoe Saldana,Sigourney Weaver,Michelle Rodriguez
+624,Mr. Nobody,"Drama, Fantasy, Romance",7.8,Jaco Van Dormael,Jared Leto,Sarah Polley,Diane Kruger,Linh Dan Pham
+625,Apocalypto,"Action, Adventure, Drama",7.8,Mel Gibson,Gerardo Taracena,Raoul Max Trujillo,Dalia Hernández,Rudy Youngblood
+626,Little Miss Sunshine,"Comedy, Drama",7.8,Jonathan Dayton,Valerie Faris,Steve Carell,Toni Collette,Greg Kinnear
+627,Hot Fuzz,"Action, Comedy, Mystery",7.8,Edgar Wright,Simon Pegg,Nick Frost,Martin Freeman,Bill Nighy
+628,The Curious Case of Benjamin Button,"Drama, Fantasy, Romance",7.8,David Fincher,Brad Pitt,Cate Blanchett,Tilda Swinton,Julia Ormond
+629,Veer-Zaara,"Drama, Family, Musical",7.8,Yash Chopra,Shah Rukh Khan,Preity Zinta,Rani Mukerji,Kirron Kher
+630,Adams æbler,"Comedy, Crime, Drama",7.8,Anders Thomas Jensen,Ulrich Thomsen,Mads Mikkelsen,Nicolas Bro,Paprika Steen
+631,Pride & Prejudice,"Drama, Romance",7.8,Joe Wright,Keira Knightley,Matthew Macfadyen,Brenda Blethyn,Donald Sutherland
+632,The World's Fastest Indian,"Biography, Drama, Sport",7.8,Roger Donaldson,Anthony Hopkins,Diane Ladd,Iain Rea,Tessa Mitchell
+633,Tôkyô goddofâzâzu,"Animation, Adventure, Comedy",7.8,Satoshi Kon,Shôgo Furuya,Tôru Emori,Yoshiaki Umegaki,Aya Okamoto
+634,Serenity,"Action, Adventure, Sci-Fi",7.8,Joss Whedon,Nathan Fillion,Gina Torres,Chiwetel Ejiofor,Alan Tudyk
+635,Walk the Line,"Biography, Drama, Music",7.8,James Mangold,Joaquin Phoenix,Reese Witherspoon,Ginnifer Goodwin,Robert Patrick
+636,Ondskan,Drama,7.8,Mikael Håfström,Andreas Wilson,Henrik Lundström,Gustaf Skarsgård,Linda Zilliacus
+637,The Notebook,"Drama, Romance",7.8,Nick Cassavetes,Gena Rowlands,James Garner,Rachel McAdams,Ryan Gosling
+638,Diarios de motocicleta,"Adventure, Biography, Drama",7.8,Walter Salles,Gael García Bernal,Rodrigo De la Serna,Mía Maestro,Mercedes Morán
+639,Lilja 4-ever,"Crime, Drama",7.8,Lukas Moodysson,Oksana Akinshina,Artyom Bogucharskiy,Pavel Ponomaryov,Lyubov Agapova
+640,Les triplettes de Belleville,"Animation, Comedy, Drama",7.8,Sylvain Chomet,Michèle Caucheteux,Jean-Claude Donda,Michel Robin,Monica Viegas
+641,Gongdong gyeongbi guyeok JSA,"Action, Drama, Thriller",7.8,Chan-wook Park,Lee Yeong-ae,Lee Byung-Hun,Kang-ho Song,Kim Tae-Woo
+642,The Count of Monte Cristo,"Action, Adventure, Drama",7.8,Kevin Reynolds,Jim Caviezel,Guy Pearce,Christopher Adamson,JB Blanc
+643,Waking Life,"Animation, Drama, Fantasy",7.8,Richard Linklater,Ethan Hawke,Trevor Jack Brooks,Lorelei Linklater,Wiley Wiggins
+644,Remember the Titans,"Biography, Drama, Sport",7.8,Boaz Yakin,Denzel Washington,Will Patton,Wood Harris,Ryan Hurst
+645,Wo hu cang long,"Action, Adventure, Fantasy",7.8,Ang Lee,Yun-Fat Chow,Michelle Yeoh,Ziyi Zhang,Chen Chang
+646,Todo sobre mi madre,Drama,7.8,Pedro Almodóvar,Cecilia Roth,Marisa Paredes,Candela Peña,Antonia San Juan
+647,Cast Away,"Adventure, Drama, Romance",7.8,Robert Zemeckis,Tom Hanks,Helen Hunt,Paul Sanchez,Lari White
+648,The Boondock Saints,"Action, Crime, Thriller",7.8,Troy Duffy,Willem Dafoe,Sean Patrick Flanery,Norman Reedus,David Della Rocco
+649,The Insider,"Biography, Drama, Thriller",7.8,Michael Mann,Russell Crowe,Al Pacino,Christopher Plummer,Diane Venora
+650,October Sky,"Biography, Drama, Family",7.8,Joe Johnston,Jake Gyllenhaal,Chris Cooper,Laura Dern,Chris Owen
+651,Shrek,"Animation, Adventure, Comedy",7.8,Andrew Adamson,Vicky Jenson,Mike Myers,Eddie Murphy,Cameron Diaz
+652,Titanic,"Drama, Romance",7.8,James Cameron,Leonardo DiCaprio,Kate Winslet,Billy Zane,Kathy Bates
+653,Hana-bi,"Crime, Drama, Romance",7.8,Takeshi Kitano,Takeshi Kitano,Kayoko Kishimoto,Ren Osugi,Susumu Terajima
+654,Gattaca,"Drama, Sci-Fi, Thriller",7.8,Andrew Niccol,Ethan Hawke,Uma Thurman,Jude Law,Gore Vidal
+655,The Game,"Action, Drama, Mystery",7.8,David Fincher,Michael Douglas,Deborah Kara Unger,Sean Penn,James Rebhorn
+656,Breaking the Waves,Drama,7.8,Lars von Trier,Emily Watson,Stellan Skarsgård,Katrin Cartlidge,Jean-Marc Barr
+657,Ed Wood,"Biography, Comedy, Drama",7.8,Tim Burton,Johnny Depp,Martin Landau,Sarah Jessica Parker,Patricia Arquette
+658,What's Eating Gilbert Grape,Drama,7.8,Lasse Hallström,Johnny Depp,Leonardo DiCaprio,Juliette Lewis,Mary Steenburgen
+659,Tombstone,"Action, Biography, Drama",7.8,George P. Cosmatos,Kevin Jarre,Kurt Russell,Val Kilmer,Sam Elliott
+660,The Sandlot,"Comedy, Drama, Family",7.8,David Mickey Evans,Tom Guiry,Mike Vitar,Art LaFleur,Patrick Renna
+661,The Remains of the Day,"Drama, Romance",7.8,James Ivory,Anthony Hopkins,Emma Thompson,John Haycraft,Christopher Reeve
+662,Naked,"Comedy, Drama",7.8,Mike Leigh,David Thewlis,Lesley Sharp,Katrin Cartlidge,Greg Cruttwell
+663,The Fugitive,"Action, Crime, Drama",7.8,Andrew Davis,Harrison Ford,Tommy Lee Jones,Sela Ward,Julianne Moore
+664,A Bronx Tale,"Crime, Drama, Romance",7.8,Robert De Niro,Robert De Niro,Chazz Palminteri,Lillo Brancato,Francis Capra
+665,Batman: Mask of the Phantasm,"Animation, Action, Crime",7.8,Kevin Altieri,Boyd Kirkland,Frank Paur,Dan Riba,Eric Radomski
+666,Lat sau san taam,"Action, Crime, Thriller",7.8,John Woo,Yun-Fat Chow,Tony Chiu-Wai Leung,Teresa Mo,Philip Chan
+667,Night on Earth,"Comedy, Drama",7.8,Jim Jarmusch,Winona Ryder,Gena Rowlands,Lisanne Falk,Alan Randolph Scott
+668,La double vie de Véronique,"Drama, Fantasy, Music",7.8,Krzysztof Kieslowski,Irène Jacob,Wladyslaw Kowalski,Halina Gryglaszewska,Kalina Jedrusik
+669,Boyz n the Hood,"Crime, Drama",7.8,John Singleton,Cuba Gooding Jr.,Laurence Fishburne,Hudhail Al-Amir,Lloyd Avery II
+670,Misery,"Drama, Thriller",7.8,Rob Reiner,James Caan,Kathy Bates,Richard Farnsworth,Frances Sternhagen
+671,Awakenings,"Biography, Drama",7.8,Penny Marshall,Robert De Niro,Robin Williams,Julie Kavner,Ruth Nelson
+672,Majo no takkyûbin,"Animation, Adventure, Drama",7.8,Hayao Miyazaki,Kirsten Dunst,Minami Takayama,Rei Sakuma,Kappei Yamaguchi
+673,Glory,"Biography, Drama, History",7.8,Edward Zwick,Matthew Broderick,Denzel Washington,Cary Elwes,Morgan Freeman
+674,Dip huet seung hung,"Action, Crime, Drama",7.8,John Woo,Yun-Fat Chow,Danny Lee,Sally Yeh,Kong Chu
+675,Back to the Future Part II,"Adventure, Comedy, Sci-Fi",7.8,Robert Zemeckis,Michael J. Fox,Christopher Lloyd,Lea Thompson,Thomas F. Wilson
+676,Mississippi Burning,"Crime, Drama, History",7.8,Alan Parker,Gene Hackman,Willem Dafoe,Frances McDormand,Brad Dourif
+677,Predator,"Action, Adventure, Sci-Fi",7.8,John McTiernan,Arnold Schwarzenegger,Carl Weathers,Kevin Peter Hall,Elpidia Carrillo
+678,Evil Dead II,"Action, Comedy, Fantasy",7.8,Sam Raimi,Bruce Campbell,Sarah Berry,Dan Hicks,Kassie Wesley DePaiva
+679,Ferris Bueller's Day Off,Comedy,7.8,John Hughes,Matthew Broderick,Alan Ruck,Mia Sara,Jeffrey Jones
+680,Down by Law,"Comedy, Crime, Drama",7.8,Jim Jarmusch,Tom Waits,John Lurie,Roberto Benigni,Nicoletta Braschi
+681,The Goonies,"Adventure, Comedy, Family",7.8,Richard Donner,Sean Astin,Josh Brolin,Jeff Cohen,Corey Feldman
+682,The Color Purple,Drama,7.8,Steven Spielberg,Danny Glover,Whoopi Goldberg,Oprah Winfrey,Margaret Avery
+683,The Breakfast Club,"Comedy, Drama",7.8,John Hughes,Emilio Estevez,Judd Nelson,Molly Ringwald,Ally Sheedy
+684,The Killing Fields,"Biography, Drama, History",7.8,Roland Joffé,Sam Waterston,Haing S. Ngor,John Malkovich,Julian Sands
+685,Ghostbusters,"Action, Comedy, Fantasy",7.8,Ivan Reitman,Bill Murray,Dan Aykroyd,Sigourney Weaver,Harold Ramis
+686,The Right Stuff,"Adventure, Biography, Drama",7.8,Philip Kaufman,Sam Shepard,Scott Glenn,Ed Harris,Dennis Quaid
+687,The King of Comedy,"Comedy, Crime, Drama",7.8,Martin Scorsese,Robert De Niro,Jerry Lewis,Diahnne Abbott,Sandra Bernhard
+688,E.T. the Extra-Terrestrial,"Family, Sci-Fi",7.8,Steven Spielberg,Henry Thomas,Drew Barrymore,Peter Coyote,Dee Wallace
+689,Kramer vs. Kramer,Drama,7.8,Robert Benton,Dustin Hoffman,Meryl Streep,Jane Alexander,Justin Henry
+690,Days of Heaven,"Drama, Romance",7.8,Terrence Malick,Richard Gere,Brooke Adams,Sam Shepard,Linda Manz
+691,The Outlaw Josey Wales,Western,7.8,Clint Eastwood,Clint Eastwood,Sondra Locke,Chief Dan George,Bill McKinney
+692,The Man Who Would Be King,"Adventure, History, War",7.8,John Huston,Sean Connery,Michael Caine,Christopher Plummer,Saeed Jaffrey
+693,The Conversation,"Drama, Mystery, Thriller",7.8,Francis Ford Coppola,Gene Hackman,John Cazale,Allen Garfield,Frederic Forrest
+694,La planète sauvage,"Animation, Sci-Fi",7.8,René Laloux,Barry Bostwick,Jennifer Drake,Eric Baugin,Jean Topart
+695,The Day of the Jackal,"Crime, Drama, Thriller",7.8,Fred Zinnemann,Edward Fox,Terence Alexander,Michel Auclair,Alan Badel
+696,Badlands,"Action, Crime, Drama",7.8,Terrence Malick,Martin Sheen,Sissy Spacek,Warren Oates,Ramon Bieri
+697,Cabaret,"Drama, Music, Musical",7.8,Bob Fosse,Liza Minnelli,Michael York,Helmut Griem,Joel Grey
+698,Willy Wonka & the Chocolate Factory,"Family, Fantasy, Musical",7.8,Mel Stuart,Gene Wilder,Jack Albertson,Peter Ostrum,Roy Kinnear
+699,Midnight Cowboy,Drama,7.8,John Schlesinger,Dustin Hoffman,Jon Voight,Sylvia Miles,John McGiver
+700,Wait Until Dark,Thriller,7.8,Terence Young,Audrey Hepburn,Alan Arkin,Richard Crenna,Efrem Zimbalist Jr.
+701,Guess Who's Coming to Dinner,"Comedy, Drama",7.8,Stanley Kramer,Spencer Tracy,Sidney Poitier,Katharine Hepburn,Katharine Houghton
+702,Bonnie and Clyde,"Action, Biography, Crime",7.8,Arthur Penn,Warren Beatty,Faye Dunaway,Michael J. Pollard,Gene Hackman
+703,My Fair Lady,"Drama, Family, Musical",7.8,George Cukor,Audrey Hepburn,Rex Harrison,Stanley Holloway,Wilfrid Hyde-White
+704,Mary Poppins,"Comedy, Family, Fantasy",7.8,Robert Stevenson,Julie Andrews,Dick Van Dyke,David Tomlinson,Glynis Johns
+705,The Longest Day,"Action, Drama, History",7.8,Ken Annakin,Andrew Marton,Gerd Oswald,Bernhard Wicki,Darryl F. Zanuck
+706,Jules et Jim,"Drama, Romance",7.8,François Truffaut,Jeanne Moreau,Oskar Werner,Henri Serre,Vanna Urbino
+707,The Innocents,Horror,7.8,Jack Clayton,Deborah Kerr,Peter Wyngarde,Megs Jenkins,Michael Redgrave
+708,À bout de souffle,"Crime, Drama",7.8,Jean-Luc Godard,Jean-Paul Belmondo,Jean Seberg,Daniel Boulanger,Henri-Jacques Huet
+709,Red River,"Action, Adventure, Drama",7.8,Howard Hawks,Arthur Rosson,John Wayne,Montgomery Clift,Joanne Dru
+710,Key Largo,"Action, Crime, Drama",7.8,John Huston,Humphrey Bogart,Edward G. Robinson,Lauren Bacall,Lionel Barrymore
+711,To Have and Have Not,"Adventure, Comedy, Film-Noir",7.8,Howard Hawks,Humphrey Bogart,Lauren Bacall,Walter Brennan,Dolores Moran
+712,Shadow of a Doubt,"Film-Noir, Thriller",7.8,Alfred Hitchcock,Teresa Wright,Joseph Cotten,Macdonald Carey,Henry Travers
+713,Stagecoach,"Adventure, Drama, Western",7.8,John Ford,John Wayne,Claire Trevor,Andy Devine,John Carradine
+714,The Lady Vanishes,"Mystery, Thriller",7.8,Alfred Hitchcock,Margaret Lockwood,Michael Redgrave,Paul Lukas,May Whitty
+715,Bringing Up Baby,"Comedy, Family, Romance",7.8,Howard Hawks,Katharine Hepburn,Cary Grant,Charles Ruggles,Walter Catlett
+716,Bride of Frankenstein,"Drama, Horror, Sci-Fi",7.8,James Whale,Boris Karloff,Elsa Lanchester,Colin Clive,Valerie Hobson
+717,Duck Soup,"Comedy, Musical, War",7.8,Leo McCarey,Groucho Marx,Harpo Marx,Chico Marx,Zeppo Marx
+718,Scarface: The Shame of the Nation,"Action, Crime, Drama",7.8,Howard Hawks,Richard Rosson,Paul Muni,Ann Dvorak,Karen Morley
+719,Frankenstein,"Drama, Horror, Sci-Fi",7.8,James Whale,Colin Clive,Mae Clarke,Boris Karloff,John Boles
+720,Roma,Drama,7.7,Alfonso Cuarón,Yalitza Aparicio,Marina de Tavira,Diego Cortina Autrey,Carlos Peralta
+721,God's Own Country,"Drama, Romance",7.7,Francis Lee,Josh O'Connor,Alec Secareanu,Gemma Jones,Ian Hart
+722,Deadpool 2,"Action, Adventure, Comedy",7.7,David Leitch,Ryan Reynolds,Josh Brolin,Morena Baccarin,Julian Dennison
+723,Wind River,"Crime, Drama, Mystery",7.7,Taylor Sheridan,Kelsey Asbille,Jeremy Renner,Julia Jones,Teo Briones
+724,Get Out,"Horror, Mystery, Thriller",7.7,Jordan Peele,Daniel Kaluuya,Allison Williams,Bradley Whitford,Catherine Keener
+725,Mission: Impossible - Fallout,"Action, Adventure, Thriller",7.7,Christopher McQuarrie,Tom Cruise,Henry Cavill,Ving Rhames,Simon Pegg
+726,En man som heter Ove,"Comedy, Drama, Romance",7.7,Hannes Holm,Rolf Lassgård,Bahar Pars,Filip Berg,Ida Engvoll
+727,What We Do in the Shadows,"Comedy, Horror",7.7,Jemaine Clement,Taika Waititi,Jemaine Clement,Taika Waititi,Cori Gonzalez-Macuer
+728,Omoide no Mânî,"Animation, Drama, Family",7.7,James Simone,Hiromasa Yonebayashi,Sara Takatsuki,Kasumi Arimura,Nanako Matsushima
+729,The Theory of Everything,"Biography, Drama, Romance",7.7,James Marsh,Eddie Redmayne,Felicity Jones,Tom Prior,Sophie Perry
+730,Kingsman: The Secret Service,"Action, Adventure, Comedy",7.7,Matthew Vaughn,Colin Firth,Taron Egerton,Samuel L. Jackson,Michael Caine
+731,The Fault in Our Stars,"Drama, Romance",7.7,Josh Boone,Shailene Woodley,Ansel Elgort,Nat Wolff,Laura Dern
+732,Me and Earl and the Dying Girl,"Comedy, Drama",7.7,Alfonso Gomez-Rejon,Thomas Mann,RJ Cyler,Olivia Cooke,Nick Offerman
+733,Birdman or (The Unexpected Virtue of Ignorance),"Comedy, Drama",7.7,Alejandro G. Iñárritu,Michael Keaton,Zach Galifianakis,Edward Norton,Andrea Riseborough
+734,La vie d'Adèle,"Drama, Romance",7.7,Abdellatif Kechiche,Léa Seydoux,Adèle Exarchopoulos,Salim Kechiouche,Aurélien Recoing
+735,Kai po che!,"Drama, Sport",7.7,Abhishek Kapoor,Amit Sadh,Sushant Singh Rajput,Rajkummar Rao,Amrita Puri
+736,The Broken Circle Breakdown,"Drama, Music, Romance",7.7,Felix van Groeningen,Veerle Baetens,Johan Heldenbergh,Nell Cattrysse,Geert Van Rampelberg
+737,Captain America: The Winter Soldier,"Action, Adventure, Sci-Fi",7.7,Anthony Russo,Joe Russo,Chris Evans,Samuel L. Jackson,Scarlett Johansson
+738,Rockstar,"Drama, Music, Musical",7.7,Imtiaz Ali,Ranbir Kapoor,Nargis Fakhri,Shammi Kapoor,Kumud Mishra
+739,Nebraska,"Adventure, Comedy, Drama",7.7,Alexander Payne,Bruce Dern,Will Forte,June Squibb,Bob Odenkirk
+740,Wreck-It Ralph,"Animation, Adventure, Comedy",7.7,Rich Moore,John C. Reilly,Jack McBrayer,Jane Lynch,Sarah Silverman
+741,Le Petit Prince,"Animation, Adventure, Drama",7.7,Mark Osborne,Jeff Bridges,Mackenzie Foy,Rachel McAdams,Marion Cotillard
+742,Detachment,Drama,7.7,Tony Kaye,Adrien Brody,Christina Hendricks,Marcia Gay Harden,Lucy Liu
+743,Midnight in Paris,"Comedy, Fantasy, Romance",7.7,Woody Allen,Owen Wilson,Rachel McAdams,Kathy Bates,Kurt Fuller
+744,The Lego Movie,"Animation, Action, Adventure",7.7,Christopher Miller,Phil Lord,Chris Pratt,Will Ferrell,Elizabeth Banks
+745,Gravity,"Drama, Sci-Fi, Thriller",7.7,Alfonso Cuarón,Sandra Bullock,George Clooney,Ed Harris,Orto Ignatiussen
+746,Star Trek Into Darkness,"Action, Adventure, Sci-Fi",7.7,J.J. Abrams,Chris Pine,Zachary Quinto,Zoe Saldana,Benedict Cumberbatch
+747,Beasts of No Nation,"Drama, War",7.7,Cary Joji Fukunaga,Abraham Attah,Emmanuel Affadzi,Ricky Adelayitor,Andrew Adote
+748,The Social Network,"Biography, Drama",7.7,David Fincher,Jesse Eisenberg,Andrew Garfield,Justin Timberlake,Rooney Mara
+749,X: First Class,"Action, Adventure, Sci-Fi",7.7,Matthew Vaughn,James McAvoy,Michael Fassbender,Jennifer Lawrence,Kevin Bacon
+750,The Hangover,Comedy,7.7,Todd Phillips,Zach Galifianakis,Bradley Cooper,Justin Bartha,Ed Helms
+751,Skyfall,"Action, Adventure, Thriller",7.7,Sam Mendes,Daniel Craig,Javier Bardem,Naomie Harris,Judi Dench
+752,Silver Linings Playbook,"Comedy, Drama, Romance",7.7,David O. Russell,Bradley Cooper,Jennifer Lawrence,Robert De Niro,Jacki Weaver
+753,Argo,"Biography, Drama, Thriller",7.7,Ben Affleck,Ben Affleck,Bryan Cranston,John Goodman,Alan Arkin
+754,(500) Days of Summer,"Comedy, Drama, Romance",7.7,Marc Webb,Zooey Deschanel,Joseph Gordon-Levitt,Geoffrey Arend,Chloë Grace Moretz
+755,Harry Potter and the Deathly Hallows: Part 1,"Adventure, Family, Fantasy",7.7,David Yates,Daniel Radcliffe,Emma Watson,Rupert Grint,Bill Nighy
+756,Gake no ue no Ponyo,"Animation, Adventure, Comedy",7.7,Hayao Miyazaki,Cate Blanchett,Matt Damon,Liam Neeson,Tomoko Yamaguchi
+757,Frost/Nixon,"Biography, Drama, History",7.7,Ron Howard,Frank Langella,Michael Sheen,Kevin Bacon,Sam Rockwell
+758,Papurika,"Animation, Drama, Fantasy",7.7,Satoshi Kon,Megumi Hayashibara,Tôru Emori,Katsunosuke Hori,Tôru Furuya
+759,Changeling,"Biography, Crime, Drama",7.7,Clint Eastwood,Angelina Jolie,Colm Feore,Amy Ryan,Gattlin Griffith
+760,Flipped,"Comedy, Drama, Romance",7.7,Rob Reiner,Madeline Carroll,Callan McAuliffe,Rebecca De Mornay,Anthony Edwards
+761,Toki o kakeru shôjo,"Animation, Adventure, Comedy",7.7,Mamoru Hosoda,Riisa Naka,Takuya Ishida,Mitsutaka Itakura,Ayami Kakiuchi
+762,Death Note: Desu nôto,"Crime, Drama, Fantasy",7.7,Shûsuke Kaneko,Tatsuya Fujiwara,Ken'ichi Matsuyama,Asaka Seto,Yû Kashii
+763,This Is England,"Crime, Drama",7.7,Shane Meadows,Thomas Turgoose,Stephen Graham,Jo Hartley,Andrew Shim
+764,Ex Machina,"Drama, Sci-Fi, Thriller",7.7,Alex Garland,Alicia Vikander,Domhnall Gleeson,Oscar Isaac,Sonoya Mizuno
+765,Efter brylluppet,Drama,7.7,Susanne Bier,Mads Mikkelsen,Sidse Babett Knudsen,Rolf Lassgård,Neeral Mulchandani
+766,The Last King of Scotland,"Biography, Drama, History",7.7,Kevin Macdonald,James McAvoy,Forest Whitaker,Gillian Anderson,Kerry Washington
+767,Zodiac,"Crime, Drama, Mystery",7.7,David Fincher,Jake Gyllenhaal,Robert Downey Jr.,Mark Ruffalo,Anthony Edwards
+768,Lucky Number Slevin,"Action, Crime, Drama",7.7,Paul McGuigan,Josh Hartnett,Ben Kingsley,Morgan Freeman,Lucy Liu
+769,Joyeux Noël,"Drama, History, Music",7.7,Christian Carion,Diane Kruger,Benno Fürmann,Guillaume Canet,Natalie Dessay
+770,Control,"Biography, Drama, Music",7.7,Anton Corbijn,Sam Riley,Samantha Morton,Craig Parkinson,Alexandra Maria Lara
+771,Tangled,"Animation, Adventure, Comedy",7.7,Nathan Greno,Byron Howard,Mandy Moore,Zachary Levi,Donna Murphy
+772,Zwartboek,"Drama, Thriller, War",7.7,Paul Verhoeven,Carice van Houten,Sebastian Koch,Thom Hoffman,Halina Reijn
+773,Brokeback Mountain,"Drama, Romance",7.7,Ang Lee,Jake Gyllenhaal,Heath Ledger,Michelle Williams,Randy Quaid
+774,3:10 to Yuma,"Action, Crime, Drama",7.7,James Mangold,Russell Crowe,Christian Bale,Ben Foster,Logan Lerman
+775,Crash,"Crime, Drama, Thriller",7.7,Paul Haggis,Don Cheadle,Sandra Bullock,Thandie Newton,Karina Arroyave
+776,Kung fu,"Action, Comedy, Fantasy",7.7,Stephen Chow,Stephen Chow,Wah Yuen,Qiu Yuen,Siu-Lung Leung
+777,The Bourne Supremacy,"Action, Mystery, Thriller",7.7,Paul Greengrass,Matt Damon,Franka Potente,Joan Allen,Brian Cox
+778,The Machinist,"Drama, Thriller",7.7,Brad Anderson,Christian Bale,Jennifer Jason Leigh,Aitana Sánchez-Gijón,John Sharian
+779,Ray,"Biography, Drama, Music",7.7,Taylor Hackford,Jamie Foxx,Regina King,Kerry Washington,Clifton Powell
+780,Lost in Translation,"Comedy, Drama",7.7,Sofia Coppola,Bill Murray,Scarlett Johansson,Giovanni Ribisi,Anna Faris
+781,Harry Potter and the Goblet of Fire,"Adventure, Family, Fantasy",7.7,Mike Newell,Daniel Radcliffe,Emma Watson,Rupert Grint,Eric Sykes
+782,Man on Fire,"Action, Crime, Drama",7.7,Tony Scott,Denzel Washington,Christopher Walken,Dakota Fanning,Radha Mitchell
+783,Coraline,"Animation, Drama, Family",7.7,Henry Selick,Dakota Fanning,Teri Hatcher,John Hodgman,Jennifer Saunders
+784,The Last Samurai,"Action, Drama",7.7,Edward Zwick,Tom Cruise,Ken Watanabe,Billy Connolly,William Atherton
+785,The Magdalene Sisters,Drama,7.7,Peter Mullan,Eileen Walsh,Dorothy Duffy,Nora-Jane Noone,Anne-Marie Duff
+786,Good Bye Lenin!,"Comedy, Drama, Romance",7.7,Wolfgang Becker,Daniel Brühl,Katrin Saß,Chulpan Khamatova,Florian Lukas
+787,In America,Drama,7.7,Jim Sheridan,Paddy Considine,Samantha Morton,Djimon Hounsou,Sarah Bolger
+788,I Am Sam,Drama,7.7,Jessie Nelson,Sean Penn,Michelle Pfeiffer,Dakota Fanning,Dianne Wiest
+789,Adaptation.,"Comedy, Drama",7.7,Spike Jonze,Nicolas Cage,Meryl Streep,Chris Cooper,Tilda Swinton
+790,Black Hawk Down,"Drama, History, War",7.7,Ridley Scott,Josh Hartnett,Ewan McGregor,Tom Sizemore,Eric Bana
+791,Road to Perdition,"Crime, Drama, Thriller",7.7,Sam Mendes,Tom Hanks,Tyler Hoechlin,Rob Maxey,Liam Aiken
+792,Das Experiment,"Drama, Thriller",7.7,Oliver Hirschbiegel,Moritz Bleibtreu,Christian Berkel,Oliver Stokowski,Wotan Wilke Möhring
+793,Billy Elliot,"Drama, Music",7.7,Stephen Daldry,Jamie Bell,Julie Walters,Jean Heywood,Jamie Draven
+794,Hedwig and the Angry Inch,"Comedy, Drama, Music",7.7,John Cameron Mitchell,John Cameron Mitchell,Miriam Shor,Stephen Trask,Theodore Liscinski
+795,Ocean's Eleven,"Crime, Thriller",7.7,Steven Soderbergh,George Clooney,Brad Pitt,Julia Roberts,Matt Damon
+796,Vampire Hunter D: Bloodlust,"Animation, Action, Fantasy",7.7,Yoshiaki Kawajiri,Andrew Philpot,John Rafter Lee,Pamela Adlon,Wendee Lee
+797,"O Brother, Where Art Thou?","Adventure, Comedy, Crime",7.7,Joel Coen,Ethan Coen,George Clooney,John Turturro,Tim Blake Nelson
+798,Interstate 60: Episodes of the Road,"Adventure, Comedy, Drama",7.7,Bob Gale,James Marsden,Gary Oldman,Kurt Russell,Matthew Edison
+799,"South Park: Bigger, Longer & Uncut","Animation, Comedy, Fantasy",7.7,Trey Parker,Trey Parker,Matt Stone,Mary Kay Bergman,Isaac Hayes
+800,Office Space,Comedy,7.7,Mike Judge,Ron Livingston,Jennifer Aniston,David Herman,Ajay Naidu
+801,Happiness,"Comedy, Drama",7.7,Todd Solondz,Jane Adams,Jon Lovitz,Philip Seymour Hoffman,Dylan Baker
+802,Training Day,"Crime, Drama, Thriller",7.7,Antoine Fuqua,Denzel Washington,Ethan Hawke,Scott Glenn,Tom Berenger
+803,Rushmore,"Comedy, Drama, Romance",7.7,Wes Anderson,Jason Schwartzman,Bill Murray,Olivia Williams,Seymour Cassel
+804,Abre los ojos,"Drama, Mystery, Sci-Fi",7.7,Alejandro Amenábar,Eduardo Noriega,Penélope Cruz,Chete Lera,Fele Martínez
+805,Being John Malkovich,"Comedy, Drama, Fantasy",7.7,Spike Jonze,John Cusack,Cameron Diaz,Catherine Keener,John Malkovich
+806,As Good as It Gets,"Comedy, Drama, Romance",7.7,James L. Brooks,Jack Nicholson,Helen Hunt,Greg Kinnear,Cuba Gooding Jr.
+807,The Fifth Element,"Action, Adventure, Sci-Fi",7.7,Luc Besson,Bruce Willis,Milla Jovovich,Gary Oldman,Ian Holm
+808,Le dîner de cons,Comedy,7.7,Francis Veber,Thierry Lhermitte,Jacques Villeret,Francis Huster,Daniel Prévost
+809,Donnie Brasco,"Biography, Crime, Drama",7.7,Mike Newell,Al Pacino,Johnny Depp,Michael Madsen,Bruno Kirby
+810,Shine,"Biography, Drama, Music",7.7,Scott Hicks,Geoffrey Rush,Armin Mueller-Stahl,Justin Braine,Sonia Todd
+811,Primal Fear,"Crime, Drama, Mystery",7.7,Gregory Hoblit,Richard Gere,Laura Linney,Edward Norton,John Mahoney
+812,Hamlet,Drama,7.7,Kenneth Branagh,Kenneth Branagh,Julie Christie,Derek Jacobi,Kate Winslet
+813,A Little Princess,"Drama, Family, Fantasy",7.7,Alfonso Cuarón,Liesel Matthews,Eleanor Bron,Liam Cunningham,Rusty Schwimmer
+814,Do lok tin si,"Comedy, Crime, Drama",7.7,Kar-Wai Wong,Leon Lai,Michelle Reis,Takeshi Kaneshiro,Charlie Yeung
+815,Il postino,"Biography, Comedy, Drama",7.7,Michael Radford,Massimo Troisi,Massimo Troisi,Philippe Noiret,Maria Grazia Cucinotta
+816,Clerks,Comedy,7.7,Kevin Smith,Brian O'Halloran,Jeff Anderson,Marilyn Ghigliotti,Lisa Spoonauer
+817,Short Cuts,"Comedy, Drama",7.7,Robert Altman,Andie MacDowell,Julianne Moore,Tim Robbins,Bruce Davison
+818,Philadelphia,Drama,7.7,Jonathan Demme,Tom Hanks,Denzel Washington,Roberta Maxwell,Buzz Kilman
+819,The Muppet Christmas Carol,"Comedy, Drama, Family",7.7,Brian Henson,Michael Caine,Kermit the Frog,Dave Goelz,Miss Piggy
+820,Malcolm X,"Biography, Drama, History",7.7,Spike Lee,Denzel Washington,Angela Bassett,Delroy Lindo,Spike Lee
+821,The Last of the Mohicans,"Action, Adventure, Drama",7.7,Michael Mann,Daniel Day-Lewis,Madeleine Stowe,Russell Means,Eric Schweig
+822,Kurenai no buta,"Animation, Adventure, Comedy",7.7,Hayao Miyazaki,Shûichirô Moriyama,Tokiko Katô,Bunshi Katsura Vi,Tsunehiko Kamijô
+823,Glengarry Glen Ross,"Crime, Drama, Mystery",7.7,James Foley,Al Pacino,Jack Lemmon,Alec Baldwin,Alan Arkin
+824,A Few Good Men,"Drama, Thriller",7.7,Rob Reiner,Tom Cruise,Jack Nicholson,Demi Moore,Kevin Bacon
+825,Fried Green Tomatoes,Drama,7.7,Jon Avnet,Kathy Bates,Jessica Tandy,Mary Stuart Masterson,Mary-Louise Parker
+826,Barton Fink,"Comedy, Drama, Thriller",7.7,Joel Coen,Ethan Coen,John Turturro,John Goodman,Judy Davis
+827,Miller's Crossing,"Crime, Drama, Thriller",7.7,Joel Coen,Ethan Coen,Gabriel Byrne,Albert Finney,John Turturro
+828,Who Framed Roger Rabbit,"Animation, Adventure, Comedy",7.7,Robert Zemeckis,Bob Hoskins,Christopher Lloyd,Joanna Cassidy,Charles Fleischer
+829,Spoorloos,"Mystery, Thriller",7.7,George Sluizer,Bernard-Pierre Donnadieu,Gene Bervoets,Johanna ter Steege,Gwen Eckhaus
+830,Withnail & I,"Comedy, Drama",7.7,Bruce Robinson,Richard E. Grant,Paul McGann,Richard Griffiths,Ralph Brown
+831,The Last Emperor,"Biography, Drama, History",7.7,Bernardo Bertolucci,John Lone,Joan Chen,Peter O'Toole,Ruocheng Ying
+832,Empire of the Sun,"Action, Drama, History",7.7,Steven Spielberg,Christian Bale,John Malkovich,Miranda Richardson,Nigel Havers
+833,Der Name der Rose,"Crime, Drama, Mystery",7.7,Jean-Jacques Annaud,Sean Connery,Christian Slater,Helmut Qualtinger,Elya Baskin
+834,Blue Velvet,"Drama, Mystery, Thriller",7.7,David Lynch,Isabella Rossellini,Kyle MacLachlan,Dennis Hopper,Laura Dern
+835,The Purple Rose of Cairo,"Comedy, Fantasy, Romance",7.7,Woody Allen,Mia Farrow,Jeff Daniels,Danny Aiello,Irving Metzman
+836,After Hours,"Comedy, Crime, Drama",7.7,Martin Scorsese,Griffin Dunne,Rosanna Arquette,Verna Bloom,Tommy Chong
+837,Zelig,Comedy,7.7,Woody Allen,Woody Allen,Mia Farrow,Patrick Horgan,John Buckwalter
+838,The Verdict,Drama,7.7,Sidney Lumet,Paul Newman,Charlotte Rampling,Jack Warden,James Mason
+839,Star Trek II: The Wrath of Khan,"Action, Adventure, Sci-Fi",7.7,Nicholas Meyer,William Shatner,Leonard Nimoy,DeForest Kelley,James Doohan
+840,First Blood,"Action, Adventure",7.7,Ted Kotcheff,Sylvester Stallone,Brian Dennehy,Richard Crenna,Bill McKinney
+841,Ordinary People,Drama,7.7,Robert Redford,Donald Sutherland,Mary Tyler Moore,Judd Hirsch,Timothy Hutton
+842,Airplane!,Comedy,7.7,Jim Abrahams,David Zucker,Jerry Zucker,Robert Hays,Julie Hagerty
+843,Rupan sansei: Kariosutoro no shiro,"Animation, Adventure, Family",7.7,Hayao Miyazaki,Yasuo Yamada,Eiko Masuyama,Kiyoshi Kobayashi,Makio Inoue
+844,Halloween,"Horror, Thriller",7.7,John Carpenter,Donald Pleasence,Jamie Lee Curtis,Tony Moran,Nancy Kyes
+845,Le locataire,"Drama, Thriller",7.7,Roman Polanski,Roman Polanski,Isabelle Adjani,Melvyn Douglas,Jo Van Fleet
+846,Love and Death,"Comedy, War",7.7,Woody Allen,Woody Allen,Diane Keaton,Georges Adet,Frank Adu
+847,The Taking of Pelham One Two Three,"Action, Crime, Thriller",7.7,Joseph Sargent,Walter Matthau,Robert Shaw,Martin Balsam,Hector Elizondo
+848,Blazing Saddles,"Comedy, Western",7.7,Mel Brooks,Cleavon Little,Gene Wilder,Slim Pickens,Harvey Korman
+849,Serpico,"Biography, Crime, Drama",7.7,Sidney Lumet,Al Pacino,John Randolph,Jack Kehoe,Biff McGuire
+850,Enter the Dragon,"Action, Crime, Drama",7.7,Robert Clouse,Bruce Lee,John Saxon,Jim Kelly,Ahna Capri
+851,Deliverance,"Adventure, Drama, Thriller",7.7,John Boorman,Jon Voight,Burt Reynolds,Ned Beatty,Ronny Cox
+852,The French Connection,"Action, Crime, Drama",7.7,William Friedkin,Gene Hackman,Roy Scheider,Fernando Rey,Tony Lo Bianco
+853,Dirty Harry,"Action, Crime, Thriller",7.7,Don Siegel,Clint Eastwood,Andrew Robinson,Harry Guardino,Reni Santoni
+854,Where Eagles Dare,"Action, Adventure, War",7.7,Brian G. Hutton,Richard Burton,Clint Eastwood,Mary Ure,Patrick Wymark
+855,The Odd Couple,Comedy,7.7,Gene Saks,Jack Lemmon,Walter Matthau,John Fiedler,Herb Edelman
+856,The Dirty Dozen,"Action, Adventure, War",7.7,Robert Aldrich,Lee Marvin,Ernest Borgnine,Charles Bronson,John Cassavetes
+857,Belle de jour,"Drama, Romance",7.7,Luis Buñuel,Catherine Deneuve,Jean Sorel,Michel Piccoli,Geneviève Page
+858,A Man for All Seasons,"Biography, Drama, History",7.7,Fred Zinnemann,Paul Scofield,Wendy Hiller,Robert Shaw,Leo McKern
+859,Repulsion,"Drama, Horror, Thriller",7.7,Roman Polanski,Catherine Deneuve,Ian Hendry,John Fraser,Yvonne Furneaux
+860,Zulu,"Drama, History, War",7.7,Cy Endfield,Stanley Baker,Jack Hawkins,Ulla Jacobsson,James Booth
+861,Goldfinger,"Action, Adventure, Thriller",7.7,Guy Hamilton,Sean Connery,Gert Fröbe,Honor Blackman,Shirley Eaton
+862,The Birds,"Drama, Horror, Mystery",7.7,Alfred Hitchcock,Rod Taylor,Tippi Hedren,Jessica Tandy,Suzanne Pleshette
+863,Cape Fear,"Drama, Thriller",7.7,J. Lee Thompson,Gregory Peck,Robert Mitchum,Polly Bergen,Lori Martin
+864,Peeping Tom,"Drama, Horror, Thriller",7.7,Michael Powell,Karlheinz Böhm,Anna Massey,Moira Shearer,Maxine Audley
+865,The Magnificent Seven,"Action, Adventure, Western",7.7,John Sturges,Yul Brynner,Steve McQueen,Charles Bronson,Eli Wallach
+866,Les yeux sans visage,"Drama, Horror",7.7,Georges Franju,Pierre Brasseur,Alida Valli,Juliette Mayniel,Alexandre Rignault
+867,Invasion of the Body Snatchers,"Drama, Horror, Sci-Fi",7.7,Don Siegel,Kevin McCarthy,Dana Wynter,Larry Gates,King Donovan
+868,Rebel Without a Cause,Drama,7.7,Nicholas Ray,James Dean,Natalie Wood,Sal Mineo,Jim Backus
+869,The Ladykillers,"Comedy, Crime",7.7,Alexander Mackendrick,Alec Guinness,Peter Sellers,Cecil Parker,Herbert Lom
+870,Sabrina,"Comedy, Drama, Romance",7.7,Billy Wilder,Humphrey Bogart,Audrey Hepburn,William Holden,Walter Hampden
+871,The Quiet Man,"Comedy, Drama, Romance",7.7,John Ford,John Wayne,Maureen O'Hara,Barry Fitzgerald,Ward Bond
+872,The Day the Earth Stood Still,"Drama, Sci-Fi",7.7,Robert Wise,Michael Rennie,Patricia Neal,Hugh Marlowe,Sam Jaffe
+873,The African Queen,"Adventure, Drama, Romance",7.7,John Huston,Humphrey Bogart,Katharine Hepburn,Robert Morley,Peter Bull
+874,Gilda,"Drama, Film-Noir, Romance",7.7,Charles Vidor,Rita Hayworth,Glenn Ford,George Macready,Joseph Calleia
+875,Fantasia,"Animation, Family, Fantasy",7.7,James Algar,Samuel Armstrong,Ford Beebe Jr.,Norman Ferguson,David Hand
+876,The Invisible Man,"Horror, Sci-Fi",7.7,James Whale,Claude Rains,Gloria Stuart,William Harrigan,Henry Travers
+877,Dark Waters,"Biography, Drama, History",7.6,Todd Haynes,Mark Ruffalo,Anne Hathaway,Tim Robbins,Bill Pullman
+878,Searching,"Drama, Mystery, Thriller",7.6,Aneesh Chaganty,John Cho,Debra Messing,Joseph Lee,Michelle La
+879,Once Upon a Time... in Hollywood,"Comedy, Drama",7.6,Quentin Tarantino,Leonardo DiCaprio,Brad Pitt,Margot Robbie,Emile Hirsch
+880,Nelyubov,Drama,7.6,Andrey Zvyagintsev,Maryana Spivak,Aleksey Rozin,Matvey Novikov,Marina Vasileva
+881,The Florida Project,Drama,7.6,Sean Baker,Brooklynn Prince,Bria Vinaite,Willem Dafoe,Christopher Rivera
+882,Just Mercy,"Biography, Crime, Drama",7.6,Destin Daniel Cretton,Michael B. Jordan,Jamie Foxx,Brie Larson,Charlie Pye Jr.
+883,Gifted,Drama,7.6,Marc Webb,Chris Evans,Mckenna Grace,Lindsay Duncan,Octavia Spencer
+884,The Peanut Butter Falcon,"Adventure, Comedy, Drama",7.6,Tyler Nilson,Michael Schwartz,Zack Gottsagen,Ann Owens,Dakota Johnson
+885,Victoria,"Crime, Drama, Romance",7.6,Sebastian Schipper,Laia Costa,Frederick Lau,Franz Rogowski,Burak Yigit
+886,Mustang,Drama,7.6,Deniz Gamze Ergüven,Günes Sensoy,Doga Zeynep Doguslu,Tugba Sunguroglu,Elit Iscan
+887,Guardians of the Galaxy Vol. 2,"Action, Adventure, Comedy",7.6,James Gunn,Chris Pratt,Zoe Saldana,Dave Bautista,Vin Diesel
+888,Baby Driver,"Action, Crime, Drama",7.6,Edgar Wright,Ansel Elgort,Jon Bernthal,Jon Hamm,Eiza González
+889,Only the Brave,"Action, Biography, Drama",7.6,Joseph Kosinski,Josh Brolin,Miles Teller,Jeff Bridges,Jennifer Connelly
+890,Bridge of Spies,"Drama, History, Thriller",7.6,Steven Spielberg,Tom Hanks,Mark Rylance,Alan Alda,Amy Ryan
+891,Incredibles 2,"Animation, Action, Adventure",7.6,Brad Bird,Craig T. Nelson,Holly Hunter,Sarah Vowell,Huck Milner
+892,Moana,"Animation, Adventure, Comedy",7.6,Ron Clements,John Musker,Don Hall,Chris Williams,Auli'i Cravalho
+893,Sicario,"Action, Crime, Drama",7.6,Denis Villeneuve,Emily Blunt,Josh Brolin,Benicio Del Toro,Jon Bernthal
+894,Creed,"Drama, Sport",7.6,Ryan Coogler,Michael B. Jordan,Sylvester Stallone,Tessa Thompson,Phylicia Rashad
+895,Leviafan,"Crime, Drama",7.6,Andrey Zvyagintsev,Aleksey Serebryakov,Elena Lyadova,Roman Madyanov,Vladimir Vdovichenkov
+896,Hell or High Water,"Action, Crime, Drama",7.6,David Mackenzie,Chris Pine,Ben Foster,Jeff Bridges,Gil Birmingham
+897,Philomena,"Biography, Comedy, Drama",7.6,Stephen Frears,Judi Dench,Steve Coogan,Sophie Kennedy Clark,Mare Winningham
+898,Dawn of the Planet of the Apes,"Action, Adventure, Drama",7.6,Matt Reeves,Gary Oldman,Keri Russell,Andy Serkis,Kodi Smit-McPhee
+899,El cuerpo,"Mystery, Thriller",7.6,Oriol Paulo,Jose Coronado,Hugo Silva,Belén Rueda,Aura Garrido
+900,Serbuan maut,"Action, Thriller",7.6,Gareth Evans,Iko Uwais,Ananda George,Ray Sahetapy,Donny Alamsyah
+901,End of Watch,"Action, Crime, Drama",7.6,David Ayer,Jake Gyllenhaal,Michael Peña,Anna Kendrick,America Ferrera
+902,Kari-gurashi no Arietti,"Animation, Adventure, Family",7.6,Hiromasa Yonebayashi,Amy Poehler,Mirai Shida,Ryûnosuke Kamiki,Tatsuya Fujiwara
+903,A Star Is Born,"Drama, Music, Romance",7.6,Bradley Cooper,Lady Gaga,Bradley Cooper,Sam Elliott,Greg Grunberg
+904,True Grit,"Drama, Western",7.6,Ethan Coen,Joel Coen,Jeff Bridges,Matt Damon,Hailee Steinfeld
+905,Hævnen,"Drama, Romance",7.6,Susanne Bier,Mikael Persbrandt,Trine Dyrholm,Markus Rygaard,Wil Johnson
+906,Despicable Me,"Animation, Comedy, Crime",7.6,Pierre Coffin,Chris Renaud,Steve Carell,Jason Segel,Russell Brand
+907,50/50,"Comedy, Drama, Romance",7.6,Jonathan Levine,Joseph Gordon-Levitt,Seth Rogen,Anna Kendrick,Bryce Dallas Howard
+908,Kick-Ass,"Action, Comedy, Crime",7.6,Matthew Vaughn,Aaron Taylor-Johnson,Nicolas Cage,Chloë Grace Moretz,Garrett M. Brown
+909,Celda 211,"Action, Adventure, Crime",7.6,Daniel Monzón,Luis Tosar,Alberto Ammann,Antonio Resines,Manuel Morón
+910,Moneyball,"Biography, Drama, Sport",7.6,Bennett Miller,Brad Pitt,Robin Wright,Jonah Hill,Philip Seymour Hoffman
+911,La piel que habito,"Drama, Horror, Thriller",7.6,Pedro Almodóvar,Antonio Banderas,Elena Anaya,Jan Cornet,Marisa Paredes
+912,Zombieland,"Adventure, Comedy, Fantasy",7.6,Ruben Fleischer,Jesse Eisenberg,Emma Stone,Woody Harrelson,Abigail Breslin
+913,Die Welle,"Drama, Thriller",7.6,Dennis Gansel,Jürgen Vogel,Frederick Lau,Max Riemelt,Jennifer Ulrich
+914,Sherlock Holmes,"Action, Adventure, Mystery",7.6,Guy Ritchie,Robert Downey Jr.,Jude Law,Rachel McAdams,Mark Strong
+915,The Blind Side,"Biography, Drama, Sport",7.6,John Lee Hancock,Quinton Aaron,Sandra Bullock,Tim McGraw,Jae Head
+916,The Visitor,Drama,7.6,Tom McCarthy,Richard Jenkins,Haaz Sleiman,Danai Gurira,Hiam Abbass
+917,Seven Pounds,Drama,7.6,Gabriele Muccino,Will Smith,Rosario Dawson,Woody Harrelson,Michael Ealy
+918,Eastern Promises,"Action, Crime, Drama",7.6,David Cronenberg,Naomi Watts,Viggo Mortensen,Armin Mueller-Stahl,Josef Altin
+919,Stardust,"Adventure, Family, Fantasy",7.6,Matthew Vaughn,Charlie Cox,Claire Danes,Sienna Miller,Ian McKellen
+920,The Secret of Kells,"Animation, Adventure, Family",7.6,Tomm Moore,Nora Twomey,Evan McGuire,Brendan Gleeson,Mick Lally
+921,Inside Man,"Crime, Drama, Mystery",7.6,Spike Lee,Denzel Washington,Clive Owen,Jodie Foster,Christopher Plummer
+922,Gone Baby Gone,"Crime, Drama, Mystery",7.6,Ben Affleck,Morgan Freeman,Ed Harris,Casey Affleck,Michelle Monaghan
+923,La Vie En Rose,"Biography, Drama, Music",7.6,Olivier Dahan,Marion Cotillard,Sylvie Testud,Pascal Greggory,Emmanuelle Seigner
+924,Huo Yuan Jia,"Action, Biography, Drama",7.6,Ronny Yu,Jet Li,Li Sun,Yong Dong,Yun Qu
+925,The Illusionist,"Drama, Fantasy, Mystery",7.6,Neil Burger,Edward Norton,Jessica Biel,Paul Giamatti,Rufus Sewell
+926,Dead Man's Shoes,"Crime, Drama, Thriller",7.6,Shane Meadows,Paddy Considine,Gary Stretch,Toby Kebbell,Stuart Wolfenden
+927,Harry Potter and the Half-Blood Prince,"Action, Adventure, Family",7.6,David Yates,Daniel Radcliffe,Emma Watson,Rupert Grint,Michael Gambon
+928,300,"Action, Drama",7.6,Zack Snyder,Gerard Butler,Lena Headey,David Wenham,Dominic West
+929,Match Point,"Drama, Romance, Thriller",7.6,Woody Allen,Scarlett Johansson,Jonathan Rhys Meyers,Emily Mortimer,Matthew Goode
+930,Watchmen,"Action, Drama, Mystery",7.6,Zack Snyder,Jackie Earle Haley,Patrick Wilson,Carla Gugino,Malin Akerman
+931,Lord of War,"Action, Crime, Drama",7.6,Andrew Niccol,Nicolas Cage,Ethan Hawke,Jared Leto,Bridget Moynahan
+932,Saw,"Horror, Mystery, Thriller",7.6,James Wan,Cary Elwes,Leigh Whannell,Danny Glover,Ken Leung
+933,"Synecdoche, New York",Drama,7.6,Charlie Kaufman,Philip Seymour Hoffman,Samantha Morton,Michelle Williams,Catherine Keener
+934,Mysterious Skin,Drama,7.6,Gregg Araki,Brady Corbet,Joseph Gordon-Levitt,Elisabeth Shue,Chase Ellison
+935,Jeux d'enfants,"Comedy, Drama, Romance",7.6,Yann Samuell,Guillaume Canet,Marion Cotillard,Thibault Verhaeghe,Joséphine Lebas-Joly
+936,Un long dimanche de fiançailles,"Drama, Mystery, Romance",7.6,Jean-Pierre Jeunet,Audrey Tautou,Gaspard Ulliel,Jodie Foster,Dominique Pinon
+937,The Station Agent,"Comedy, Drama",7.6,Tom McCarthy,Peter Dinklage,Patricia Clarkson,Bobby Cannavale,Paul Benjamin
+938,21 Grams,"Crime, Drama, Thriller",7.6,Alejandro G. Iñárritu,Sean Penn,Benicio Del Toro,Naomi Watts,Danny Huston
+939,Boksuneun naui geot,"Crime, Drama, Thriller",7.6,Chan-wook Park,Kang-ho Song,Shin Ha-kyun,Bae Doona,Ji-Eun Lim
+940,Finding Neverland,"Biography, Drama, Family",7.6,Marc Forster,Johnny Depp,Kate Winslet,Julie Christie,Radha Mitchell
+941,25th Hour,Drama,7.6,Spike Lee,Edward Norton,Barry Pepper,Philip Seymour Hoffman,Rosario Dawson
+942,The Butterfly Effect,"Drama, Sci-Fi, Thriller",7.6,Eric Bress,J. Mackye Gruber,Ashton Kutcher,Amy Smart,Melora Walters
+943,28 Days Later...,"Drama, Horror, Sci-Fi",7.6,Danny Boyle,Cillian Murphy,Naomie Harris,Christopher Eccleston,Alex Palmer
+944,Batoru rowaiaru,"Action, Adventure, Drama",7.6,Kinji Fukasaku,Tatsuya Fujiwara,Aki Maeda,Tarô Yamamoto,Takeshi Kitano
+945,The Royal Tenenbaums,"Comedy, Drama",7.6,Wes Anderson,Gene Hackman,Gwyneth Paltrow,Anjelica Huston,Ben Stiller
+946,Y tu mamá también,Drama,7.6,Alfonso Cuarón,Maribel Verdú,Gael García Bernal,Daniel Giménez Cacho,Ana López Mercado
+947,Harry Potter and the Sorcerer's Stone,"Adventure, Family, Fantasy",7.6,Chris Columbus,Daniel Radcliffe,Rupert Grint,Richard Harris,Maggie Smith
+948,The Others,"Horror, Mystery, Thriller",7.6,Alejandro Amenábar,Nicole Kidman,Christopher Eccleston,Fionnula Flanagan,Alakina Mann
+949,Blow,"Biography, Crime, Drama",7.6,Ted Demme,Johnny Depp,Penélope Cruz,Franka Potente,Rachel Griffiths
+950,Enemy at the Gates,"Drama, History, War",7.6,Jean-Jacques Annaud,Jude Law,Ed Harris,Joseph Fiennes,Rachel Weisz
+951,Minority Report,"Action, Crime, Mystery",7.6,Steven Spielberg,Tom Cruise,Colin Farrell,Samantha Morton,Max von Sydow
+952,The Hurricane,"Biography, Drama, Sport",7.6,Norman Jewison,Denzel Washington,Vicellous Shannon,Deborah Kara Unger,Liev Schreiber
+953,American Psycho,"Comedy, Crime, Drama",7.6,Mary Harron,Christian Bale,Justin Theroux,Josh Lucas,Bill Sage
+954,Lola rennt,"Crime, Drama, Thriller",7.6,Tom Tykwer,Franka Potente,Moritz Bleibtreu,Herbert Knaup,Nina Petri
+955,The Thin Red Line,"Drama, War",7.6,Terrence Malick,Jim Caviezel,Sean Penn,Nick Nolte,Kirk Acevedo
+956,Mulan,"Animation, Adventure, Family",7.6,Tony Bancroft,Barry Cook,Ming-Na Wen,Eddie Murphy,BD Wong
+957,Fear and Loathing in Las Vegas,"Adventure, Comedy, Drama",7.6,Terry Gilliam,Johnny Depp,Benicio Del Toro,Tobey Maguire,Michael Lee Gogin
+958,Funny Games,"Crime, Drama, Thriller",7.6,Michael Haneke,Susanne Lothar,Ulrich Mühe,Arno Frisch,Frank Giering
+959,Dark City,"Mystery, Sci-Fi, Thriller",7.6,Alex Proyas,Rufus Sewell,Kiefer Sutherland,Jennifer Connelly,William Hurt
+960,Sleepers,"Crime, Drama, Thriller",7.6,Barry Levinson,Robert De Niro,Kevin Bacon,Brad Pitt,Jason Patric
+961,Lost Highway,"Mystery, Thriller",7.6,David Lynch,Bill Pullman,Patricia Arquette,John Roselius,Louis Eppolito
+962,Sense and Sensibility,"Drama, Romance",7.6,Ang Lee,Emma Thompson,Kate Winslet,James Fleet,Tom Wilkinson
+963,Die Hard: With a Vengeance,"Action, Adventure, Thriller",7.6,John McTiernan,Bruce Willis,Jeremy Irons,Samuel L. Jackson,Graham Greene
+964,Dead Man,"Adventure, Drama, Fantasy",7.6,Jim Jarmusch,Johnny Depp,Gary Farmer,Crispin Glover,Lance Henriksen
+965,The Bridges of Madison County,"Drama, Romance",7.6,Clint Eastwood,Clint Eastwood,Meryl Streep,Annie Corley,Victor Slezak
+966,Apollo 13,"Adventure, Drama, History",7.6,Ron Howard,Tom Hanks,Bill Paxton,Kevin Bacon,Gary Sinise
+967,Trois couleurs: Blanc,"Comedy, Drama, Romance",7.6,Krzysztof Kieslowski,Zbigniew Zamachowski,Julie Delpy,Janusz Gajos,Jerzy Stuhr
+968,Falling Down,"Action, Crime, Drama",7.6,Joel Schumacher,Michael Douglas,Robert Duvall,Barbara Hershey,Rachel Ticotin
+969,Dazed and Confused,Comedy,7.6,Richard Linklater,Jason London,Wiley Wiggins,Matthew McConaughey,Rory Cochrane
+970,My Cousin Vinny,"Comedy, Crime",7.6,Jonathan Lynn,Joe Pesci,Marisa Tomei,Ralph Macchio,Mitchell Whitfield
+971,Omohide poro poro,"Animation, Drama, Romance",7.6,Isao Takahata,Miki Imai,Toshirô Yanagiba,Yoko Honna,Mayumi Izuka
+972,Delicatessen,"Comedy, Crime",7.6,Marc Caro,Jean-Pierre Jeunet,Marie-Laure Dougnac,Dominique Pinon,Pascal Benezech
+973,Home Alone,"Comedy, Family",7.6,Chris Columbus,Macaulay Culkin,Joe Pesci,Daniel Stern,John Heard
+974,The Godfather: Part III,"Crime, Drama",7.6,Francis Ford Coppola,Al Pacino,Diane Keaton,Andy Garcia,Talia Shire
+975,When Harry Met Sally...,"Comedy, Drama, Romance",7.6,Rob Reiner,Billy Crystal,Meg Ryan,Carrie Fisher,Bruno Kirby
+976,The Little Mermaid,"Animation, Family, Fantasy",7.6,Ron Clements,John Musker,Jodi Benson,Samuel E. Wright,Rene Auberjonois
+977,The Naked Gun: From the Files of Police Squad!,"Comedy, Crime",7.6,David Zucker,Leslie Nielsen,Priscilla Presley,O.J. Simpson,Ricardo Montalban
+978,"Planes, Trains & Automobiles","Comedy, Drama",7.6,John Hughes,Steve Martin,John Candy,Laila Robins,Michael McKean
+979,Lethal Weapon,"Action, Crime, Thriller",7.6,Richard Donner,Mel Gibson,Danny Glover,Gary Busey,Mitchell Ryan
+980,Blood Simple,"Crime, Drama, Thriller",7.6,Joel Coen,Ethan Coen,John Getz,Frances McDormand,Dan Hedaya
+981,On Golden Pond,Drama,7.6,Mark Rydell,Katharine Hepburn,Henry Fonda,Jane Fonda,Doug McKeon
+982,Mad Max 2,"Action, Adventure, Sci-Fi",7.6,George Miller,Mel Gibson,Bruce Spence,Michael Preston,Max Phipps
+983,The Warriors,"Action, Crime, Thriller",7.6,Walter Hill,Michael Beck,James Remar,Dorsey Wright,Brian Tyler
+984,The Muppet Movie,"Adventure, Comedy, Family",7.6,James Frawley,Jim Henson,Frank Oz,Jerry Nelson,Richard Hunt
+985,Escape from Alcatraz,"Action, Biography, Crime",7.6,Don Siegel,Clint Eastwood,Patrick McGoohan,Roberts Blossom,Jack Thibeau
+986,Watership Down,"Animation, Adventure, Drama",7.6,Martin Rosen,John Hubley,John Hurt,Richard Briers,Ralph Richardson
+987,Midnight Express,"Biography, Crime, Drama",7.6,Alan Parker,Brad Davis,Irene Miracle,Bo Hopkins,Paolo Bonacelli
+988,Close Encounters of the Third Kind,"Drama, Sci-Fi",7.6,Steven Spielberg,Richard Dreyfuss,François Truffaut,Teri Garr,Melinda Dillon
+989,The Long Goodbye,"Comedy, Crime, Drama",7.6,Robert Altman,Elliott Gould,Nina van Pallandt,Sterling Hayden,Mark Rydell
+990,Giù la testa,"Drama, War, Western",7.6,Sergio Leone,Rod Steiger,James Coburn,Romolo Valli,Maria Monti
+991,Kelly's Heroes,"Adventure, Comedy, War",7.6,Brian G. Hutton,Clint Eastwood,Telly Savalas,Don Rickles,Carroll O'Connor
+992,The Jungle Book,"Animation, Adventure, Family",7.6,Wolfgang Reitherman,Phil Harris,Sebastian Cabot,Louis Prima,Bruce Reitherman
+993,Blowup,"Drama, Mystery, Thriller",7.6,Michelangelo Antonioni,David Hemmings,Vanessa Redgrave,Sarah Miles,John Castle
+994,A Hard Day's Night,"Comedy, Music, Musical",7.6,Richard Lester,John Lennon,Paul McCartney,George Harrison,Ringo Starr
+995,Breakfast at Tiffany's,"Comedy, Drama, Romance",7.6,Blake Edwards,Audrey Hepburn,George Peppard,Patricia Neal,Buddy Ebsen
+996,Giant,"Drama, Western",7.6,George Stevens,Elizabeth Taylor,Rock Hudson,James Dean,Carroll Baker
+997,From Here to Eternity,"Drama, Romance, War",7.6,Fred Zinnemann,Burt Lancaster,Montgomery Clift,Deborah Kerr,Donna Reed
+998,Lifeboat,"Drama, War",7.6,Alfred Hitchcock,Tallulah Bankhead,John Hodiak,Walter Slezak,William Bendix
+999,The 39 Steps,"Crime, Mystery, Thriller",7.6,Alfred Hitchcock,Robert Donat,Madeleine Carroll,Lucie Mannheim,Godfrey Tearle
