@@ -1,0 +1,1000 @@
+index,Movie Name,Year,Actors,Directors,Writer,Rating
+0,Adams Apples,15/04/05,"Ulrich Thomsen, Mads Mikkelsen, Nicolas Bro",Anders Thomas Jensen,Anders Thomas Jensen,7.7
+1,Knockin on Heavens Door,20/02/97,"Til Schweiger, Jan Josef Liefers, Thierry van Werveke",Thomas Jahn,"Thomas Jahn, Til Schweiger",7.9
+2,Mr. Nobody,26/09/13,"Jared Leto, Sarah Polley, Diane Kruger",Jaco Van Dormael,Jaco Van Dormael,7.8
+3,Nostalghia,01/03/92,"Oleg Yankovskiy, Erland Josephson, Domiziana Giordano",Andrei Tarkovsky,"Andrei Tarkovsky, Tonino Guerra",8
+4,The Man from Nowhere,05/08/10,"Won Bin, Kim Sae-ron, Kim Tae-hoon",Jeong-beom Lee,Jeong-beom Lee,7.7
+5,Udaan,16/07/10,"Rajat Barmecha, Ronit Roy, Manjot Singh",Vikramaditya Motwane,"Vikramaditya Motwane, Anurag Kashyap, Devanshu Singh",8.1
+6,Elite Squad,12/10/07,"Wagner Moura, André Ramiro, Caio Junqueira",José Padilha,"André Batista, Bráulio Mantovani, José Padilha",8
+7,All About Eve,27/10/50,"Bette Davis, Anne Baxter, George Sanders",Joseph L. Mankiewicz,"Joseph L. Mankiewicz, Mary Orr",8.3
+8,Dev.D,06/02/09,"Abhay Deol, Mahie Gill, Kalki Koechlin",Anurag Kashyap,"Saratchandra Chatterjee, Abhay Deol, Vikramaditya Motwane",8
+9,Dial M for Murder,29/05/54,"Ray Milland, Grace Kelly, Robert Cummings",Alfred Hitchcock,Frederick Knott,8.2
+10,Memories of Murder,02/05/03,"Kang-ho Song, Kim Sang-kyung, Roe-ha Kim",Bong Joon Ho,"Bong Joon Ho, Kwang-rim Kim, Sung-bo Shim",8.1
+11,Evil,26/09/03,"Andreas Wilson, Henrik Lundström, Gustaf Skarsgård",Mikael Håfström,"Jan Guillou, Hans Gunnarsson, Mikael Håfström",7.8
+12,City Lights,07/03/31,"Charles Chaplin, Virginia Cherrill, Florence Lee",Charles Chaplin,"Charles Chaplin, Harry Carr, Harry Crocker",8.5
+13,The Passion of Joan of Arc,25/10/28,"Maria Falconetti, Eugene Silvain, André Berley",Carl Theodor Dreyer,"Joseph Delteil, Carl Theodor Dreyer",8.1
+14,The Boondock Saints,21/01/00,"Willem Dafoe, Sean Patrick Flanery, Norman Reedus",Troy Duffy,Troy Duffy,7.7
+15,Belle de Jour,10/04/68,"Catherine Deneuve, Jean Sorel, Michel Piccoli",Luis Buñuel,"Joseph Kessel, Luis Buñuel, Jean-Claude Carrière",7.7
+16,The Umbrellas of Cherbourg,16/12/64,"Catherine Deneuve, Nino Castelnuovo, Anne Vernon",Jacques Demy,Jacques Demy,7.8
+17,M,31/08/31,"Peter Lorre, Ellen Widmann, Inge Landgut",Fritz Lang,"Thea von Harbou, Fritz Lang, Egon Jacobsohn",8.3
+18,Le Samouraï,25/10/67,"Alain Delon, François Périer, Nathalie Delon",Jean-Pierre Melville,"Joan McLeod, Jean-Pierre Melville, Georges Pellegrin",8
+19,Paan Singh Tomar,02/03/12,"Irrfan Khan, Mahie Gill, Rajesh Abhay",Tigmanshu Dhulia,"Sanjay Chauhan, Tigmanshu Dhulia",8.2
+20,8½,24/06/63,"Marcello Mastroianni, Anouk Aimée, Claudia Cardinale",Federico Fellini,"Federico Fellini, Ennio Flaiano, Tullio Pinelli",8
+21,Battleship Potemkin,24/12/25,"Aleksandr Antonov, Vladimir Barskiy, Grigoriy Aleksandrov",Sergei Eisenstein,"Nina Agadzhanova, Sergei Eisenstein, Grigoriy Aleksandrov",8
+22,Les yeux sans visage,24/10/62,"Pierre Brasseur, Alida Valli, Juliette Mayniel",Georges Franju,"Jean Redon, Pierre Boileau, Thomas Narcejac",7.6
+23,The Grapes of Wrath,15/03/40,"Henry Fonda, Jane Darwell, John Carradine",John Ford,"Nunnally Johnson, John Steinbeck",8.1
+24,Ikiru,25/03/56,"Takashi Shimura, Nobuo Kaneko, Shinichi Himori",Akira Kurosawa,"Akira Kurosawa, Shinobu Hashimoto, Hideo Oguni",8.3
+25,The Battle of Algiers,20/09/67,"Brahim Hadjadj, Jean Martin, Yacef Saadi",Gillo Pontecorvo,"Franco Solinas, Gillo Pontecorvo",8.1
+26,Rififi,05/06/56,"Jean Servais, Carl Möhner, Robert Manuel",Jules Dassin,"Auguste Le Breton, Jules Dassin, René Wheeler",8.2
+27,The Holy Mountain,11/07/75,"Alejandro Jodorowsky, Horacio Salinas, Zamira Saunders",Alejandro Jodorowsky,Alejandro Jodorowsky,7.9
+28,Lagaan: Once Upon a Time in India,15/06/01,"Aamir Khan, Raghuvir Yadav, Gracy Singh",Ashutosh Gowariker,"Ashutosh Gowariker, Kumar Dave, Sanjay Dayma",8.1
+29,Detachment,01/02/12,"Adrien Brody, Christina Hendricks, Marcia Gay Harden",Tony Kaye,Carl Lund,7.7
+30,Z,08/12/69,"Yves Montand, Irene Papas, Jean-Louis Trintignant",Costa-Gavras,"Vassilis Vassilikos, Jorge Semprún, Costa-Gavras",8.2
+31,Beasts of No Nation,16/10/15,"Abraham Attah, Emmanuel Affadzi, Ricky Adelayitor",Cary Joji Fukunaga,"Cary Joji Fukunaga, Uzodinma Iweala",7.7
+32,Peeping Tom,16/05/60,"Karlheinz Böhm, Anna Massey, Moira Shearer",Michael Powell,Leo Marks,7.6
+33,The Best Offer,01/01/14,"Geoffrey Rush, Jim Sturgess, Sylvia Hoeks",Giuseppe Tornatore,Giuseppe Tornatore,7.8
+34,Hiroshima Mon Amour,16/05/60,"Emmanuelle Riva, Eiji Okada, Stella Dassas",Alain Resnais,Marguerite Duras,7.9
+35,Night of the Living Dead,04/10/68,"Duane Jones, Judith ODea, Karl Hardman",George A. Romero,"John A. Russo, George A. Romero",7.8
+36,Rashomon,26/12/51,"Toshirô Mifune, Machiko Kyô, Masayuki Mori",Akira Kurosawa,"Ryûnosuke Akutagawa, Akira Kurosawa, Shinobu Hashimoto",8.2
+37,Elite Squad 2: The Enemy Within,08/10/10,"Wagner Moura, Irandhir Santos, André Ramiro",José Padilha,"Bráulio Mantovani, José Padilha, Rodrigo Pimentel",8
+38,Andrei Rublev,01/10/73,"Anatoliy Solonitsyn, Ivan Lapikov, Nikolay Grinko",Andrei Tarkovsky,"Andrey Konchalovskiy, Andrei Tarkovsky",8.1
+39,Darbareye Elly,06/06/09,"Golshifteh Farahani, Shahab Hosseini, Taraneh Alidoosti",Asghar Farhadi,"Asghar Farhadi, Azad Jafarian",8
+40,I Saw the Devil,12/08/10,"Lee Byung-hun, Choi Min-sik, Jeon Gook-hwan",Jee-woon Kim,"Park Hoon-jung, Jee-woon Kim",7.8
+41,Tokyo Godfathers,08/11/03,"Tôru Emori, Yoshiaki Umegaki, Aya Okamoto",Satoshi Kon,"Satoshi Kon, Keiko Nobumoto",7.8
+42,Once Upon a Time in Anatolia,23/09/11,"Muhammet Uzuner, Yilmaz Erdogan, Taner Birsel",Nuri Bilge Ceylan,"Ercan Kesal, Ebru Ceylan, Nuri Bilge Ceylan",7.9
+43,The Experiment,08/03/01,"Moritz Bleibtreu, Christian Berkel, Oliver Stokowski",Oliver Hirschbiegel,"Mario Giordano, Christoph Darnstädt, Don Bohlinger",7.7
+44,Tangerines,17/04/15,"Lembit Ulfsak, Elmo Nüganen, Giorgi Nakashidze",Zaza Urushadze,"Tatjana Mülbeier, Zaza Urushadze, Artur Veeber",8.1
+45,Modern Times,25/02/36,"Charles Chaplin, Paulette Goddard, Henry Bergman",Charles Chaplin,Charles Chaplin,8.5
+46,Winter Sleep,12/06/14,"Haluk Bilginer, Melisa Sözen, Demet Akbag",Nuri Bilge Ceylan,"Ebru Ceylan, Nuri Bilge Ceylan, Anton Chekhov",8.1
+47,Vicky Donor,20/04/12,"Ayushmann Khurrana, Yami Gautam, Annu Kapoor",Shoojit Sircar,Juhi Chaturvedi,7.8
+48,Infernal Affairs,12/12/02,"Andy Lau, Tony Chiu-Wai Leung, Anthony Chau-Sang Wong","Andrew Lau, Alan Mak","Alan Mak, Felix Chong",8
+49,Underground,20/06/97,"Predrag Miki Manojlovic, Lazar Ristovski, Mirjana Jokovic",Emir Kusturica,"Dusan Kovacevic, Emir Kusturica",8.1
+50,The Grand Illusion,12/09/38,"Jean Gabin, Dita Parlo, Pierre Fresnay",Jean Renoir,"Charles Spaak, Jean Renoir",8.1
+51,The Broken Circle Breakdown,10/10/12,"Veerle Baetens, Johan Heldenbergh, Nell Cattrysse",Felix van Groeningen,"Johan Heldenbergh, Mieke Dobbels, Carl Joos",7.7
+52,Mirror,07/03/75,"Margarita Terekhova, Filipp Yankovskiy, Ignat Daniltsev",Andrei Tarkovsky,"Aleksandr Misharin, Arseniy Tarkovskiy, Andrei Tarkovsky",8
+53,Lilya 4-Ever,23/08/02,"Oksana Akinshina, Artyom Bogucharskiy, Pavel Ponomaryov",Lukas Moodysson,Lukas Moodysson,7.8
+54,Millennium Actress,14/09/02,"Miyoko Shôji, Shôzô Îzuka, Mami Koyama",Satoshi Kon,"Satoshi Kon, Sadayuki Murai",7.8
+55,Happy Together,30/05/97,"Leslie Cheung, Tony Chiu-Wai Leung, Chang Chen",Kar-Wai Wong,"Manuel Puig, Kar-Wai Wong",7.7
+56,Fantastic Planet,01/12/73,"Barry Bostwick, Jennifer Drake, Eric Baugin",René Laloux,"Stefan Wul, Roland Topor, René Laloux",7.7
+57,The Discreet Charm of the Bourgeoisie,22/10/72,"Fernando Rey, Delphine Seyrig, Paul Frankeur",Luis Buñuel,"Luis Buñuel, Jean-Claude Carrière",7.9
+58,The Shop Around the Corner,12/01/40,"Margaret Sullavan, James Stewart, Frank Morgan",Ernst Lubitsch,"Samson Raphaelson, Miklós László, Ben Hecht",8.1
+59,Fireworks,20/03/98,"Takeshi Kitano, Kayoko Kishimoto, Ren Ôsugi",Takeshi Kitano,Takeshi Kitano,7.7
+60,Stalker,17/04/80,"Alisa Freyndlikh, Aleksandr Kaydanovskiy, Anatoliy Solonitsyn",Andrei Tarkovsky,"Arkadiy Strugatskiy, Boris Strugatskiy, Andrei Tarkovsky",8.1
+61,3-Iron,15/10/04,"Seung-Yun Lee, Hee Jae, Hyuk-ho Kwon",Kim Ki-duk,Kim Ki-duk,7.9
+62,"I, Daniel Blake",09/06/17,"Dave Johns, Hayley Squires, Sharon Percy",Ken Loach,Paul Laverty,7.9
+63,The Legend of 1900,28/10/98,"Tim Roth, Pruitt Taylor Vince, Mélanie Thierry",Giuseppe Tornatore,"Alessandro Baricco, Giuseppe Tornatore",8
+64,Seven Samurai,19/11/56,"Toshirô Mifune, Takashi Shimura, Keiko Tsushima",Akira Kurosawa,"Akira Kurosawa, Shinobu Hashimoto, Hideo Oguni",8.6
+65,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,29/01/64,"Peter Sellers, George C. Scott, Sterling Hayden",Stanley Kubrick,"Stanley Kubrick, Terry Southern, Peter George",8.4
+66,Time of the Gypsies,09/02/90,"Davor Dujmovic, Bora Todorovic, Ljubica Adzovic",Emir Kusturica,"Emir Kusturica, Gordan Mihic",8.1
+67,The Great Dictator,07/03/41,"Charles Chaplin, Paulette Goddard, Jack Oakie",Charles Chaplin,Charles Chaplin,8.4
+68,His Girl Friday,18/01/40,"Cary Grant, Rosalind Russell, Ralph Bellamy",Howard Hawks,"Charles Lederer, Ben Hecht, Charles MacArthur",7.9
+69,Beauty and the Beast,22/11/91,"Paige OHara, Robby Benson, Jesse Corti","Gary Trousdale, Kirk Wise","Linda Woolverton, Brenda Chapman, Chris Sanders",8.1
+70,Dil Chahta Hai,10/08/01,"Aamir Khan, Saif Ali Khan, Akshaye Khanna",Farhan Akhtar,"Kassim Jagmagia, Farhan Akhtar, Karan Vishwanath Kashyap",8.1
+71,The Sacrifice,09/05/86,"Erland Josephson, Susan Fleetwood, Allan Edwall",Andrei Tarkovsky,Andrei Tarkovsky,7.9
+72,La Haine,23/02/96,"Vincent Cassel, Hubert Koundé, Saïd Taghmaoui",Mathieu Kassovitz,Mathieu Kassovitz,8.1
+73,Taste of Cherry,26/11/97,"Homayoun Ershadi, Abdolrahman Bagheri, Afshin Khorshid Bakhtiari",Abbas Kiarostami,Abbas Kiarostami,7.7
+74,This Is England,27/04/07,"Thomas Turgoose, Stephen Graham, Jo Hartley",Shane Meadows,Shane Meadows,7.7
+75,Bicycle Thieves,13/12/49,"Lamberto Maggiorani, Enzo Staiola, Lianella Carell",Vittorio De Sica,"Cesare Zavattini, Luigi Bartolini, Oreste Biancoli",8.3
+76,Breathless,07/02/61,"Jean-Paul Belmondo, Jean Seberg, Daniel Boulanger",Jean-Luc Godard,"François Truffaut, Jean-Luc Godard, Claude Chabrol",7.8
+77,Talvar,02/10/15,"Irrfan Khan, Konkona Sen Sharma, Neeraj Kabi",Meghna Gulzar,"Vishal Bhardwaj, Aditya Nimbalkar",8.1
+78,"Black Cat, White Cat",01/06/98,"Bajram Severdzan, Srdjan Zika Todorovic, Branka Katic",Emir Kusturica,Gordan Mihic,8
+79,Jojo Rabbit,08/11/19,"Roman Griffin Davis, Thomasin McKenzie, Scarlett Johansson",Taika Waititi,"Christine Leunens, Taika Waititi",7.9
+80,Open Your Eyes,19/12/97,"Eduardo Noriega, Penélope Cruz, Chete Lera",Alejandro Amenábar,"Alejandro Amenábar, Mateo Gil",7.7
+81,Jab We Met,26/10/07,"Shahid Kapoor, Kareena Kapoor, Tarun Arora",Imtiaz Ali,Imtiaz Ali,7.9
+82,After the Wedding,11/05/07,"Mads Mikkelsen, Sidse Babett Knudsen, Rolf Lassgård",Susanne Bier,"Susanne Bier, Anders Thomas Jensen",7.7
+83,Land of Mine,03/12/15,"Roland Møller, Louis Hofmann, Joel Basman",Martin Zandvliet,Martin Zandvliet,7.8
+84,The Third Man,03/09/49,"Orson Welles, Joseph Cotten, Alida Valli",Carol Reed,"Graham Greene, Orson Welles, Alexander Korda",8.1
+85,Nausicaä of the Valley of the Wind,25/11/87,"Sumi Shimamoto, Mahito Tsujimura, Hisako Kyôda",Hayao Miyazaki,"Hayao Miyazaki, Cindy Davis, Donald H. Hewitt",8.1
+86,The Return,25/06/03,"Vladimir Garin, Ivan Dobronravov, Konstantin Lavronenko",Andrey Zvyagintsev,"Vladimir Moiseenko, Aleksandr Novototskiy-Vlasov",7.9
+87,Ghost in the Shell,31/03/17,"Scarlett Johansson, Pilou Asbæk, Takeshi Kitano",Rupert Sanders,"Shirow Masamune, Jamie Moss, William Wheeler",6.3
+88,The African Queen,21/03/52,"Humphrey Bogart, Katharine Hepburn, Robert Morley",John Huston,"C.S. Forester, James Agee, John Huston",7.8
+89,Pather Panchali,26/08/55,"Kanu Bannerjee, Karuna Bannerjee, Subir Banerjee",Satyajit Ray,"Bibhutibhushan Bandyopadhyay, Satyajit Ray",8.4
+90,Sunrise,04/11/27,"George OBrien, Janet Gaynor, Margaret Livingston",F.W. Murnau,"Carl Mayer, Hermann Sudermann, Katherine Hilliker",8.1
+91,The Conformist,21/03/71,"Jean-Louis Trintignant, Stefania Sandrelli, Gastone Moschin",Bernardo Bertolucci,"Alberto Moravia, Bernardo Bertolucci, Lee Kresel",7.9
+92,Mother,28/05/09,"Hye-ja Kim, Won Bin, Jin Goo",Bong Joon Ho,"Bong Joon Ho, Eun-kyo Park",7.8
+93,Akira,28/06/91,"Mitsuo Iwata, Nozomu Sasaki, Mami Koyama",Katsuhiro Ôtomo,"Katsuhiro Ôtomo, Izô Hashimoto",8
+94,Amarcord,19/09/74,"Magali Noël, Bruno Zanin, Pupella Maggio",Federico Fellini,"Federico Fellini, Tonino Guerra",7.9
+95,Chungking Express,08/03/96,"Brigitte Lin, Takeshi Kaneshiro, Tony Chiu-Wai Leung",Kar-Wai Wong,Kar-Wai Wong,8.1
+96,The Night of the Hunter,27/07/55,"Robert Mitchum, Shelley Winters, Lillian Gish",Charles Laughton,"Davis Grubb, James Agee, Charles Laughton",8
+97,Nobody Knows,21/10/04,"Yûya Yagira, Ayu Kitaura, Hiei Kimura",Hirokazu Koreeda,Hirokazu Koreeda,8.1
+98,The Hunt,10/01/13,"Mads Mikkelsen, Thomas Bo Larsen, Annika Wedderkopp",Thomas Vinterberg,"Tobias Lindholm, Thomas Vinterberg",8.3
+99,Mysterious Skin,24/06/05,"Brady Corbet, Joseph Gordon-Levitt, Elisabeth Shue",Gregg Araki,"Gregg Araki, Scott Heim",7.6
+100,Oldboy,27/11/13,"Josh Brolin, Elizabeth Olsen, Samuel L. Jackson",Spike Lee,"Garon Tsuchiya, Nobuaki Minegishi, Mark Protosevich",5.7
+101,Black,04/02/05,"Amitabh Bachchan, Rani Mukerji, Shernaz Patel",Sanjay Leela Bhansali,"Sanjay Leela Bhansali, Bhavani Iyer, Prakash Kapadia",8.2
+102,Drishyam,31/07/15,"Ajay Devgn, Shriya Saran, Tabu",Nishikant Kamat,"Jeethu Joseph, Upendra Sidhaye",8.2
+103,The Edge of Heaven,27/09/07,"Baki Davrak, Gürsoy Gemec, Cengiz Daner",Fatih Akin,Fatih Akin,7.8
+104,Nights of Cabiria,16/10/57,"Giulietta Masina, François Périer, Franca Marzi",Federico Fellini,"Federico Fellini, Ennio Flaiano, Tullio Pinelli",8.1
+105,When Marnie Was There,07/08/15,"Sara Takatsuki, Kasumi Arimura, Nanako Matsushima",Hiromasa Yonebayashi,"Joan G. Robinson, Keiko Niwa, Masashi Ando",7.7
+106,Perfect Blue,28/02/98,"Junko Iwao, Rica Matsumoto, Shinpachi Tsuji",Satoshi Kon,"Sadayuki Murai, Yoshikazu Takeuchi, Rika Takahashi",8
+107,Song of the Sea,20/11/15,"David Rawle, Brendan Gleeson, Lisa Hannigan",Tomm Moore,"Will Collins, Tomm Moore",8.1
+108,Control,26/09/07,"Sam Riley, Samantha Morton, Craig Parkinson",Anton Corbijn,"Deborah Curtis, Matt Greenhalgh",7.7
+109,Paprika,22/06/07,"Megumi Hayashibara, Tôru Emori, Katsunosuke Hori",Satoshi Kon,"Yasutaka Tsutsui, Seishi Minakami, Satoshi Kon",7.7
+110,Chhichhore,06/09/19,"Sushant Singh Rajput, Shraddha Kapoor, Varun Sharma",Nitesh Tiwari,"Piyush Gupta, Nikhil Mehrotra, Nitesh Tiwari",8.5
+111,Haider,02/10/14,"Shahid Kapoor, Tabu, Shraddha Kapoor",Vishal Bhardwaj,"William Shakespeare, Basharat Peer, Vishal Bhardwaj",8.1
+112,OMG: Oh My God!,28/09/12,"Paresh Rawal, Abhinay Raj Singh, Akshay Kumar",Umesh Shukla,"Alok Jha, Saumya Joshi, Bhavesh Mandalia",8.2
+113,Children of Heaven,22/01/99,"Mohammad Amir Naji, Amir Farrokh Hashemian, Bahare Seddiqi",Majid Majidi,Majid Majidi,8.2
+114,Sherlock Jr.,11/05/24,"Buster Keaton, Kathryn McGuire, Joe Keaton",Buster Keaton,"Jean C. Havez, Joseph A. Mitchell, Clyde Bruckman",8.2
+115,Cowboy Bebop: The Movie,16/05/03,"Beau Billingslea, Melissa Fahn, Nicholas Guest","Shinichirô Watanabe, Tensai Okamura, Hiroyuki Okiura","Keiko Nobumoto, Hajime Yatate",7.8
+116,Short Term 12,23/08/13,"Brie Larson, Frantz Turner, John Gallagher Jr.",Destin Daniel Cretton,Destin Daniel Cretton,7.9
+117,Casablanca,23/01/43,"Humphrey Bogart, Ingrid Bergman, Paul Henreid",Michael Curtiz,"Julius J. Epstein, Philip G. Epstein, Howard Koch",8.5
+118,The General,02/01/27,"Buster Keaton, Marion Mack, Glen Cavender","Clyde Bruckman, Buster Keaton","Buster Keaton, Clyde Bruckman, Al Boasberg",8.1
+119,Kahaani,09/03/12,"Vidya Balan, Parambrata Chattopadhyay, Indraneil Sengupta",Sujoy Ghosh,"Sujoy Ghosh, Advaita Kala, Suresh Nair",8.1
+120,Joyeux Noel,09/11/05,"Diane Kruger, Benno Fürmann, Guillaume Canet",Christian Carion,Christian Carion,7.7
+121,No Mans Land,19/09/01,"Branko Djuric, Rene Bitorajac, Filip Sovagovic",Danis Tanovic,Danis Tanovic,7.9
+122,Special 26,08/02/13,"Akshay Kumar, Anupam Kher, Manoj Bajpayee",Neeraj Pandey,Neeraj Pandey,8.1
+123,The Machinist,03/12/04,"Christian Bale, Jennifer Jason Leigh, Aitana Sánchez-Gijón",Brad Anderson,Scott Kosar,7.7
+124,Diabolique,21/11/55,"Simone Signoret, Véra Clouzot, Paul Meurisse",Henri-Georges Clouzot,"Pierre Boileau, Thomas Narcejac, Henri-Georges Clouzot",8.1
+125,Leviathan,05/02/15,"Aleksey Serebryakov, Elena Lyadova, Roman Madyanov",Andrey Zvyagintsev,"Oleg Negin, Andrey Zvyagintsev",7.6
+126,My Neighbor Totoro,13/07/90,"Hitoshi Takagi, Noriko Hidaka, Chika Sakamoto",Hayao Miyazaki,Hayao Miyazaki,8.2
+127,Tae Guk Gi: The Brotherhood of War,24/09/04,"Jang Dong-Gun, Won Bin, Eun-ju Lee",Je-kyu Kang,"Ji-hoon Han, Je-kyu Kang, Sang-don Kim",8
+128,Lets Go! India,10/08/07,"Shah Rukh Khan, Vidya Malvade, Sagarika Ghatge",Shimit Amin,Jaideep Sahni,8.2
+129,"4 Months, 3 Weeks and 2 Days",14/09/07,"Anamaria Marinca, Laura Vasiliu, Vlad Ivanov",Cristian Mungiu,Cristian Mungiu,7.9
+130,Nine Queens,31/08/00,"Ricardo Darín, Gastón Pauls, Graciela Tenenbaum",Fabián Bielinsky,Fabián Bielinsky,7.9
+131,Swades,17/12/04,"Shah Rukh Khan, Gayatri Joshi, Kishori Ballal",Ashutosh Gowariker,"M.G. Sathya, Ashutosh Gowariker, Sameer Sharma",8.3
+132,Like Stars on Earth,21/12/07,"Darsheel Safary, Aamir Khan, Tisca Chopra","Aamir Khan, Amole Gupte",Amole Gupte,8.4
+133,Monty Python and the Holy Grail,25/05/75,"Graham Chapman, John Cleese, Eric Idle","Terry Gilliam, Terry Jones","Graham Chapman, John Cleese, Eric Idle",8.2
+134,Metropolis,13/03/27,"Brigitte Helm, Alfred Abel, Gustav Fröhlich",Fritz Lang,"Thea von Harbou, Fritz Lang",8.3
+135,Pink,16/09/16,"Taapsee Pannu, Amitabh Bachchan, Kirti Kulhari",Aniruddha Roy Chowdhury,"Shoojit Sircar, Aniruddha Roy Chowdhury, Ritesh Shah",8.1
+136,Three Colors: Blue,08/09/93,"Juliette Binoche, Zbigniew Zamachowski, Julie Delpy",Krzysztof Kieslowski,"Krzysztof Kieslowski, Krzysztof Piesiewicz, Agnieszka Holland",7.9
+137,The Past,17/05/13,"Bérénice Bejo, Tahar Rahim, Ali Mosaffa",Asghar Farhadi,Asghar Farhadi,7.7
+138,The Little Prince,05/08/16,"Jeff Bridges, Mackenzie Foy, Rachel McAdams",Mark Osborne,"Irena Brignull, Bob Persichetti, Antoine de Saint-Exupéry",7.7
+139,Andhadhun,05/10/18,"Ayushmann Khurrana, Tabu, Radhika Apte",Sriram Raghavan,"Arijit Biswas, Yogesh Chandekar, Sriram Raghavan",8.2
+140,Queen,07/03/14,"Kangana Ranaut, Rajkummar Rao, Lisa Haydon",Vikas Bahl,"Vikas Bahl, Chaitally Parmar, Parveez Sheikh",8.2
+141,Down by Law,25/09/86,"Tom Waits, John Lurie, Roberto Benigni",Jim Jarmusch,Jim Jarmusch,7.7
+142,Three Colors: White,10/06/94,"Zbigniew Zamachowski, Julie Delpy, Janusz Gajos",Krzysztof Kieslowski,"Krzysztof Kieslowski, Krzysztof Piesiewicz, Agnieszka Holland",7.6
+143,Donnie Darko,19/01/01,"Jake Gyllenhaal, Jena Malone, Mary McDonnell",Richard Kelly,Richard Kelly,8
+144,Departures,19/06/09,"Masahiro Motoki, Ryôko Hirosue, Tsutomu Yamazaki",Yôjirô Takita,Kundô Koyama,8
+145,The Tale of The Princess Kaguya,23/11/13,"Chloë Grace Moretz, James Caan, Mary Steenburgen",Isao Takahata,"Isao Takahata, Riko Sakaguchi",8
+146,The Virgin Spring,14/11/60,"Max von Sydow, Birgitta Valberg, Gunnel Lindblom",Ingmar Bergman,Ulla Isaksson,8.1
+147,Dogville,23/04/04,"Nicole Kidman, Paul Bettany, Lauren Bacall",Lars von Trier,Lars von Trier,8
+148,Citizen Kane,05/09/41,"Orson Welles, Joseph Cotten, Dorothy Comingore",Orson Welles,"Herman J. Mankiewicz, Orson Welles, John Houseman",8.3
+149,Bhaag Milkha Bhaag,12/07/13,"Farhan Akhtar, Japtej Singh, Divya Dutta",Rakeysh Omprakash Mehra,Prasoon Joshi,8.3
+150,The Celebration,19/06/98,"Ulrich Thomsen, Henning Moritzen, Thomas Bo Larsen",Thomas Vinterberg,"Thomas Vinterberg, Mogens Rukov",8.1
+151,Capernaum,20/09/18,"Zain Al Rafeea, Yordanos Shiferaw, Boluwatife Treasure Bankole",Nadine Labaki,"Nadine Labaki, Jihad Hojeily, Michelle Keserwany",8.4
+152,English Vinglish,05/10/12,"Sridevi, Adil Hussain, Mehdi Nebbou",Gauri Shinde,Gauri Shinde,7.8
+153,Cries,N/A,"Kelly Dawn Burchmore, Thomas Coombes, Matthew Field, Laura Mulholland",Verity Healey,Verity Healey,[]
+154,Flipped,10/09/10,"Madeline Carroll, Callan McAuliffe, Rebecca De Mornay",Rob Reiner,"Rob Reiner, Andrew Scheinman, Wendelin Van Draanen",7.7
+155,Naked,04/02/94,"David Thewlis, Lesley Sharp, Katrin Cartlidge",Mike Leigh,Mike Leigh,7.8
+156,M.S. Dhoni: The Untold Story,30/09/16,"Sushant Singh Rajput, Abhinay Raj Singh, Kiara Advani",Neeraj Pandey,"Neeraj Pandey, Dilip Jha, Mohinder Pratap Singh",8.1
+157,Kal Ho Naa Ho,28/11/03,"Preity Zinta, Shah Rukh Khan, Saif Ali Khan",Nikkhil Advani,"Niranjan Iyengar, Karan Johar",8
+158,Dreams,24/08/90,"Akira Terao, Mitsuko Baishô, Toshie Negishi","Akira Kurosawa, Ishirô Honda","Akira Kurosawa, Ishirô Honda",7.7
+159,The Double Life of Véronique,22/11/91,"Irène Jacob, Wladyslaw Kowalski, Halina Gryglaszewska",Krzysztof Kieslowski,"Krzysztof Kieslowski, Krzysztof Piesiewicz",7.7
+160,Marriage Story,06/12/19,"Adam Driver, Scarlett Johansson, Julia Greer",Noah Baumbach,Noah Baumbach,7.9
+161,The Handmaiden,01/06/16,"Kim Min-hee, Ha Jung-woo, Cho Jin-woong",Park Chan-wook,"Sarah Waters, Seo-kyeong Jeong, Park Chan-wook",8.1
+162,Night on Earth,12/12/91,"Winona Ryder, Gena Rowlands, Lisanne Falk",Jim Jarmusch,Jim Jarmusch,7.7
+163,The Wizard of Oz,25/08/39,"Judy Garland, Frank Morgan, Ray Bolger","Victor Fleming, George Cukor, Mervyn LeRoy","Noel Langley, Florence Ryerson, Edgar Allan Woolf",8.1
+164,A Prophet,26/03/10,"Tahar Rahim, Niels Arestrup, Adel Bencherif",Jacques Audiard,"Thomas Bidegain, Jacques Audiard, Abdel Raouf Dafri",7.8
+165,The Sea Inside,04/03/05,"Javier Bardem, Belén Rueda, Lola Dueñas",Alejandro Amenábar,"Alejandro Amenábar, Mateo Gil",8
+166,The Maltese Falcon,18/10/41,"Humphrey Bogart, Mary Astor, Gladys George",John Huston,"John Huston, Dashiell Hammett",8
+167,Let the Right One In,12/12/08,"Kåre Hedebrant, Lina Leandersson, Per Ragnar",Tomas Alfredson,John Ajvide Lindqvist,7.9
+168,"Paris, Texas",23/08/84,"Harry Dean Stanton, Nastassja Kinski, Dean Stockwell",Wim Wenders,"L.M. Kit Carson, Sam Shepard, Walter Donohue",8.1
+169,Color It Yellow,26/01/06,"Aamir Khan, Soha Ali Khan, Siddharth",Rakeysh Omprakash Mehra,"Renzil DSilva, Ajeet Ghorpade, Prasoon Joshi",8.1
+170,Blue Is the Warmest Colour,09/10/13,"Léa Seydoux, Adèle Exarchopoulos, Salim Kechiouche",Abdellatif Kechiche,"Abdellatif Kechiche, Ghalya Lacroix, Julie Maroh",7.7
+171,Once Were Warriors,03/03/95,"Rena Owen, Temuera Morrison, Mamaengaroa Kerr-Bell",Lee Tamahori,"Riwia Brown, Alan Duff",7.9
+172,"Carry On, Munna Bhai",01/09/06,"Sanjay Dutt, Arshad Warsi, Vidya Balan",Rajkumar Hirani,"Vidhu Vinod Chopra, Rajkumar Hirani, Abhijat Joshi",8.1
+173,The White Ribbon,05/03/10,"Christian Friedel, Ernst Jacobi, Leonie Benesch",Michael Haneke,Michael Haneke,7.8
+174,Touch of Evil,23/04/58,"Charlton Heston, Orson Welles, Janet Leigh",Orson Welles,"Orson Welles, Whit Masterson, Franklin Coen",8
+175,Super 30,12/07/19,"Hrithik Roshan, Mrunal Thakur, Nandish Singh Sandhu",Vikas Bahl,Sanjeev Dutta,8.1
+176,The Fall,30/05/08,"Lee Pace, Catinca Untaru, Justine Waddell",Tarsem Singh,"Dan Gilroy, Nico Soultanakis, Tarsem Singh",7.8
+177,Princess Mononoke,19/12/97,"Yôji Matsuda, Yuriko Ishida, Yûko Tanaka",Hayao Miyazaki,"Hayao Miyazaki, Neil Gaiman",8.4
+178,"Spring, Summer, Fall, Winter... and Spring",28/05/04,"Kim Ki-duk, Oh Yeong-su, Jong-ho Kim",Kim Ki-duk,Kim Ki-duk,8
+179,The Salesman,31/08/16,"Shahab Hosseini, Taraneh Alidoosti, Mina Sadati",Asghar Farhadi,Asghar Farhadi,7.7
+180,The Taking of Pelham One Two Three,14/11/74,"Walter Matthau, Robert Shaw, Martin Balsam",Joseph Sargent,"John Godey, Peter Stone",7.7
+181,The King of Comedy,18/12/82,"Robert De Niro, Jerry Lewis, Diahnne Abbott",Martin Scorsese,Paul D. Zimmerman,7.8
+182,A Night at the Opera,15/11/35,"Groucho Marx, Chico Marx, Harpo Marx","Sam Wood, Edmund Goulding","George S. Kaufman, Morrie Ryskind, James Kevin McGuinness",7.9
+183,Raise the Red Lantern,18/12/91,"Gong Li, Jingwu Ma, Saifei He",Yimou Zhang,"Tong Su, Ni Zhen",8.1
+184,The Innocents,15/12/61,"Deborah Kerr, Peter Wyngarde, Megs Jenkins",Jack Clayton,"Henry James, John Mortimer, William Archibald",7.8
+185,The Raid 2,11/04/14,"Iko Uwais, Yayan Ruhian, Arifin Putra",Gareth Evans,Gareth Evans,7.9
+186,Miracle on 34th Street,04/07/47,"Edmund Gwenn, Maureen OHara, John Payne",George Seaton,"George Seaton, Valentine Davies",7.9
+187,In the Mood for Love,09/03/01,"Tony Chiu-Wai Leung, Maggie Cheung, Siu Ping-Lam",Kar-Wai Wong,Kar-Wai Wong,8.1
+188,Barfi!,14/09/12,"Ranbir Kapoor, Priyanka Chopra Jonas, Ileana DCruz",Anurag Basu,"Anurag Basu, Tani Basu, Sanjeev Dutta",8.2
+189,Happiness,16/10/98,"Jane Adams, Jon Lovitz, Philip Seymour Hoffman",Todd Solondz,Todd Solondz,7.7
+190,Reservoir Dogs,02/09/92,"Harvey Keitel, Tim Roth, Michael Madsen",Quentin Tarantino,"Quentin Tarantino, Roger Avary",8.3
+191,The Great Beauty,14/03/14,"Toni Servillo, Carlo Verdone, Sabrina Ferilli",Paolo Sorrentino,"Paolo Sorrentino, Umberto Contarello",7.7
+192,Waking Life,07/03/02,"Ethan Hawke, Trevor Jack Brooks, Lorelei Linklater",Richard Linklater,Richard Linklater,7.8
+193,Veer-Zaara,12/11/04,"Shah Rukh Khan, Preity Zinta, Rani Mukerji",Yash Chopra,Aditya Chopra,7.9
+194,Hedwig and the Angry Inch,31/08/01,"John Cameron Mitchell, Miriam Shor, Stephen Trask",John Cameron Mitchell,"John Cameron Mitchell, Stephen Trask",7.7
+195,Wild Tales,21/08/14,"Darío Grandinetti, María Marull, Mónica Villa",Damián Szifron,"Germán Servidio, Damián Szifron",8.1
+196,Zindagi Na Milegi Dobara,15/07/11,"Hrithik Roshan, Farhan Akhtar, Abhay Deol",Zoya Akhtar,"Farhan Akhtar, Reema Kagti, Zoya Akhtar",8.2
+197,Clerks,09/11/94,"Brian OHalloran, Jeff Anderson, Marilyn Ghigliotti",Kevin Smith,Kevin Smith,7.7
+198,The Skin I Live In,02/09/11,"Antonio Banderas, Elena Anaya, Jan Cornet",Pedro Almodóvar,"Pedro Almodóvar, Agustín Almodóvar, Thierry Jonquet",7.6
+199,Vertigo,22/05/58,"James Stewart, Kim Novak, Barbara Bel Geddes",Alfred Hitchcock,"Alec Coppel, Samuel A. Taylor, Pierre Boileau",8.3
+200,Sing Street,17/03/16,"Ferdia Walsh-Peelo, Aidan Gillen, Maria Doyle Kennedy",John Carney,"Simon Carmody, John Carney",7.9
+201,All Quiet on the Western Front,24/08/30,"Lew Ayres, Louis Wolheim, John Wray",Lewis Milestone,"Erich Maria Remarque, Maxwell Anderson, George Abbott",8.1
+202,Shoplifters,23/11/18,"Lily Franky, Sakura Andô, Kirin Kiki",Hirokazu Koreeda,Hirokazu Koreeda,7.9
+203,What We Do in the Shadows,13/02/15,"Jemaine Clement, Taika Waititi, Cori Gonzalez-Macuer","Jemaine Clement, Taika Waititi","Jemaine Clement, Taika Waititi",7.7
+204,Wings of Desire,06/05/88,"Bruno Ganz, Solveig Dommartin, Otto Sander",Wim Wenders,"Wim Wenders, Peter Handke, Richard Reitinger",8
+205,A Man Called Ove,30/09/16,"Rolf Lassgård, Bahar Pars, Filip Berg",Hannes Holm,"Hannes Holm, Fredrik Backman",7.7
+206,Mommy,08/10/14,"Anne Dorval, Antoine Olivier Pilon, Suzanne Clément",Xavier Dolan,Xavier Dolan,8.1
+207,The Chorus,17/03/04,"Gérard Jugnot, François Berléand, Jean-Baptiste Maunier",Christophe Barratier,"Georges Chaperot, René Wheeler, Noël-Noël",7.9
+208,Requiem for a Dream,15/12/00,"Ellen Burstyn, Jared Leto, Jennifer Connelly",Darren Aronofsky,"Hubert Selby Jr., Darren Aronofsky",8.3
+209,Vera Drake,04/02/05,"Imelda Staunton, Jim Broadbent, Heather Craney",Mike Leigh,Mike Leigh,7.7
+210,Portrait of a Lady on Fire,14/02/20,"Noémie Merlant, Adèle Haenel, Luàna Bajrami",Céline Sciamma,Céline Sciamma,8.1
+211,"Lock, Stock and Two Smoking Barrels",28/08/98,"Jason Flemyng, Dexter Fletcher, Nick Moran",Guy Ritchie,Guy Ritchie,8.2
+212,Ace in the Hole,04/07/51,"Kirk Douglas, Jan Sterling, Robert Arthur",Billy Wilder,"Billy Wilder, Lesser Samuels, Walter Newman",8.1
+213,The Adventures of Robin Hood,14/05/38,"Errol Flynn, Olivia de Havilland, Basil Rathbone","Michael Curtiz, William Keighley","Norman Reilly Raine, Seton I. Miller, Rowland Leigh",7.9
+214,Willy Wonka & the Chocolate Factory,30/06/71,"Gene Wilder, Jack Albertson, Peter Ostrum",Mel Stuart,"Roald Dahl, David Seltzer",7.8
+215,My Name Is Khan,12/02/10,"Shah Rukh Khan, Kajol, Sheetal Menon",Karan Johar,"Shibani Bathija, Niranjan Iyengar",8
+216,Breaking the Waves,13/11/96,"Emily Watson, Stellan Skarsgård, Katrin Cartlidge",Lars von Trier,"Lars von Trier, Peter Asmussen, David Pirie",7.8
+217,Three Colors: Red,23/11/94,"Irène Jacob, Jean-Louis Trintignant, Frédérique Feder",Krzysztof Kieslowski,"Krzysztof Kieslowski, Krzysztof Piesiewicz, Agnieszka Holland",8.1
+218,What Ever Happened to Baby Jane?,31/10/62,"Bette Davis, Joan Crawford, Victor Buono",Robert Aldrich,"Henry Farrell, Lukas Heller",8
+219,Good Bye Lenin!,14/05/04,"Daniel Brühl, Katrin Sass, Chulpan Khamatova",Wolfgang Becker,"Bernd Lichtenberg, Wolfgang Becker, Achim von Borries",7.7
+220,Le Dîner de Cons,15/04/98,"Thierry Lhermitte, Jacques Villeret, Francis Huster",Francis Veber,Francis Veber,7.6
+221,Sleuth,11/12/72,"Laurence Olivier, Michael Caine, Alec Cawthorne",Joseph L. Mankiewicz,Anthony Shaffer,8
+222,The Raid: Redemption,13/04/12,"Iko Uwais, Ananda George, Ray Sahetapy",Gareth Evans,Gareth Evans,7.6
+223,Ran,01/06/85,"Tatsuya Nakadai, Akira Terao, Jinpachi Nezu",Akira Kurosawa,"Akira Kurosawa, Hideo Oguni, Masato Ide",8.2
+224,Dancer in the Dark,06/10/00,"Björk, Catherine Deneuve, David Morse",Lars von Trier,"Lars von Trier, Sjón",8
+225,Uri: The Surgical Strike,11/01/19,"Vicky Kaushal, Paresh Rawal, Mohit Raina",Aditya Dhar,Aditya Dhar,8.4
+226,The Lunchbox,20/09/13,"Irrfan Khan, Nimrat Kaur, Nawazuddin Siddiqui",Ritesh Batra,"Ritesh Batra, Vasan Bala",7.8
+227,It Happened One Night,22/02/34,"Clark Gable, Claudette Colbert, Walter Connolly",Frank Capra,"Robert Riskin, Samuel Hopkins Adams",8.1
+228,The Bride of Frankenstein,06/05/35,"Boris Karloff, Elsa Lanchester, Colin Clive",James Whale,"Mary Shelley, William Hurlbut, John L. Balderston",7.8
+229,Rebecca,12/04/40,"Laurence Olivier, Joan Fontaine, George Sanders",Alfred Hitchcock,"Daphne Du Maurier, Robert E. Sherwood, Joan Harrison",8.1
+230,Laura,01/11/44,"Gene Tierney, Dana Andrews, Clifton Webb",Otto Preminger,"Vera Caspary, Jay Dratler, Samuel Hoffenstein",7.9
+231,12 Angry Men,10/04/57,"Henry Fonda, Lee J. Cobb, Martin Balsam",Sidney Lumet,Reginald Rose,9
+232,Black Book,18/05/07,"Carice van Houten, Sebastian Koch, Thom Hoffman",Paul Verhoeven,"Gerard Soeteman, Paul Verhoeven",7.7
+233,Hamlet,25/12/96,"Kenneth Branagh, Julie Christie, Derek Jacobi",Kenneth Branagh,"William Shakespeare, Kenneth Branagh",7.8
+234,The Conversation,12/04/74,"Gene Hackman, John Cazale, Allen Garfield",Francis Ford Coppola,Francis Ford Coppola,7.8
+235,Persepolis,22/02/08,"Chiara Mastroianni, Catherine Deneuve, Gena Rowlands","Vincent Paronnaud, Marjane Satrapi","Marjane Satrapi, Vincent Paronnaud",8
+236,"Blood In, Blood Out",30/04/93,"Damian Chapa, Jesse Borrego, Benjamin Bratt",Taylor Hackford,"Ross Thomas, Jimmy Santiago Baca, Jeremy Iacone",7.9
+237,"Goodbye, Children",12/02/88,"Gaspard Manesse, Raphael Fejtö, Francine Racette",Louis Malle,Louis Malle,8
+238,You Cant Take It with You,29/09/38,"Jean Arthur, James Stewart, Lionel Barrymore",Frank Capra,"Robert Riskin, George S. Kaufman, Moss Hart",7.8
+239,Howls Moving Castle,17/06/05,"Chieko Baishô, Takuya Kimura, Tatsuya Gashûin",Hayao Miyazaki,"Hayao Miyazaki, Diana Wynne Jones",8.2
+240,This Is Spinal Tap,02/03/84,"Rob Reiner, Michael McKean, Christopher Guest",Rob Reiner,"Christopher Guest, Michael McKean, Harry Shearer",7.9
+241,The Magdalene Sisters,29/08/03,"Eileen Walsh, Dorothy Duffy, Nora-Jane Noone",Peter Mullan,Peter Mullan,7.7
+242,The Magnificent Seven,23/09/16,"Denzel Washington, Chris Pratt, Ethan Hawke",Antoine Fuqua,"Akira Kurosawa, Shinobu Hashimoto, Hideo Oguni",6.9
+243,Jean de Florette,28/08/87,"Yves Montand, Gérard Depardieu, Daniel Auteuil",Claude Berri,"Claude Berri, Gérard Brach, Marcel Pagnol",8.1
+244,Fanny and Alexander,17/12/82,"Bertil Guve, Pernilla Allwin, Kristina Adolphson",Ingmar Bergman,Ingmar Bergman,8.1
+245,Moon,10/07/09,"Sam Rockwell, Kevin Spacey, Dominique McElligott",Duncan Jones,"Duncan Jones, Nathan Parker",7.8
+246,The Treasure of the Sierra Madre,24/01/48,"Humphrey Bogart, Walter Huston, Tim Holt",John Huston,"John Huston, B. Traven",8.2
+247,Your Name.,07/04/17,"Ryûnosuke Kamiki, Mone Kamishiraishi, Ryô Narita",Makoto Shinkai,"Makoto Shinkai, Clark Cheng",8.4
+248,Millers Crossing,05/10/90,"Gabriel Byrne, Albert Finney, John Turturro","Joel Coen, Ethan Coen","Joel Coen, Ethan Coen, Dashiell Hammett",7.7
+249,Dawn of the Dead,19/03/04,"Sarah Polley, Ving Rhames, Mekhi Phifer",Zack Snyder,"George A. Romero, James Gunn",7.3
+250,The Worlds Fastest Indian,24/03/06,"Anthony Hopkins, Diane Ladd, Iain Rea",Roger Donaldson,Roger Donaldson,7.8
+251,Hunt for the Wilderpeople,01/07/16,"Sam Neill, Julian Dennison, Rima Te Wiata",Taika Waititi,"Taika Waititi, Barry Crump, Tearepa Kahi",7.8
+252,The Wind Rises,21/02/14,"Hideaki Anno, Hidetoshi Nishijima, Miori Takimoto",Hayao Miyazaki,Hayao Miyazaki,7.8
+253,Farewell My Concubine,15/10/93,"Leslie Cheung, Fengyi Zhang, Gong Li",Kaige Chen,"Pik-Wah Lee, Wei Lu",8.1
+254,Once Upon a Time in the West,04/07/69,"Henry Fonda, Charles Bronson, Claudia Cardinale",Sergio Leone,"Sergio Donati, Sergio Leone, Dario Argento",8.5
+255,Once Upon a Time in America,01/06/84,"Robert De Niro, James Woods, Elizabeth McGovern",Sergio Leone,"Harry Grey, Leonardo Benvenuti, Piero De Bernardi",8.4
+256,Amores perros,13/04/01,"Emilio Echevarría, Gael García Bernal, Goya Toledo",Alejandro G. Iñárritu,Guillermo Arriaga,8.1
+257,The Kid,06/02/21,"Charles Chaplin, Edna Purviance, Jackie Coogan",Charles Chaplin,Charles Chaplin,8.3
+258,The Gold Rush,13/07/25,"Charles Chaplin, Mack Swain, Tom Murray",Charles Chaplin,Charles Chaplin,8.2
+259,Downfall,08/04/05,"Bruno Ganz, Alexandra Maria Lara, Ulrich Matthes",Oliver Hirschbiegel,"Bernd Eichinger, Joachim Fest, Traudl Junge",8.2
+260,Before Sunrise,27/01/95,"Ethan Hawke, Julie Delpy, Andrea Eckert",Richard Linklater,"Richard Linklater, Kim Krizan",8.1
+261,Gully Boy,14/02/19,"Ranveer Singh, Alia Bhatt, Siddhant Chaturvedi",Zoya Akhtar,"Zoya Akhtar, Reema Kagti, Vijay Maurya",7.9
+262,Central Station,20/11/98,"Fernanda Montenegro, Vinícius de Oliveira, Marília Pêra",Walter Salles,"Marcos Bernstein, João Emanuel Carneiro, Walter Salles",8
+263,Batman: Mask of the Phantasm,25/12/93,"Kevin Conroy, Dana Delany, Hart Bochner","Kevin Altieri, Boyd Kirkland, Frank Paur","Alan Burnett, Paul Dini, Martin Pasko",7.8
+264,Double Indemnity,06/07/44,"Fred MacMurray, Barbara Stanwyck, Edward G. Robinson",Billy Wilder,"Billy Wilder, Raymond Chandler, James M. Cain",8.3
+265,The Station Agent,05/12/03,"Peter Dinklage, Patricia Clarkson, Bobby Cannavale",Tom McCarthy,Tom McCarthy,7.6
+266,Before Sunset,30/07/04,"Ethan Hawke, Julie Delpy, Vernon Dobtcheff",Richard Linklater,"Richard Linklater, Julie Delpy, Ethan Hawke",8.1
+267,Captain Fantastic,29/07/16,"Viggo Mortensen, George MacKay, Samantha Isler",Matt Ross,Matt Ross,7.8
+268,Ed Wood,07/10/94,"Johnny Depp, Martin Landau, Sarah Jessica Parker",Tim Burton,"Rudolph Grey, Scott Alexander, Larry Karaszewski",7.9
+269,Evil Dead II,13/03/87,"Bruce Campbell, Sarah Berry, Dan Hicks",Sam Raimi,"Sam Raimi, Scott Spiegel",7.7
+270,The Diving Bell and the Butterfly,01/02/08,"Mathieu Amalric, Emmanuelle Seigner, Marie-Josée Croze",Julian Schnabel,"Ronald Harwood, Jean-Dominique Bauby",8
+271,"The Good, the Bad and the Ugly",29/12/67,"Clint Eastwood, Eli Wallach, Lee Van Cleef",Sergio Leone,"Luciano Vincenzoni, Sergio Leone, Agenore Incrocci",8.8
+272,Short Cuts,01/10/93,"Andie MacDowell, Julianne Moore, Tim Robbins",Robert Altman,"Raymond Carver, Robert Altman, Frank Barhydt",7.7
+273,Barton Fink,21/08/91,"John Turturro, John Goodman, Judy Davis","Joel Coen, Ethan Coen","Joel Coen, Ethan Coen",7.7
+274,A Very Long Engagement,14/01/05,"Audrey Tautou, Gaspard Ulliel, Jodie Foster",Jean-Pierre Jeunet,"Sébastien Japrisot, Jean-Pierre Jeunet, Guillaume Laurant",7.6
+275,The Straight Story,03/11/99,"Richard Farnsworth, Sissy Spacek, Jane Galloway Heitz",David Lynch,"John Roach, Mary Sweeney",8
+276,A Clockwork Orange,02/02/72,"Malcolm McDowell, Patrick Magee, Michael Bates",Stanley Kubrick,"Stanley Kubrick, Anthony Burgess",8.3
+277,The Secret in Their Eyes,21/05/10,"Ricardo Darín, Soledad Villamil, Pablo Rago",Juan José Campanella,"Eduardo Sacheri, Juan José Campanella",8.2
+278,3 Idiots,25/12/09,"Aamir Khan, Madhavan, Mona Singh",Rajkumar Hirani,"Rajkumar Hirani, Abhijat Joshi, Vidhu Vinod Chopra",8.5
+279,The Big Sleep,31/08/46,"Humphrey Bogart, Lauren Bacall, John Ridgely",Howard Hawks,"William Faulkner, Leigh Brackett, Jules Furthman",7.9
+280,American History X,20/11/98,"Edward Norton, Edward Furlong, Beverly DAngelo",Tony Kaye,David McKenna,8.5
+281,Loving Vincent,22/09/17,"Douglas Booth, Jerome Flynn, Robert Gulaczyk","Dorota Kobiela, Hugh Welchman","Dorota Kobiela, Hugh Welchman, Jacek Dehnel",7.8
+282,Baahubali: The Beginning,09/07/15,"Prabhas, Rana Daggubati, Ramya Krishnan",S.S. Rajamouli,"Vijayendra Prasad, S.S. Rajamouli, C.H. Vijay Kumar",8.1
+283,Amour,20/09/12,"Jean-Louis Trintignant, Emmanuelle Riva, Isabelle Huppert",Michael Haneke,Michael Haneke,7.9
+284,Me and Earl and the Dying Girl,01/07/15,"Thomas Mann, RJ Cyler, Olivia Cooke",Alfonso Gomez-Rejon,Jesse Andrews,7.7
+285,Incendies,12/01/11,"Lubna Azabal, Mélissa Désormeaux-Poulin, Maxim Gaudette",Denis Villeneuve,"Denis Villeneuve, Wajdi Mouawad, Valérie Beaugrand-Champagne",8.3
+286,The Irishman,27/11/19,"Robert De Niro, Al Pacino, Joe Pesci",Martin Scorsese,"Steven Zaillian, Charles Brandt",7.8
+287,The Triplets of Belleville,13/02/04,"Michèle Caucheteux, Jean-Claude Donda, Michel Robin",Sylvain Chomet,Sylvain Chomet,7.8
+288,Deliverance,18/08/72,"Jon Voight, Burt Reynolds, Ned Beatty",John Boorman,"James Dickey, John Boorman",7.7
+289,A Separation,16/03/11,"Payman Maadi, Leila Hatami, Sareh Bayat",Asghar Farhadi,Asghar Farhadi,8.3
+290,The Name of the Rose,24/09/86,"Sean Connery, Christian Slater, Helmut Qualtinger",Jean-Jacques Annaud,"Umberto Eco, Andrew Birkin, Gérard Brach",7.7
+291,Mulholland Drive,19/10/01,"Naomi Watts, Laura Harring, Justin Theroux",David Lynch,David Lynch,7.9
+292,Run Lola Run,18/06/99,"Franka Potente, Moritz Bleibtreu, Herbert Knaup",Tom Tykwer,Tom Tykwer,7.7
+293,City of God,13/02/04,"Alexandre Rodrigues, Leandro Firmino, Matheus Nachtergaele","Fernando Meirelles, Kátia Lund","Paulo Lins, Bráulio Mantovani",8.6
+294,Strangers on a Train,30/06/51,"Farley Granger, Robert Walker, Ruth Roman",Alfred Hitchcock,"Raymond Chandler, Czenzi Ormonde, Whitfield Cook",7.9
+295,In Bruges,29/02/08,"Colin Farrell, Brendan Gleeson, Ciarán Hinds",Martin McDonagh,Martin McDonagh,7.9
+296,A Streetcar Named Desire,19/09/51,"Vivien Leigh, Marlon Brando, Kim Hunter",Elia Kazan,"Tennessee Williams, Oscar Saul",8
+297,Before Midnight,14/06/13,"Ethan Hawke, Julie Delpy, Seamus Davey-Fitzpatrick",Richard Linklater,"Richard Linklater, Julie Delpy, Ethan Hawke",7.9
+298,Witness for the Prosecution,06/02/58,"Tyrone Power, Marlene Dietrich, Charles Laughton",Billy Wilder,"Agatha Christie, Billy Wilder, Harry Kurnitz",8.4
+299,Bajrangi Bhaijaan,17/07/15,"Salman Khan, Harshaali Malhotra, Nawazuddin Siddiqui",Kabir Khan,"Vijayendra Prasad, Kabir Khan, Parveez Sheikh",8.1
+300,All About My Mother,31/03/00,"Cecilia Roth, Marisa Paredes, Candela Peña",Pedro Almodóvar,Pedro Almodóvar,7.8
+301,The Hustler,25/09/61,"Paul Newman, Jackie Gleason, Piper Laurie",Robert Rossen,"Sidney Carroll, Robert Rossen, Walter Tevis",8
+302,Chinatown,20/06/74,"Jack Nicholson, Faye Dunaway, John Huston",Roman Polanski,"Robert Towne, Roman Polanski",8.2
+303,Blue Velvet,01/01/86,"Isabella Rossellini, Kyle MacLachlan, Dennis Hopper",David Lynch,David Lynch,7.7
+304,Singin in the Rain,11/04/52,"Gene Kelly, Donald OConnor, Debbie Reynolds","Stanley Donen, Gene Kelly","Betty Comden, Adolph Green",8.3
+305,The Boy in the Striped Pajamas,26/11/08,"Asa Butterfield, David Thewlis, Rupert Friend",Mark Herman,"John Boyne, Mark Herman",7.8
+306,Whats Eating Gilbert Grape,04/03/94,"Johnny Depp, Leonardo DiCaprio, Juliette Lewis",Lasse Hallström,Peter Hedges,7.8
+307,Talk to Her,14/02/03,"Rosario Flores, Javier Cámara, Darío Grandinetti",Pedro Almodóvar,Pedro Almodóvar,7.9
+308,Once,15/06/07,"Glen Hansard, Markéta Irglová, Hugh Walsh",John Carney,John Carney,7.8
+309,High Noon,30/07/52,"Gary Cooper, Grace Kelly, Thomas Mitchell",Fred Zinnemann,"Carl Foreman, John W. Cunningham",8
+310,The Lost Weekend,01/01/46,"Ray Milland, Jane Wyman, Phillip Terry",Billy Wilder,"Charles R. Jackson, Charles Brackett, Billy Wilder",7.9
+311,Mr. Smith Goes to Washington,19/10/39,"James Stewart, Jean Arthur, Claude Rains",Frank Capra,"Sidney Buchman, Lewis R. Foster, Myles Connolly",8.1
+312,On the Waterfront,22/06/54,"Marlon Brando, Karl Malden, Lee J. Cobb",Elia Kazan,"Budd Schulberg, Malcolm Johnson, Robert Siodmak",8.1
+313,Brazil,18/12/85,"Jonathan Pryce, Kim Greist, Robert De Niro",Terry Gilliam,"Terry Gilliam, Tom Stoppard, Charles McKeown",7.9
+314,King Kong,14/12/05,"Naomi Watts, Jack Black, Adrien Brody",Peter Jackson,"Fran Walsh, Philippa Boyens, Peter Jackson",7.2
+315,Spirited Away,28/03/03,"Daveigh Chase, Suzanne Pleshette, Miyu Irino",Hayao Miyazaki,Hayao Miyazaki,8.6
+316,The Girl with the Dragon Tattoo,21/12/11,"Daniel Craig, Rooney Mara, Christopher Plummer",David Fincher,"Steven Zaillian, Stieg Larsson",7.8
+317,Notorious,06/09/46,"Cary Grant, Ingrid Bergman, Claude Rains",Alfred Hitchcock,"Ben Hecht, Alfred Hitchcock, John Taintor Foote",7.9
+318,The Quiet Man,14/09/52,"John Wayne, Maureen OHara, Barry Fitzgerald",John Ford,"Frank S. Nugent, Maurice Walsh, John Ford",7.8
+319,After Hours,11/10/85,"Griffin Dunne, Rosanna Arquette, Verna Bloom",Martin Scorsese,Joseph Minion,7.6
+320,PK,19/12/14,"Aamir Khan, Anushka Sharma, Sanjay Dutt",Rajkumar Hirani,"Rajkumar Hirani, Abhijat Joshi",8.2
+321,The Purple Rose of Cairo,19/04/85,"Mia Farrow, Jeff Daniels, Danny Aiello",Woody Allen,Woody Allen,7.7
+322,Glengarry Glen Ross,02/10/92,"Al Pacino, Jack Lemmon, Alec Baldwin",James Foley,David Mamet,7.7
+323,Office Space,19/02/99,"Ron Livingston, Jennifer Aniston, David Herman",Mike Judge,Mike Judge,7.7
+324,The Red Shoes,06/09/48,"Anton Walbrook, Marius Goring, Moira Shearer","Michael Powell, Emeric Pressburger","Hans Christian Andersen, Emeric Pressburger, Keith Winter",8.1
+325,The Lives of Others,30/03/07,"Ulrich Mühe, Martina Gedeck, Sebastian Koch",Florian Henckel von Donnersmarck,Florian Henckel von Donnersmarck,8.4
+326,The Birds,29/03/63,"Rod Taylor, Tippi Hedren, Jessica Tandy",Alfred Hitchcock,"Daphne Du Maurier, Evan Hunter",7.7
+327,The Boat,10/02/82,"Jürgen Prochnow, Herbert Grönemeyer, Klaus Wennemann",Wolfgang Petersen,"Wolfgang Petersen, Lothar G. Buchheim",8.4
+328,Zelig,25/08/83,"Woody Allen, Mia Farrow, Patrick Horgan",Woody Allen,Woody Allen,7.7
+329,Anatomy of a Murder,13/07/59,"James Stewart, Lee Remick, Ben Gazzara",Otto Preminger,"Wendell Mayes, John D. Voelker",8
+330,Cinema Paradiso,23/02/90,"Philippe Noiret, Enzo Cannavale, Antonella Attili",Giuseppe Tornatore,"Giuseppe Tornatore, Vanna Paoli",8.5
+331,The Wild Bunch,19/06/69,"William Holden, Ernest Borgnine, Robert Ryan",Sam Peckinpah,"Walon Green, Sam Peckinpah, Roy N. Sickner",7.9
+332,The Great Escape,04/07/63,"Steve McQueen, James Garner, Richard Attenborough",John Sturges,"Paul Brickhill, James Clavell, W.R. Burnett",8.2
+333,True Romance,10/09/93,"Christian Slater, Patricia Arquette, Dennis Hopper",Tony Scott,"Quentin Tarantino, Roger Avary",7.9
+334,Gattaca,24/10/97,"Ethan Hawke, Uma Thurman, Jude Law",Andrew Niccol,Andrew Niccol,7.8
+335,Dangal,21/12/16,"Aamir Khan, Sakshi Tanwar, Fatima Sana Shaikh",Nitesh Tiwari,"Piyush Gupta, Shreyas Jain, Nikhil Mehrotra",8.4
+336,The Road Warrior,21/05/82,"Mel Gibson, Bruce Spence, Michael Preston",George Miller,"Terry Hayes, George Miller, Brian Hannant",7.6
+337,Rio Bravo,04/04/59,"John Wayne, Dean Martin, Ricky Nelson",Howard Hawks,"Jules Furthman, Leigh Brackett, B.H. McCampbell",8
+338,25th Hour,10/01/03,"Edward Norton, Barry Pepper, Philip Seymour Hoffman",Spike Lee,David Benioff,7.6
+339,Whiplash,15/10/14,"Miles Teller, J.K. Simmons, Melissa Benoist",Damien Chazelle,Damien Chazelle,8.5
+340,The Intouchables,02/11/11,"François Cluzet, Omar Sy, Anne Le Ny","Olivier Nakache, Éric Toledano","Olivier Nakache, Philippe Pozzo di Borgo, Éric Toledano",8.5
+341,North by Northwest,18/12/59,"Cary Grant, Eva Marie Saint, James Mason",Alfred Hitchcock,Ernest Lehman,8.3
+342,Secrets,16/03/33,"Mary Pickford, Leslie Howard, C. Aubrey Smith",Frank Borzage,"Frances Marion, Salisbury Field, Leonard Praskins",6.5
+343,Charade,05/12/63,"Cary Grant, Audrey Hepburn, Walter Matthau",Stanley Donen,"Peter Stone, Marc Behm",7.9
+344,Shaun of the Dead,24/09/04,"Simon Pegg, Nick Frost, Kate Ashfield",Edgar Wright,"Simon Pegg, Edgar Wright",7.9
+345,Y tu mamá también,08/06/01,"Maribel Verdú, Gael García Bernal, Daniel Giménez Cacho",Alfonso Cuarón,"Carlos Cuarón, Alfonso Cuarón",7.6
+346,Warrior,09/09/11,"Tom Hardy, Nick Nolte, Joel Edgerton",Gavin OConnor,"Gavin OConnor, Anthony Tambakis, Cliff Dorfman",8.2
+347,Letters from Iwo Jima,02/02/07,"Ken Watanabe, Kazunari Ninomiya, Tsuyoshi Ihara",Clint Eastwood,"Iris Yamashita, Paul Haggis, Tadamichi Kuribayashi",7.9
+348,The Thing,25/06/82,"Kurt Russell, Wilford Brimley, Keith David",John Carpenter,"Bill Lancaster, John W. Campbell Jr.",8.2
+349,Dark City,27/02/98,"Rufus Sewell, Kiefer Sutherland, Jennifer Connelly",Alex Proyas,"Alex Proyas, Lem Dobbs, David S. Goyer",7.6
+350,A Fistful of Dollars,18/01/67,"Clint Eastwood, Gian Maria Volontè, Marianne Koch",Sergio Leone,"Adriano Bolzoni, Mark Lowell, Víctor Andrés Catena",8
+351,Room,22/01/16,"Brie Larson, Jacob Tremblay, Sean Bridgers",Lenny Abrahamson,Emma Donoghue,8.1
+352,My Left Foot,30/03/90,"Daniel Day-Lewis, Brenda Fricker, Alison Whelan",Jim Sheridan,"Shane Connaughton, Jim Sheridan, Christy Brown",7.9
+353,Nashville,01/07/75,"Keith Carradine, Karen Black, Ronee Blakley",Robert Altman,Joan Tewkesbury,7.7
+354,For a Few Dollars More,10/05/67,"Clint Eastwood, Lee Van Cleef, Gian Maria Volontè",Sergio Leone,"Sergio Leone, Fulvio Morsella, Luciano Vincenzoni",8.3
+355,American Psycho,14/04/00,"Christian Bale, Justin Theroux, Josh Lucas",Mary Harron,"Bret Easton Ellis, Mary Harron, Guinevere Turner",7.6
+356,Ponyo,14/08/09,"Cate Blanchett, Matt Damon, Liam Neeson",Hayao Miyazaki,"Hayao Miyazaki, Melissa Mathison",7.6
+357,About Time,08/11/13,"Domhnall Gleeson, Rachel McAdams, Bill Nighy",Richard Curtis,Richard Curtis,7.8
+358,In America,06/02/04,"Paddy Considine, Samantha Morton, Djimon Hounsou",Jim Sheridan,"Jim Sheridan, Naomi Sheridan, Kirsten Sheridan",7.7
+359,The French Connection,09/10/71,"Gene Hackman, Roy Scheider, Fernando Rey",William Friedkin,"Ernest Tidyman, Robin Moore",7.7
+360,The Day of the Jackal,30/07/73,"Edward Fox, Terence Alexander, Michel Auclair",Fred Zinnemann,"Frederick Forsyth, Kenneth Ross",7.8
+361,Cool Hand Luke,01/11/67,"Paul Newman, George Kennedy, Strother Martin",Stuart Rosenberg,"Donn Pearce, Frank Pierson, Hal Dresner",8.1
+362,21 Grams,16/01/04,"Sean Penn, Benicio Del Toro, Naomi Watts",Alejandro G. Iñárritu,Guillermo Arriaga,7.7
+363,Trainspotting,09/08/96,"Ewan McGregor, Ewen Bremner, Jonny Lee Miller",Danny Boyle,"Irvine Welsh, John Hodge",8.1
+364,The Motorcycle Diaries,15/10/04,"Gael García Bernal, Rodrigo de la Serna, Mía Maestro",Walter Salles,"Ernesto Che Guevara, Alberto Granado, Jose Rivera",7.8
+365,Rushmore,19/02/99,"Jason Schwartzman, Bill Murray, Olivia Williams",Wes Anderson,"Wes Anderson, Owen Wilson",7.7
+366,Kung Fu Hustle,22/04/05,"Stephen Chow, Wah Yuen, Qiu Yuen",Stephen Chow,"Stephen Chow, Kan-Cheung Tsang, Xin Huo",7.7
+367,Eastern Promises,21/09/07,"Naomi Watts, Viggo Mortensen, Armin Mueller-Stahl",David Cronenberg,Steven Knight,7.6
+368,A Bronx Tale,01/10/93,"Robert De Niro, Chazz Palminteri, Lillo Brancato",Robert De Niro,Chazz Palminteri,7.8
+369,The Big Lebowski,06/03/98,"Jeff Bridges, John Goodman, Julianne Moore","Joel Coen, Ethan Coen","Ethan Coen, Joel Coen",8.1
+370,Wait Until Dark,21/12/67,"Audrey Hepburn, Alan Arkin, Richard Crenna",Terence Young,"Frederick Knott, Robert Carrington, Jane-Howard Hammerstein",7.7
+371,Cat on a Hot Tin Roof,29/08/58,"Elizabeth Taylor, Paul Newman, Burl Ives",Richard Brooks,"Richard Brooks, James Poe, Tennessee Williams",8
+372,The Last King of Scotland,19/01/07,"James McAvoy, Forest Whitaker, Gillian Anderson",Kevin Macdonald,"Peter Morgan, Jeremy Brock, Giles Foden",7.7
+373,Nebraska,24/01/14,"Bruce Dern, Will Forte, June Squibb",Alexander Payne,Bob Nelson,7.7
+374,The Perks of Being a Wallflower,12/10/12,"Logan Lerman, Emma Watson, Ezra Miller",Stephen Chbosky,Stephen Chbosky,8
+375,Call Me by Your Name,19/01/18,"Armie Hammer, Timothée Chalamet, Michael Stuhlbarg",Luca Guadagnino,"James Ivory, André Aciman",7.9
+376,Crimes and Misdemeanors,03/11/89,"Martin Landau, Woody Allen, Bill Bernstein",Woody Allen,Woody Allen,7.8
+377,127 Hours,28/01/11,"James Franco, Amber Tamblyn, Kate Mara",Danny Boyle,"Danny Boyle, Simon Beaufoy, Aron Ralston",7.6
+378,Into the Wild,19/10/07,"Emile Hirsch, Vince Vaughn, Catherine Keener",Sean Penn,"Sean Penn, Jon Krakauer",8.1
+379,Frost/Nixon,23/01/09,"Frank Langella, Michael Sheen, Kevin Bacon",Ron Howard,Peter Morgan,7.7
+380,The Apartment,29/06/60,"Jack Lemmon, Shirley MacLaine, Fred MacMurray",Billy Wilder,"Billy Wilder, I.A.L. Diamond",8.3
+381,Léon: The Professional,18/11/94,"Jean Reno, Gary Oldman, Natalie Portman",Luc Besson,Luc Besson,8.6
+382,La Dolce Vita,19/04/61,"Marcello Mastroianni, Anita Ekberg, Anouk Aimée",Federico Fellini,"Federico Fellini, Ennio Flaiano, Tullio Pinelli",8
+383,Life of Brian,17/08/79,"Graham Chapman, John Cleese, Michael Palin",Terry Jones,"Graham Chapman, John Cleese, Terry Gilliam",8.1
+384,Baahubali 2: The Conclusion,28/04/17,"Prabhas, Rana Daggubati, Anushka Shetty",S.S. Rajamouli,"Vijayendra Prasad, S.S. Rajamouli, C.H. Vijay Kumar",8.3
+385,Gone Baby Gone,19/10/07,"Morgan Freeman, Ed Harris, Casey Affleck",Ben Affleck,"Ben Affleck, Aaron Stockard, Dennis Lehane",7.6
+386,A Christmas Story,18/11/83,"Peter Billingsley, Melinda Dillon, Darren McGavin",Bob Clark,"Jean Shepherd, Leigh Brown, Bob Clark",7.9
+387,Fantastic Mr. Fox,25/11/09,"George Clooney, Meryl Streep, Bill Murray",Wes Anderson,"Roald Dahl, Wes Anderson, Noah Baumbach",7.9
+388,The Right Stuff,17/02/84,"Sam Shepard, Scott Glenn, Ed Harris",Philip Kaufman,"Philip Kaufman, Tom Wolfe",7.8
+389,The Caine Mutiny,24/06/54,"Humphrey Bogart, José Ferrer, Van Johnson",Edward Dmytryk,"Stanley Roberts, Michael Blankfort, Herman Wouk",7.7
+390,The Postman,25/12/97,"Kevin Costner, Will Patton, Larenz Tate",Kevin Costner,"David Brin, Eric Roth, Brian Helgeland",6.1
+391,Billy Elliot,10/11/00,"Jamie Bell, Julie Walters, Jean Heywood",Stephen Daldry,Lee Hall,7.7
+392,Empire of the Sun,25/12/87,"Christian Bale, John Malkovich, Miranda Richardson",Steven Spielberg,"Tom Stoppard, J.G. Ballard, Menno Meyjes",7.7
+393,Pink Floyd: The Wall,17/09/82,"Bob Geldof, Christine Hargreaves, James Laurenson",Alan Parker,Roger Waters,8
+394,Adaptation.,14/02/03,"Nicolas Cage, Meryl Streep, Chris Cooper",Spike Jonze,"Susan Orlean, Charlie Kaufman",7.7
+395,The Lion in Winter,30/10/68,"Peter OToole, Katharine Hepburn, Anthony Hopkins",Anthony Harvey,James Goldman,7.9
+396,Magnolia,07/01/00,"Tom Cruise, Jason Robards, Julianne Moore",Paul Thomas Anderson,Paul Thomas Anderson,8
+397,Lucky Number Slevin,07/04/06,"Josh Hartnett, Ben Kingsley, Morgan Freeman",Paul McGuigan,Jason Smilovic,7.7
+398,Being John Malkovich,03/12/99,"John Cusack, Cameron Diaz, Catherine Keener",Spike Jonze,Charlie Kaufman,7.8
+399,The Remains of the Day,19/11/93,"Anthony Hopkins, Emma Thompson, John Haycraft",James Ivory,"Kazuo Ishiguro, Ruth Prawer Jhabvala",7.8
+400,Match Point,20/01/06,"Scarlett Johansson, Jonathan Rhys Meyers, Emily Mortimer",Woody Allen,Woody Allen,7.6
+401,The Iron Giant,06/08/99,"Eli Marienthal, Harry Connick Jr., Jennifer Aniston",Brad Bird,"Tim McCanlies, Brad Bird, Ted Hughes",8
+402,The Usual Suspects,16/08/95,"Kevin Spacey, Gabriel Byrne, Chazz Palminteri",Bryan Singer,Christopher McQuarrie,8.5
+403,Raging Bull,19/12/80,"Robert De Niro, Cathy Moriarty, Joe Pesci",Martin Scorsese,"Jake LaMotta, Joseph Carter, Peter Savage",8.2
+404,Hotel Rwanda,04/02/05,"Don Cheadle, Sophie Okonedo, Joaquin Phoenix",Terry George,"Keir Pearson, Terry George",8.1
+405,Hot Fuzz,20/04/07,"Simon Pegg, Nick Frost, Martin Freeman",Edgar Wright,"Edgar Wright, Simon Pegg",7.8
+406,The Best Years of Our Lives,29/05/47,"Myrna Loy, Dana Andrews, Fredric March",William Wyler,"Robert E. Sherwood, MacKinlay Kantor",8.1
+407,Lord of War,16/09/05,"Nicolas Cage, Ethan Hawke, Jared Leto",Andrew Niccol,Andrew Niccol,7.6
+408,In the Heat of the Night,02/08/67,"Sidney Poitier, Rod Steiger, Warren Oates",Norman Jewison,"Stirling Silliphant, John Ball",8
+409,Sling Blade,14/03/97,"Billy Bob Thornton, Dwight Yoakam, J.T. Walsh",Billy Bob Thornton,Billy Bob Thornton,8
+410,Fargo,05/04/96,"William H. Macy, Frances McDormand, Steve Buscemi","Joel Coen, Ethan Coen","Ethan Coen, Joel Coen",8.1
+411,Some Like It Hot,19/03/59,"Marilyn Monroe, Tony Curtis, Jack Lemmon",Billy Wilder,"Billy Wilder, I.A.L. Diamond, Robert Thoeren",8.2
+412,Enter the Dragon,19/08/73,"Bruce Lee, John Saxon, Jim Kelly",Robert Clouse,"Michael Allin, Bruce Lee",7.6
+413,In the Name of the Father,25/02/94,"Daniel Day-Lewis, Pete Postlethwaite, Alison Crosbie",Jim Sheridan,"Gerry Conlon, Terry George, Jim Sheridan",8.1
+414,Boyhood,15/08/14,"Ellar Coltrane, Patricia Arquette, Ethan Hawke",Richard Linklater,Richard Linklater,7.9
+415,Ex Machina,24/04/15,"Alicia Vikander, Domhnall Gleeson, Oscar Isaac",Alex Garland,Alex Garland,7.7
+416,Serenity,30/09/05,"Nathan Fillion, Gina Torres, Chiwetel Ejiofor",Joss Whedon,Joss Whedon,7.8
+417,Memento,25/05/01,"Guy Pearce, Carrie-Anne Moss, Joe Pantoliano",Christopher Nolan,"Christopher Nolan, Jonathan Nolan",8.5
+418,Her,10/01/14,"Joaquin Phoenix, Amy Adams, Scarlett Johansson",Spike Jonze,Spike Jonze,8
+419,Searching,31/08/18,"John Cho, Debra Messing, Joseph Lee",Aneesh Chaganty,"Aneesh Chaganty, Sev Ohanian",7.6
+420,The Wrestler,30/01/09,"Mickey Rourke, Marisa Tomei, Evan Rachel Wood",Darren Aronofsky,Robert Siegel,7.9
+421,Boogie Nights,31/10/97,"Mark Wahlberg, Julianne Moore, Burt Reynolds",Paul Thomas Anderson,Paul Thomas Anderson,7.9
+422,Glory,16/02/90,"Matthew Broderick, Denzel Washington, Cary Elwes",Edward Zwick,"Kevin Jarre, Lincoln Kirstein, Peter Burchard",7.8
+423,Hell or High Water,26/08/16,"Chris Pine, Ben Foster, Jeff Bridges",David Mackenzie,Taylor Sheridan,7.6
+424,Rush,27/09/13,"Daniel Brühl, Chris Hemsworth, Olivia Wilde",Ron Howard,Peter Morgan,8.1
+425,The Muppet Christmas Carol,11/12/92,"Michael Caine, Dave Goelz, Steve Whitmire",Brian Henson,"Charles Dickens, Jerry Juhl",7.7
+426,Dallas Buyers Club,22/11/13,"Matthew McConaughey, Jennifer Garner, Jared Leto",Jean-Marc Vallée,"Craig Borten, Melisa Wallack",8
+427,Do the Right Thing,21/07/89,"Danny Aiello, Ossie Davis, Ruby Dee",Spike Lee,Spike Lee,7.9
+428,Taxi Driver,09/02/76,"Robert De Niro, Jodie Foster, Cybill Shepherd",Martin Scorsese,Paul Schrader,8.2
+429,The Shawshank Redemption,14/10/94,"Tim Robbins, Morgan Freeman, Bob Gunton",Frank Darabont,"Stephen King, Frank Darabont",9.3
+430,A Man for All Seasons,16/12/66,"Paul Scofield, Wendy Hiller, Robert Shaw",Fred Zinnemann,Robert Bolt,7.7
+431,The Insider,05/11/99,"Russell Crowe, Al Pacino, Christopher Plummer",Michael Mann,"Marie Brenner, Eric Roth, Michael Mann",7.8
+432,The Last Picture Show,22/10/71,"Timothy Bottoms, Jeff Bridges, Cybill Shepherd",Peter Bogdanovich,"Larry McMurtry, Peter Bogdanovich",8
+433,Serpico,05/12/73,"Al Pacino, John Randolph, Jack Kehoe",Sidney Lumet,"Peter Maas, Waldo Salt, Norman Wexler",7.7
+434,Spartacus,22/01/10,"Andy Whitfield, Lucy Lawless, Manu Bennett",N/A,Steven S. DeKnight,8.6
+435,Being There,08/02/80,"Peter Sellers, Shirley MacLaine, Melvyn Douglas",Hal Ashby,"Jerzy Kosinski, Robert C. Jones",8
+436,Snatch,19/01/01,"Jason Statham, Brad Pitt, Stephen Graham",Guy Ritchie,Guy Ritchie,8.3
+437,From Here to Eternity,28/08/53,"Burt Lancaster, Montgomery Clift, Deborah Kerr",Fred Zinnemann,"Daniel Taradash, James Jones",7.6
+438,Dragon Ball Super: Broly,16/01/19,"Masako Nozawa, Aya Hisakawa, Ryô Horikawa",Tatsuya Nagamine,Akira Toriyama,7.8
+439,The Princess Bride,09/10/87,"Cary Elwes, Mandy Patinkin, Robin Wright",Rob Reiner,William Goldman,8
+440,Paper Moon,09/05/73,"Ryan ONeal, Tatum ONeal, Madeline Kahn",Peter Bogdanovich,"Joe David Brown, Alvin Sargent",8.1
+441,United 93,28/04/06,"David Alan Basche, Olivia Thirlby, Liza Colón-Zayas",Paul Greengrass,Paul Greengrass,7.6
+442,The Outlaw Josey Wales,30/06/76,"Clint Eastwood, Sondra Locke, Chief Dan George",Clint Eastwood,"Forrest Carter, Philip Kaufman, Sonia Chernus",7.8
+443,Psycho,08/09/60,"Anthony Perkins, Janet Leigh, Vera Miles",Alfred Hitchcock,"Joseph Stefano, Robert Bloch",8.5
+444,Isle of Dogs,13/04/18,"Bryan Cranston, Koyu Rankin, Edward Norton",Wes Anderson,"Wes Anderson, Roman Coppola, Jason Schwartzman",7.8
+445,Nightcrawler,31/10/14,"Jake Gyllenhaal, Rene Russo, Bill Paxton",Dan Gilroy,Dan Gilroy,7.8
+446,500 Days of Summer,07/08/09,"Zooey Deschanel, Joseph Gordon-Levitt, Geoffrey Arend",Marc Webb,"Scott Neustadter, Michael H. Weber",7.7
+447,The Sandlot,07/04/93,"Tom Guiry, Mike Vitar, Art LaFleur",David Mickey Evans,"David Mickey Evans, Robert Gunter",7.8
+448,October Sky,19/02/99,"Jake Gyllenhaal, Chris Cooper, Laura Dern",Joe Johnston,"Homer H. Hickam Jr., Lewis Colick",7.8
+449,Almost Famous,22/09/00,"Billy Crudup, Patrick Fugit, Kate Hudson",Cameron Crowe,Cameron Crowe,7.9
+450,The Pianist,28/03/03,"Adrien Brody, Thomas Kretschmann, Frank Finlay",Roman Polanski,"Ronald Harwood, Wladyslaw Szpilman",8.6
+451,Blade Runner,25/06/82,"Harrison Ford, Rutger Hauer, Sean Young",Ridley Scott,"Hampton Fancher, David Webb Peoples, Philip K. Dick",8.1
+452,Zodiac,02/03/07,"Jake Gyllenhaal, Robert Downey Jr., Mark Ruffalo",David Fincher,"James Vanderbilt, Robert Graysmith",7.7
+453,Amélie,08/02/02,"Audrey Tautou, Mathieu Kassovitz, Rufus",Jean-Pierre Jeunet,"Guillaume Laurant, Jean-Pierre Jeunet",8.3
+454,Planet of the Apes,27/07/01,"Mark Wahlberg, Helena Bonham Carter, Tim Roth",Tim Burton,"Pierre Boulle, William Broyles Jr., Lawrence Konner",5.7
+455,Wind River,18/08/17,"Elizabeth Olsen, Jeremy Renner, Graham Greene",Taylor Sheridan,Taylor Sheridan,7.7
+456,The Reader,30/01/09,"Kate Winslet, Ralph Fiennes, Bruno Ganz",Stephen Daldry,"David Hare, Bernhard Schlink",7.6
+457,Eternal Sunshine of the Spotless Mind,19/03/04,"Jim Carrey, Kate Winslet, Tom Wilkinson",Michel Gondry,"Charlie Kaufman, Michel Gondry, Pierre Bismuth",8.3
+458,Mississippi Burning,27/01/89,"Gene Hackman, Willem Dafoe, Frances McDormand",Alan Parker,Chris Gerolmo,7.8
+459,The Killing Fields,01/02/85,"Sam Waterston, Haing S. Ngor, John Malkovich",Roland Joffé,Bruce Robinson,7.8
+460,50/50,30/09/11,"Joseph Gordon-Levitt, Seth Rogen, Anna Kendrick",Jonathan Levine,Will Reiser,7.6
+461,Drive,16/09/11,"Ryan Gosling, Carey Mulligan, Bryan Cranston",Nicolas Winding Refn,"Hossein Amini, James Sallis",7.8
+462,Children of Men,05/01/07,"Julianne Moore, Clive Owen, Chiwetel Ejiofor",Alfonso Cuarón,"Alfonso Cuarón, Timothy J. Sexton, David Arata",7.9
+463,Changeling,31/10/08,"Angelina Jolie, Colm Feore, Amy Ryan",Clint Eastwood,J. Michael Straczynski,7.8
+464,Shine,14/02/97,"Geoffrey Rush, Armin Mueller-Stahl, Justin Braine",Scott Hicks,"Jan Sardi, Scott Hicks",7.7
+465,The Theory of Everything,26/11/14,"Eddie Redmayne, Felicity Jones, Tom Prior",James Marsh,"Anthony McCarten, Jane Hawking",7.7
+466,Dirty Harry,23/12/71,"Clint Eastwood, Andrew Robinson, Harry Guardino","Don Siegel, Clint Eastwood","Harry Julian Fink, Rita M. Fink, Dean Riesner",7.7
+467,The Thin Red Line,15/01/99,"Jim Caviezel, Sean Penn, Nick Nolte",Terrence Malick,"James Jones, Terrence Malick",7.6
+468,Rear Window,01/09/54,"James Stewart, Grace Kelly, Wendell Corey",Alfred Hitchcock,"John Michael Hayes, Cornell Woolrich",8.5
+469,Carlitos Way,12/11/93,"Al Pacino, Sean Penn, Penelope Ann Miller",Brian De Palma,"Edwin Torres, David Koepp",7.9
+470,Fight Club,15/10/99,"Brad Pitt, Edward Norton, Meat Loaf",David Fincher,"Chuck Palahniuk, Jim Uhls",8.8
+471,Pans Labyrinth,19/01/07,"Ivana Baquero, Ariadna Gil, Sergi López",Guillermo del Toro,Guillermo del Toro,8.2
+472,Philomena,27/11/13,"Judi Dench, Steve Coogan, Sophie Kennedy Clark",Stephen Frears,"Steve Coogan, Jeff Pope, Martin Sixsmith",7.6
+473,All That Jazz,20/12/79,"Roy Scheider, Jessica Lange, Ann Reinking",Bob Fosse,"Robert Alan Aurthur, Bob Fosse",7.8
+474,The Terminator,26/10/84,"Arnold Schwarzenegger, Linda Hamilton, Michael Biehn",James Cameron,"James Cameron, Gale Anne Hurd, William Wisher",8.1
+475,Pride,12/09/14,"Bill Nighy, Imelda Staunton, Dominic West",Matthew Warchus,Stephen Beresford,7.8
+476,Stardust,10/08/07,"Charlie Cox, Claire Danes, Sienna Miller",Matthew Vaughn,"Jane Goldman, Matthew Vaughn, Neil Gaiman",7.6
+477,The Longest Day,04/10/62,"John Wayne, Robert Ryan, Richard Burton","Ken Annakin, Andrew Marton, Gerd Oswald","Cornelius Ryan, Romain Gary, James Jones",7.8
+478,Annie Hall,20/04/77,"Woody Allen, Diane Keaton, Tony Roberts",Woody Allen,"Woody Allen, Marshall Brickman",8
+479,The Illusionist,01/09/06,"Edward Norton, Jessica Biel, Paul Giamatti",Neil Burger,"Neil Burger, Steven Millhauser",7.6
+480,Hannah and Her Sisters,14/03/86,"Mia Farrow, Dianne Wiest, Michael Caine",Woody Allen,Woody Allen,7.9
+481,There Will Be Blood,25/01/08,"Daniel Day-Lewis, Paul Dano, Ciarán Hinds",Paul Thomas Anderson,"Paul Thomas Anderson, Upton Sinclair",8.2
+482,I Am Sam,25/01/02,"Sean Penn, Michelle Pfeiffer, Dakota Fanning",Jessie Nelson,"Kristine Johnson, Jessie Nelson",7.6
+483,Paddington 2,12/01/18,"Ben Whishaw, Hugh Grant, Hugh Bonneville",Paul King,"Paul King, Simon Farnaby, Michael Bond",7.8
+484,The Fly,15/08/86,"Jeff Goldblum, Geena Davis, John Getz",David Cronenberg,"George Langelaan, Charles Edward Pogue, David Cronenberg",7.6
+485,Falling Down,26/02/93,"Michael Douglas, Robert Duvall, Barbara Hershey",Joel Schumacher,Ebbe Roe Smith,7.6
+486,End of Watch,21/09/12,"Jake Gyllenhaal, Michael Peña, Anna Kendrick",David Ayer,David Ayer,7.6
+487,Donnie Brasco,28/02/97,"Al Pacino, Johnny Depp, Michael Madsen",Mike Newell,"Joseph D. Pistone, Richard Woodley, Paul Attanasio",7.7
+488,Birdman or (The Unexpected Virtue of Ignorance),14/11/14,"Michael Keaton, Zach Galifianakis, Edward Norton",Alejandro G. Iñárritu,"Alejandro G. Iñárritu, Nicolás Giacobone, Alexander Dinelaris",7.7
+489,Casino,22/11/95,"Robert De Niro, Sharon Stone, Joe Pesci",Martin Scorsese,"Nicholas Pileggi, Martin Scorsese",8.2
+490,Cabaret,13/02/72,"Liza Minnelli, Michael York, Helmut Griem",Bob Fosse,"Joe Masteroff, John Van Druten, Christopher Isherwood",7.8
+491,Sense and Sensibility,26/01/96,"Emma Thompson, Kate Winslet, James Fleet",Ang Lee,"Jane Austen, Emma Thompson",7.7
+492,The Last Emperor,15/04/88,"John Lone, Joan Chen, Peter OToole",Bernardo Bertolucci,"Enzo Ungari, Mark Peploe, Bernardo Bertolucci",7.7
+493,The Shining,13/06/80,"Jack Nicholson, Shelley Duvall, Danny Lloyd",Stanley Kubrick,"Stephen King, Stanley Kubrick, Diane Johnson",8.4
+494,The Odd Couple,16/05/68,"Jack Lemmon, Walter Matthau, John Fiedler",Gene Saks,Neil Simon,7.7
+495,Lost in Translation,03/10/03,"Bill Murray, Scarlett Johansson, Giovanni Ribisi",Sofia Coppola,Sofia Coppola,7.7
+496,The Artist,20/01/12,"Jean Dujardin, Bérénice Bejo, John Goodman",Michel Hazanavicius,Michel Hazanavicius,7.9
+497,Midnight Cowboy,25/05/69,"Dustin Hoffman, Jon Voight, Sylvia Miles",John Schlesinger,"Waldo Salt, James Leo Herlihy",7.8
+498,Lawrence of Arabia,11/12/62,"Peter OToole, Alec Guinness, Anthony Quinn",David Lean,"Robert Bolt, Michael Wilson",8.3
+499,The Bridge on the River Kwai,14/12/57,"William Holden, Alec Guinness, Jack Hawkins",David Lean,"Pierre Boulle, Carl Foreman, Michael Wilson",8.1
+500,Spotlight,20/11/15,"Mark Ruffalo, Michael Keaton, Rachel McAdams",Tom McCarthy,"Josh Singer, Tom McCarthy",8.1
+501,The Dirty Dozen,22/10/67,"Lee Marvin, Ernest Borgnine, Charles Bronson",Robert Aldrich,"Nunnally Johnson, Lukas Heller, E.M. Nathanson",7.7
+502,Moonrise Kingdom,29/06/12,"Jared Gilman, Kara Hayward, Bruce Willis",Wes Anderson,"Wes Anderson, Roman Coppola",7.8
+503,"O Brother, Where Art Thou?",02/02/01,"George Clooney, John Turturro, Tim Blake Nelson","Joel Coen, Ethan Coen","Homer, Ethan Coen, Joel Coen",7.7
+504,Scarface,09/12/83,"Al Pacino, Michelle Pfeiffer, Steven Bauer",Brian De Palma,"Oliver Stone, Howard Hawks, Ben Hecht",8.3
+505,Manhattan,25/04/79,"Woody Allen, Diane Keaton, Mariel Hemingway",Woody Allen,"Woody Allen, Marshall Brickman",7.9
+506,The Breakfast Club,15/02/85,"Emilio Estevez, Judd Nelson, Molly Ringwald",John Hughes,John Hughes,7.8
+507,Full Metal Jacket,10/07/87,"Matthew Modine, R. Lee Ermey, Vincent DOnofrio",Stanley Kubrick,"Stanley Kubrick, Michael Herr, Gustav Hasford",8.3
+508,Goodfellas,21/09/90,"Robert De Niro, Ray Liotta, Joe Pesci",Martin Scorsese,"Nicholas Pileggi, Martin Scorsese",8.7
+509,Sicario,02/10/15,"Emily Blunt, Josh Brolin, Benicio Del Toro",Denis Villeneuve,Taylor Sheridan,7.7
+510,Halloween,27/10/78,"Donald Pleasence, Jamie Lee Curtis, Tony Moran",John Carpenter,"John Carpenter, Debra Hill",7.7
+511,First Blood,22/10/82,"Sylvester Stallone, Brian Dennehy, Richard Crenna",Ted Kotcheff,"David Morrell, Michael Kozoll, William Sackheim",7.7
+512,Manchester by the Sea,16/12/16,"Casey Affleck, Michelle Williams, Kyle Chandler",Kenneth Lonergan,Kenneth Lonergan,7.8
+513,Demon Slayer the Movie: Mugen Train,23/04/21,"Natsuki Hanae, Akari Kitô, Yoshitsugu Matsuoka",Haruo Sotozaki,Koyoharu Gotouge,8.3
+514,Kubo and the Two Strings,19/08/16,"Charlize Theron, Art Parkinson, Matthew McConaughey",Travis Knight,"Marc Haimes, Chris Butler, Shannon Tindle",7.8
+515,Kick-Ass,16/04/10,"Aaron Taylor-Johnson, Nicolas Cage, Chloë Grace Moretz",Matthew Vaughn,"Jane Goldman, Matthew Vaughn, Mark Millar",7.6
+516,Malcolm X,18/11/92,"Denzel Washington, Angela Bassett, Delroy Lindo",Spike Lee,"Arnold Perl, Spike Lee, Alex Haley",7.7
+517,The Game,12/09/97,"Michael Douglas, Deborah Kara Unger, Sean Penn",David Fincher,"John Brancato, Michael Ferris",7.8
+518,The Deer Hunter,23/02/79,"Robert De Niro, Christopher Walken, John Cazale",Michael Cimino,"Michael Cimino, Deric Washburn, Louis Garfinkle",8.1
+519,Dog Day Afternoon,25/12/75,"Al Pacino, John Cazale, Penelope Allen",Sidney Lumet,"Frank Pierson, P.F. Kluge, Thomas Moore",8
+520,Apocalypto,08/12/06,"Gerardo Taracena, Raoul Max Trujillo, Dalia Hernández",Mel Gibson,"Mel Gibson, Farhad Safinia",7.8
+521,Atonement,11/01/08,"Keira Knightley, James McAvoy, Brenda Blethyn",Joe Wright,"Ian McEwan, Christopher Hampton",7.8
+522,Goldfinger,09/01/65,"Sean Connery, Gert Fröbe, Honor Blackman",Guy Hamilton,"Richard Maibaum, Paul Dehn, Ian Fleming",7.7
+523,Finding Neverland,17/12/04,"Johnny Depp, Kate Winslet, Julie Christie",Marc Forster,"Allan Knee, David Magee",7.7
+524,Lion,06/01/17,"Dev Patel, Nicole Kidman, Rooney Mara",Garth Davis,"Saroo Brierley, Luke Davies",8
+525,Amadeus,19/09/84,"F. Murray Abraham, Tom Hulce, Elizabeth Berridge",Milos Forman,"Peter Shaffer, Zdenek Mahler",8.4
+526,"South Park: Bigger, Longer & Uncut",30/06/99,"Trey Parker, Matt Stone, Mary Kay Bergman",Trey Parker,"Trey Parker, Matt Stone, Pam Brady",7.7
+527,Awakenings,11/01/91,"Robert De Niro, Robin Williams, Julie Kavner",Penny Marshall,"Oliver Sacks, Steven Zaillian",7.8
+528,Stand by Me,22/08/86,"Wil Wheaton, River Phoenix, Corey Feldman",Rob Reiner,"Stephen King, Raynold Gideon, Bruce A. Evans",8.1
+529,The Royal Tenenbaums,04/01/02,"Gene Hackman, Gwyneth Paltrow, Anjelica Huston",Wes Anderson,"Wes Anderson, Owen Wilson",7.6
+530,Gandhi,25/02/83,"Ben Kingsley, John Gielgud, Rohini Hattangadi",Richard Attenborough,John Briley,8
+531,My Cousin Vinny,13/03/92,"Joe Pesci, Marisa Tomei, Ralph Macchio",Jonathan Lynn,Dale Launer,7.6
+532,The Prestige,20/10/06,"Christian Bale, Hugh Jackman, Scarlett Johansson",Christopher Nolan,"Jonathan Nolan, Christopher Nolan, Christopher Priest",8.5
+533,Papillon,19/12/73,"Steve McQueen, Dustin Hoffman, Victor Jory",Franklin J. Schaffner,"Dalton Trumbo, Lorenzo Semple Jr., Henri Charrière",8
+534,Parasite,08/11/19,"Kang-ho Song, Sun-kyun Lee, Yeo-jeong Cho",Bong Joon Ho,"Bong Joon Ho, Han Jin-won",8.5
+535,RoboCop,17/07/87,"Peter Weller, Nancy Allen, Dan OHerlihy",Paul Verhoeven,"Edward Neumeier, Michael Miner",7.6
+536,3:10 to Yuma,07/09/07,"Russell Crowe, Christian Bale, Ben Foster",James Mangold,"Halsted Welles, Michael Brandt, Derek Haas",7.7
+537,Hero,27/08/04,"Jet Li, Tony Chiu-Wai Leung, Maggie Cheung",Yimou Zhang,"Feng Li, Yimou Zhang, Bin Wang",7.9
+538,The Verdict,17/12/82,"Paul Newman, Charlotte Rampling, Jack Warden",Sidney Lumet,"Barry Reed, David Mamet, Jay Presson Allen",7.7
+539,The Hateful Eight,30/12/15,"Samuel L. Jackson, Kurt Russell, Jennifer Jason Leigh",Quentin Tarantino,Quentin Tarantino,7.8
+540,The Count of Monte Cristo,25/01/02,"Jim Caviezel, Guy Pearce, Christopher Adamson",Kevin Reynolds,"Alexandre Dumas, Jay Wolpert",7.7
+541,"Three Billboards Outside Ebbing, Missouri",01/12/17,"Frances McDormand, Woody Harrelson, Sam Rockwell",Martin McDonagh,Martin McDonagh,8.1
+542,Crash,06/05/05,"Don Cheadle, Sandra Bullock, Thandiwe Newton",Paul Haggis,"Paul Haggis, Bobby Moresco",7.8
+543,Ordinary People,19/09/80,"Donald Sutherland, Mary Tyler Moore, Judd Hirsch",Robert Redford,"Judith Guest, Alvin Sargent, Nancy Dowd",7.8
+544,Saw,29/10/04,"Cary Elwes, Leigh Whannell, Danny Glover",James Wan,"Leigh Whannell, James Wan",7.6
+545,Primal Fear,03/04/96,"Richard Gere, Laura Linney, Edward Norton",Gregory Hoblit,"William Diehl, Steve Shagan, Ann Biderman",7.7
+546,Edward Scissorhands,14/12/90,"Johnny Depp, Winona Ryder, Dianne Wiest",Tim Burton,"Tim Burton, Caroline Thompson",7.9
+547,Tombstone,25/12/93,"Kurt Russell, Val Kilmer, Sam Elliott","George P. Cosmatos, Kevin Jarre",Kevin Jarre,7.8
+548,12 Years a Slave,08/11/13,"Chiwetel Ejiofor, Michael Kenneth Williams, Michael Fassbender",Steve McQueen,"John Ridley, Solomon Northup",8.1
+549,Guess Whos Coming to Dinner,12/12/67,"Spencer Tracy, Sidney Poitier, Katharine Hepburn",Stanley Kramer,William Rose,7.8
+550,Midnight in Paris,10/06/11,"Owen Wilson, Rachel McAdams, Kathy Bates",Woody Allen,Woody Allen,7.7
+551,2001: A Space Odyssey,24/06/70,"Keir Dullea, Gary Lockwood, William Sylvester",Stanley Kubrick,"Stanley Kubrick, Arthur C. Clarke",8.3
+552,12 Monkeys,05/01/96,"Bruce Willis, Madeleine Stowe, Brad Pitt",Terry Gilliam,"Chris Marker, David Webb Peoples, Janet Peoples",8
+553,The Blues Brothers,20/06/80,"John Belushi, Dan Aykroyd, Cab Calloway",John Landis,"Dan Aykroyd, John Landis",7.9
+554,The Godfather: Part II,18/12/74,"Al Pacino, Robert De Niro, Robert Duvall",Francis Ford Coppola,"Francis Ford Coppola, Mario Puzo",9
+555,Blood Diamond,08/12/06,"Leonardo DiCaprio, Djimon Hounsou, Jennifer Connelly",Edward Zwick,"Charles Leavitt, C. Gaby Mitchell",8
+556,Boyz n the Hood,12/07/91,"Cuba Gooding Jr., Laurence Fishburne, Hudhail Al-Amir",John Singleton,John Singleton,7.8
+557,Life Is Beautiful,20/12/97,"Roberto Benigni, Nicoletta Braschi, Giorgio Cantarini",Roberto Benigni,"Vincenzo Cerami, Roberto Benigni",8.6
+558,The Butterfly Effect,23/01/04,"Ashton Kutcher, Amy Smart, Melora Walters","Eric Bress, J. Mackye Gruber","J. Mackye Gruber, Eric Bress",7.6
+559,The Grand Budapest Hotel,28/03/14,"Ralph Fiennes, F. Murray Abraham, Mathieu Amalric",Wes Anderson,"Stefan Zweig, Wes Anderson, Hugo Guinness",8.1
+560,Love Actually,14/11/03,"Hugh Grant, Martine McCutcheon, Liam Neeson",Richard Curtis,Richard Curtis,7.6
+561,Predator,12/06/87,"Arnold Schwarzenegger, Carl Weathers, Kevin Peter Hall",John McTiernan,"Jim Thomas, John Thomas",7.8
+562,Little Miss Sunshine,18/08/06,"Steve Carell, Toni Collette, Greg Kinnear","Jonathan Dayton, Valerie Faris",Michael Arndt,7.8
+563,Prisoners,20/09/13,"Hugh Jackman, Jake Gyllenhaal, Viola Davis",Denis Villeneuve,Aaron Guzikowski,8.1
+564,Misery,30/11/90,"James Caan, Kathy Bates, Richard Farnsworth",Rob Reiner,"Stephen King, William Goldman",7.8
+565,The Goonies,07/06/85,"Sean Astin, Josh Brolin, Jeff Cohen",Richard Donner,"Chris Columbus, Steven Spielberg",7.8
+566,Cinderella Man,03/06/05,"Russell Crowe, Renée Zellweger, Craig Bierko",Ron Howard,"Cliff Hollingsworth, Akiva Goldsman",8
+567,Patton,02/04/70,"George C. Scott, Karl Malden, Stephen Young",Franklin J. Schaffner,"Francis Ford Coppola, Edmund H. North, Ladislas Farago",8
+568,The Fifth Element,09/05/97,"Bruce Willis, Milla Jovovich, Gary Oldman",Luc Besson,"Luc Besson, Robert Mark Kamen",7.7
+569,Scent of a Woman,08/01/93,"Al Pacino, Chris ODonnell, James Rebhorn",Martin Brest,"Giovanni Arpino, Bo Goldman, Ruggero Maccari",8
+570,L.A. Confidential,19/09/97,"Kevin Spacey, Russell Crowe, Guy Pearce",Curtis Hanson,"James Ellroy, Brian Helgeland, Curtis Hanson",8.2
+571,Lethal Weapon,06/03/87,"Mel Gibson, Danny Glover, Gary Busey",Richard Donner,"Shane Black, Jeffrey Boam",7.6
+572,Kill Bill: Vol. 2,16/04/04,"Uma Thurman, David Carradine, Michael Madsen",Quentin Tarantino,"Quentin Tarantino, Uma Thurman",8
+573,Big Fish,09/01/04,"Ewan McGregor, Albert Finney, Billy Crudup",Tim Burton,"Daniel Wallace, John August",8
+574,The Godfather: Part III,25/12/90,"Al Pacino, Diane Keaton, Andy Garcia",Francis Ford Coppola,"Mario Puzo, Francis Ford Coppola",7.6
+575,Hacksaw Ridge,04/11/16,"Andrew Garfield, Sam Worthington, Luke Bracey",Mel Gibson,"Robert Schenkkan, Andrew Knight",8.1
+576,Heat,15/12/95,"Al Pacino, Robert De Niro, Val Kilmer",Michael Mann,Michael Mann,8.3
+577,Seven Pounds,19/12/08,"Will Smith, Rosario Dawson, Woody Harrelson",Gabriele Muccino,Grant Nieporte,7.6
+578,Kill Bill: Vol. 1,10/10/03,"Uma Thurman, David Carradine, Daryl Hannah",Quentin Tarantino,"Quentin Tarantino, Uma Thurman",8.2
+579,Ferris Buellers Day Off,11/06/86,"Matthew Broderick, Alan Ruck, Mia Sara",John Hughes,John Hughes,7.8
+580,The Big Short,23/12/15,"Christian Bale, Steve Carell, Ryan Gosling",Adam McKay,"Charles Randolph, Adam McKay, Michael Lewis",7.8
+581,JFK,20/12/91,"Kevin Costner, Gary Oldman, Jack Lemmon",Oliver Stone,"Jim Garrison, Jim Marrs, Oliver Stone",8
+582,V for Vendetta,17/03/06,"Hugo Weaving, Natalie Portman, Rupert Graves",James McTeigue,"Lilly Wachowski, Lana Wachowski, David Lloyd",8.2
+583,All the Presidents Men,09/04/76,"Dustin Hoffman, Robert Redford, Jack Warden",Alan J. Pakula,"Carl Bernstein, Bob Woodward, William Goldman",7.9
+584,Groundhog Day,12/02/93,"Bill Murray, Andie MacDowell, Chris Elliott",Harold Ramis,"Danny Rubin, Harold Ramis",8.1
+585,The Bridges of Madison County,02/06/95,"Clint Eastwood, Meryl Streep, Annie Corley",Clint Eastwood,"Richard LaGravenese, Robert James Waller",7.6
+586,My Fair Lady,25/12/64,"Audrey Hepburn, Rex Harrison, Stanley Holloway",George Cukor,"Alan Jay Lerner, George Bernard Shaw",7.8
+587,Bridge of Spies,16/10/15,"Tom Hanks, Mark Rylance, Alan Alda",Steven Spielberg,"Matt Charman, Ethan Coen, Joel Coen",7.6
+588,Sin City,01/04/05,"Mickey Rourke, Clive Owen, Bruce Willis","Frank Miller, Quentin Tarantino, Robert Rodriguez","Frank Miller, Robert Rodriguez",8
+589,No Country for Old Men,21/11/07,"Tommy Lee Jones, Javier Bardem, Josh Brolin","Ethan Coen, Joel Coen","Joel Coen, Ethan Coen, Cormac McCarthy",8.2
+590,Ben-Hur,18/11/59,"Charlton Heston, Jack Hawkins, Stephen Boyd",William Wyler,"Lew Wallace, Karl Tunberg, Gore Vidal",8.1
+591,The Nightmare Before Christmas,29/10/93,"Danny Elfman, Chris Sarandon, Catherine OHara",Henry Selick,"Tim Burton, Michael McDowell, Caroline Thompson",8
+592,Coraline,06/02/09,"Dakota Fanning, Teri Hatcher, John Hodgman",Henry Selick,"Henry Selick, Neil Gaiman",7.7
+593,Ray,29/10/04,"Jamie Foxx, Regina King, Kerry Washington",Taylor Hackford,"Taylor Hackford, James L. White",7.7
+594,The Last of the Mohicans,25/09/92,"Daniel Day-Lewis, Madeleine Stowe, Russell Means",Michael Mann,"James Fenimore Cooper, John L. Balderston, Paul Perez",7.7
+595,Zombieland,02/10/09,"Jesse Eisenberg, Emma Stone, Woody Harrelson",Ruben Fleischer,"Rhett Reese, Paul Wernick",7.6
+596,Braveheart,24/05/95,"Mel Gibson, Sophie Marceau, Patrick McGoohan",Mel Gibson,Randall Wallace,8.4
+597,Moneyball,23/09/11,"Brad Pitt, Robin Wright, Jonah Hill",Bennett Miller,"Steven Zaillian, Aaron Sorkin, Stan Chervin",7.6
+598,The Untouchables,03/06/87,"Kevin Costner, Sean Connery, Robert De Niro",Brian De Palma,"David Mamet, Oscar Fraley, Eliot Ness",7.9
+599,Fantasia,19/09/41,"Leopold Stokowski, Deems Taylor, The Philadelphia Orchestra","James Algar, Samuel Armstrong, Ford Beebe Jr.","Joe Grant, Dick Huemer, Lee Blair",7.7
+600,Training Day,05/10/01,"Denzel Washington, Ethan Hawke, Scott Glenn",Antoine Fuqua,David Ayer,7.7
+601,Philadelphia,14/01/94,"Tom Hanks, Denzel Washington, Roberta Maxwell",Jonathan Demme,Ron Nyswaner,7.7
+602,Man on Fire,23/04/04,"Denzel Washington, Christopher Walken, Dakota Fanning",Tony Scott,"A.J. Quinnell, Brian Helgeland",7.7
+603,The Naked Gun: From the Files of Police Squad!,02/12/88,"Leslie Nielsen, Priscilla Presley, O.J. Simpson",David Zucker,"Jerry Zucker, Jim Abrahams, David Zucker",7.6
+604,Alien,22/06/79,"Sigourney Weaver, Tom Skerritt, John Hurt",Ridley Scott,"Dan OBannon, Ronald Shusett",8.5
+605,Star Trek II: The Wrath of Khan,04/06/82,"William Shatner, Leonard Nimoy, DeForest Kelley",Nicholas Meyer,"Gene Roddenberry, Harve Bennett, Jack B. Sowards",7.7
+606,Fiddler on the Roof,03/11/71,"Topol, Norma Crane, Leonard Frey",Norman Jewison,"Sholom Aleichem, Arnold Perl, Joseph Stein",8
+607,The Notebook,25/06/04,"Gena Rowlands, James Garner, Rachel McAdams",Nick Cassavetes,"Jeremy Leven, Jan Sardi, Nicholas Sparks",7.8
+608,Fried Green Tomatoes,24/01/92,"Kathy Bates, Jessica Tandy, Mary Stuart Masterson",Jon Avnet,"Fannie Flagg, Carol Sobieski",7.7
+609,Die Hard,20/07/88,"Bruce Willis, Alan Rickman, Bonnie Bedelia",John McTiernan,"Roderick Thorp, Jeb Stuart, Steven E. de Souza",8.3
+610,Brokeback Mountain,13/01/06,"Jake Gyllenhaal, Heath Ledger, Michelle Williams",Ang Lee,"Annie Proulx, Larry McMurtry, Diana Ossana",7.7
+611,Airplane!,02/07/80,"Robert Hays, Julie Hagerty, Leslie Nielsen","Jim Abrahams, David Zucker, Jerry Zucker","Jim Abrahams, David Zucker, Jerry Zucker",7.7
+612,Apocalypse Now,15/08/79,"Martin Sheen, Marlon Brando, Robert Duvall",Francis Ford Coppola,"John Milius, Francis Ford Coppola, Michael Herr",8.5
+613,Green Book,16/11/18,"Viggo Mortensen, Mahershala Ali, Linda Cardellini",Peter Farrelly,"Nick Vallelonga, Brian Hayes Currie, Peter Farrelly",8.2
+614,Aliens,18/07/86,"Sigourney Weaver, Michael Biehn, Carrie Henn",James Cameron,"James Cameron, David Giler, Walter Hill",8.4
+615,Young Frankenstein,15/12/74,"Gene Wilder, Madeline Kahn, Marty Feldman",Mel Brooks,"Gene Wilder, Mel Brooks, Mary Shelley",8
+616,Inside Man,24/03/06,"Denzel Washington, Clive Owen, Jodie Foster",Spike Lee,Russell Gewirtz,7.6
+617,Mystic River,15/10/03,"Sean Penn, Tim Robbins, Kevin Bacon",Clint Eastwood,"Brian Helgeland, Dennis Lehane",7.9
+618,The Imitation Game,25/12/14,"Benedict Cumberbatch, Keira Knightley, Matthew Goode",Morten Tyldum,"Graham Moore, Andrew Hodges",8
+619,Blade Runner 2049,06/10/17,"Harrison Ford, Ryan Gosling, Ana de Armas",Denis Villeneuve,"Hampton Fancher, Michael Green, Philip K. Dick",8
+620,When Harry Met Sally...,21/07/89,"Billy Crystal, Meg Ryan, Carrie Fisher",Rob Reiner,Nora Ephron,7.6
+621,The Fighter,17/12/10,"Mark Wahlberg, Christian Bale, Amy Adams",David O. Russell,"Scott Silver, Paul Tamasy, Eric Johnson",7.8
+622,The Ten Commandments,05/10/56,"Charlton Heston, Yul Brynner, Anne Baxter",Cecil B. DeMille,"Dorothy Clarke Wilson, J.H. Ingraham, A.E. Southon",7.9
+623,Dead Poets Society,09/06/89,"Robin Williams, Robert Sean Leonard, Ethan Hawke",Peter Weir,Tom Schulman,8.1
+624,The Others,10/08/01,"Nicole Kidman, Christopher Eccleston, Fionnula Flanagan",Alejandro Amenábar,Alejandro Amenábar,7.6
+625,Schindlers List,04/02/94,"Liam Neeson, Ralph Fiennes, Ben Kingsley",Steven Spielberg,"Thomas Keneally, Steven Zaillian",8.9
+626,The Social Network,01/10/10,"Jesse Eisenberg, Andrew Garfield, Justin Timberlake",David Fincher,"Aaron Sorkin, Ben Mezrich",7.8
+627,The Color Purple,07/02/86,"Danny Glover, Whoopi Goldberg, Oprah Winfrey",Steven Spielberg,"Menno Meyjes, Alice Walker",7.7
+628,Die Hard with a Vengeance,19/05/95,"Bruce Willis, Jeremy Irons, Samuel L. Jackson",John McTiernan,"Jonathan Hensleigh, Roderick Thorp",7.6
+629,Se7en,22/09/95,"Morgan Freeman, Brad Pitt, Kevin Spacey",David Fincher,Andrew Kevin Walker,8.6
+630,Edge of Tomorrow,06/06/14,"Tom Cruise, Emily Blunt, Bill Paxton",Doug Liman,"Christopher McQuarrie, Jez Butterworth, John-Henry Butterworth",7.9
+631,Million Dollar Baby,28/01/05,"Hilary Swank, Clint Eastwood, Morgan Freeman",Clint Eastwood,"Paul Haggis, F.X. Toole",8.1
+632,Arrival,11/11/16,"Amy Adams, Jeremy Renner, Forest Whitaker",Denis Villeneuve,"Eric Heisserer, Ted Chiang",7.9
+633,Unforgiven,07/08/92,"Clint Eastwood, Gene Hackman, Morgan Freeman",Clint Eastwood,David Webb Peoples,8.2
+634,Mary Poppins,18/06/65,"Julie Andrews, Dick Van Dyke, David Tomlinson",Robert Stevenson,"Bill Walsh, Don DaGradi, P.L. Travers",7.8
+635,Butch Cassidy and the Sundance Kid,24/09/69,"Paul Newman, Robert Redford, Katharine Ross",George Roy Hill,William Goldman,8
+636,The Girl with the Dragon Tattoo,21/12/11,"Daniel Craig, Rooney Mara, Christopher Plummer",David Fincher,"Steven Zaillian, Stieg Larsson",7.8
+637,Road to Perdition,12/07/02,"Tom Hanks, Tyler Hoechlin, Rob Maxey",Sam Mendes,"Max Allan Collins, Richard Piers Rayner, David Self",7.7
+638,The Graduate,21/12/67,"Dustin Hoffman, Anne Bancroft, Katharine Ross",Mike Nichols,"Calder Willingham, Buck Henry, Charles Webb",8
+639,Kramer vs. Kramer,19/12/79,"Dustin Hoffman, Meryl Streep, Jane Alexander",Robert Benton,"Avery Corman, Robert Benton",7.8
+640,Black Swan,17/12/10,"Natalie Portman, Mila Kunis, Vincent Cassel",Darren Aronofsky,"Mark Heyman, Andres Heinz, John J. McLaughlin",8
+641,Captain Phillips,11/10/13,"Tom Hanks, Barkhad Abdi, Barkhad Abdirahman",Paul Greengrass,"Billy Ray, Richard Phillips, Stephan Talty",7.8
+642,Watchmen,06/03/09,"Jackie Earle Haley, Patrick Wilson, Carla Gugino",Zack Snyder,"Dave Gibbons, David Hayter, Alex Tse",7.7
+643,Baby Driver,28/06/17,"Ansel Elgort, Jon Bernthal, Jon Hamm",Edgar Wright,Edgar Wright,7.6
+644,Pulp Fiction,14/10/94,"John Travolta, Uma Thurman, Samuel L. Jackson",Quentin Tarantino,"Quentin Tarantino, Roger Avary",8.9
+645,Little Women,25/12/19,"Saoirse Ronan, Emma Watson, Florence Pugh",Greta Gerwig,"Greta Gerwig, Louisa May Alcott",7.8
+646,Black Hawk Down,18/01/02,"Josh Hartnett, Ewan McGregor, Tom Sizemore",Ridley Scott,"Mark Bowden, Ken Nolan",7.7
+647,Creed,25/11/15,"Michael B. Jordan, Sylvester Stallone, Tessa Thompson",Ryan Coogler,"Ryan Coogler, Aaron Covington, Sylvester Stallone",7.6
+648,The Last Samurai,05/12/03,"Tom Cruise, Ken Watanabe, Billy Connolly",Edward Zwick,"John Logan, Edward Zwick, Marshall Herskovitz",7.8
+649,The Little Mermaid,17/11/89,"Jodi Benson, Samuel E. Wright, Rene Auberjonois","Ron Clements, John Musker","John Musker, Ron Clements, Hans Christian Andersen",7.6
+650,Doctor Zhivago,31/12/65,"Omar Sharif, Julie Christie, Geraldine Chaplin",David Lean,"Boris Pasternak, Robert Bolt",8
+651,One Flew Over the Cuckoos Nest,19/11/75,"Jack Nicholson, Louise Fletcher, Michael Berryman",Milos Forman,"Lawrence Hauben, Bo Goldman, Ken Kesey",8.7
+652,District 9,14/08/09,"Sharlto Copley, David James, Jason Cope",Neill Blomkamp,"Neill Blomkamp, Terri Tatchell",7.9
+653,Remember the Titans,29/09/00,"Denzel Washington, Will Patton, Wood Harris",Boaz Yakin,Gregory Allen Howard,7.8
+654,The Wolf of Wall Street,25/12/13,"Leonardo DiCaprio, Jonah Hill, Margot Robbie",Martin Scorsese,"Terence Winter, Jordan Belfort",8.2
+655,Rocky,03/12/76,"Sylvester Stallone, Talia Shire, Burt Young",John G. Avildsen,Sylvester Stallone,8.1
+656,Ford v Ferrari,15/11/19,"Matt Damon, Christian Bale, Jon Bernthal",James Mangold,"Jez Butterworth, John-Henry Butterworth, Jason Keller",8.1
+657,Back to the Future Part II,22/11/89,"Michael J. Fox, Christopher Lloyd, Lea Thompson",Robert Zemeckis,"Robert Zemeckis, Bob Gale",7.9
+658,Blazing Saddles,07/02/74,"Cleavon Little, Gene Wilder, Slim Pickens",Mel Brooks,"Mel Brooks, Norman Steinberg, Andrew Bergman",7.7
+659,Walk the Line,18/11/05,"Joaquin Phoenix, Reese Witherspoon, Ginnifer Goodwin",James Mangold,"Johnny Cash, Gill Dennis, James Mangold",7.8
+660,Inglourious Basterds,21/08/09,"Brad Pitt, Diane Kruger, Eli Roth",Quentin Tarantino,Quentin Tarantino,8.3
+661,Mulan,19/06/98,"Ming-Na Wen, Eddie Murphy, BD Wong","Tony Bancroft, Barry Cook","Robert D. San Souci, Rita Hsiao, Chris Sanders",7.6
+662,Superbad,17/08/07,"Michael Cera, Jonah Hill, Christopher Mintz-Plasse",Greg Mottola,"Seth Rogen, Evan Goldberg",7.6
+663,The Bourne Identity,14/06/02,"Franka Potente, Matt Damon, Chris Cooper",Doug Liman,"Tony Gilroy, W. Blake Herron, Robert Ludlum",7.9
+664,Traffic,05/01/01,"Michael Douglas, Benicio Del Toro, Catherine Zeta-Jones",Steven Soderbergh,"Simon Moore, Stephen Gaghan",7.6
+665,The Fault in Our Stars,06/06/14,"Shailene Woodley, Ansel Elgort, Nat Wolff",Josh Boone,"Scott Neustadter, Michael H. Weber, John Green",7.7
+666,Life of Pi,21/11/12,"Suraj Sharma, Irrfan Khan, Adil Hussain",Ang Lee,"Yann Martel, David Magee",7.9
+667,The Truman Show,05/06/98,"Jim Carrey, Ed Harris, Laura Linney",Peter Weir,Andrew Niccol,8.2
+668,The Curious Case of Benjamin Button,25/12/08,"Brad Pitt, Cate Blanchett, Tilda Swinton",David Fincher,"Eric Roth, Robin Swicord, F. Scott Fitzgerald",7.8
+669,Shutter Island,19/02/10,"Leonardo DiCaprio, Emily Mortimer, Mark Ruffalo",Martin Scorsese,"Laeta Kalogridis, Dennis Lehane",8.2
+670,"Crouching Tiger, Hidden Dragon",12/01/01,"Chow Yun-Fat, Michelle Yeoh, Ziyi Zhang",Ang Lee,"Hui-Ling Wang, James Schamus, Kuo Jung Tsai",7.8
+671,Kingsman: The Secret Service,13/02/15,"Colin Firth, Taron Egerton, Samuel L. Jackson",Matthew Vaughn,"Jane Goldman, Matthew Vaughn, Mark Millar",7.7
+672,American Beauty,01/10/99,"Kevin Spacey, Annette Bening, Thora Birch",Sam Mendes,Alan Ball,8.4
+673,American Gangster,02/11/07,"Denzel Washington, Russell Crowe, Chiwetel Ejiofor",Ridley Scott,"Steven Zaillian, Mark Jacobson",7.8
+674,The Silence of the Lambs,14/02/91,"Jodie Foster, Anthony Hopkins, Lawrence A. Bonney",Jonathan Demme,"Thomas Harris, Ted Tally",8.6
+675,Minority Report,21/06/02,"Tom Cruise, Colin Farrell, Samantha Morton",Steven Spielberg,"Philip K. Dick, Scott Frank, Jon Cohen",7.7
+676,Close Encounters of the Third Kind,14/12/77,"Richard Dreyfuss, François Truffaut, Teri Garr",Steven Spielberg,"Steven Spielberg, Hal Barwood, Jerry Belson",7.6
+677,Silver Linings Playbook,25/12/12,"Bradley Cooper, Jennifer Lawrence, Robert De Niro",David O. Russell,"David O. Russell, Matthew Quick",7.7
+678,The Departed,06/10/06,"Leonardo DiCaprio, Matt Damon, Jack Nicholson",Martin Scorsese,"William Monahan, Alan Mak, Felix Chong",8.5
+679,Wonder,17/11/17,"Jacob Tremblay, Owen Wilson, Izabela Vidovic",Stephen Chbosky,"Stephen Chbosky, Steve Conrad, Jack Thorne",7.9
+680,The Godfather,24/03/72,"Marlon Brando, Al Pacino, James Caan",Francis Ford Coppola,"Mario Puzo, Francis Ford Coppola",9.2
+681,Argo,12/10/12,"Ben Affleck, Bryan Cranston, John Goodman",Ben Affleck,"Chris Terrio, Tony Mendez, Joshuah Bearman",7.7
+682,The Green Mile,10/12/99,"Tom Hanks, Michael Clarke Duncan, David Morse",Frank Darabont,"Stephen King, Frank Darabont",8.6
+683,Good Will Hunting,09/01/98,"Robin Williams, Matt Damon, Ben Affleck",Gus Van Sant,"Matt Damon, Ben Affleck",8.3
+684,Platoon,06/02/87,"Charlie Sheen, Tom Berenger, Willem Dafoe",Oliver Stone,Oliver Stone,8.1
+685,The Kings Speech,25/12/10,"Colin Firth, Geoffrey Rush, Helena Bonham Carter",Tom Hooper,David Seidler,8
+686,Slumdog Millionaire,25/12/08,"Dev Patel, Freida Pinto, Saurabh Shukla","Danny Boyle, Loveleen Tandan","Simon Beaufoy, Vikas Swarup",8
+687,A Few Good Men,11/12/92,"Tom Cruise, Jack Nicholson, Demi Moore",Rob Reiner,Aaron Sorkin,7.7
+688,The Jungle Book,15/04/16,"Neel Sethi, Bill Murray, Ben Kingsley",Jon Favreau,"Justin Marks, Rudyard Kipling",7.4
+689,Once Upon a Time... In Hollywood,26/07/19,"Leonardo DiCaprio, Brad Pitt, Margot Robbie",Quentin Tarantino,Quentin Tarantino,7.6
+690,Taken,30/01/09,"Liam Neeson, Maggie Grace, Famke Janssen",Pierre Morel,"Luc Besson, Robert Mark Kamen",7.8
+691,Gran Torino,09/01/09,"Clint Eastwood, Bee Vang, Christopher Carley",Clint Eastwood,"Nick Schenk, Dave Johannson",8.1
+692,As Good as It Gets,25/12/97,"Jack Nicholson, Helen Hunt, Greg Kinnear",James L. Brooks,"Mark Andrus, James L. Brooks",7.7
+693,La La Land,25/12/16,"Ryan Gosling, Emma Stone, Rosemarie DeWitt",Damien Chazelle,Damien Chazelle,8
+694,Mad Max: Fury Road,15/05/15,"Tom Hardy, Charlize Theron, Nicholas Hoult",George Miller,"George Miller, Brendan McCarthy, Nick Lathouris",8.1
+695,Who Framed Roger Rabbit,22/06/88,"Bob Hoskins, Christopher Lloyd, Joanna Cassidy",Robert Zemeckis,"Gary K. Wolf, Jeffrey Price, Peter S. Seaman",7.7
+696,1917,10/01/20,"Dean-Charles Chapman, George MacKay, Daniel Mays",Sam Mendes,"Sam Mendes, Krysty Wilson-Cairns",8.3
+697,The Sting,25/12/73,"Paul Newman, Robert Redford, Robert Shaw",George Roy Hill,David S. Ward,8.3
+698,Straight Outta Compton,14/08/15,"OShea Jackson Jr., Corey Hawkins, Jason Mitchell",F. Gary Gray,"Jonathan Herman, Andrea Berloff, S. Leigh Savidge",7.8
+699,Django Unchained,25/12/12,"Jamie Foxx, Christoph Waltz, Leonardo DiCaprio",Quentin Tarantino,Quentin Tarantino,8.4
+700,The Sound of Music,01/04/65,"Julie Andrews, Christopher Plummer, Eleanor Parker",Robert Wise,"George Hurdalek, Howard Lindsay, Russel Crouse",8
+701,The Pursuit of Happyness,15/12/06,"Will Smith, Thandiwe Newton, Jaden Smith",Gabriele Muccino,Steve Conrad,8
+702,Catch Me If You Can,25/12/02,"Leonardo DiCaprio, Tom Hanks, Christopher Walken",Steven Spielberg,"Jeff Nathanson, Frank Abagnale Jr., Stan Redding",8.1
+703,Knives Out,27/11/19,"Daniel Craig, Chris Evans, Ana de Armas",Rian Johnson,Rian Johnson,7.9
+704,Casino Royale,17/11/06,"Daniel Craig, Eva Green, Judi Dench",Martin Campbell,"Neal Purvis, Robert Wade, Paul Haggis",8
+705,Gone Girl,03/10/14,"Ben Affleck, Rosamund Pike, Neil Patrick Harris",David Fincher,Gillian Flynn,8.1
+706,Hidden Figures,06/01/17,"Taraji P. Henson, Octavia Spencer, Janelle Monáe",Theodore Melfi,"Allison Schroeder, Theodore Melfi, Margot Lee Shetterly",7.8
+707,The Help,10/08/11,"Emma Stone, Viola Davis, Octavia Spencer",Tate Taylor,"Tate Taylor, Kathryn Stockett",8.1
+708,A Beautiful Mind,04/01/02,"Russell Crowe, Ed Harris, Jennifer Connelly",Ron Howard,"Akiva Goldsman, Sylvia Nasar",8.2
+709,True Grit,22/12/10,"Jeff Bridges, Matt Damon, Hailee Steinfeld","Ethan Coen, Joel Coen","Joel Coen, Ethan Coen, Charles Portis",7.6
+710,The Matrix,31/03/99,"Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss","Lana Wachowski, Lilly Wachowski","Lilly Wachowski, Lana Wachowski",8.7
+711,Apollo 13,30/06/95,"Tom Hanks, Bill Paxton, Kevin Bacon",Ron Howard,"Jim Lovell, Jeffrey Kluger, William Broyles Jr.",7.7
+712,Get Out,24/02/17,"Daniel Kaluuya, Allison Williams, Bradley Whitford",Jordan Peele,Jordan Peele,7.7
+713,The Bourne Supremacy,23/07/04,"Matt Damon, Franka Potente, Joan Allen",Paul Greengrass,"Robert Ludlum, Tony Gilroy",7.7
+714,Rise of the Planet of the Apes,05/08/11,"James Franco, Andy Serkis, Freida Pinto",Rupert Wyatt,"Rick Jaffa, Amanda Silver, Pierre Boulle",7.6
+715,How to Train Your Dragon 2,13/06/14,"Jay Baruchel, Cate Blanchett, Gerard Butler",Dean DeBlois,"Dean DeBlois, Cressida Cowell",7.8
+716,Rain Man,16/12/88,"Dustin Hoffman, Tom Cruise, Valeria Golino",Barry Levinson,"Barry Morrow, Ronald Bass",8
+717,Oceans Eleven,07/12/01,"George Clooney, Brad Pitt, Julia Roberts",Steven Soderbergh,"George Clayton Johnson, Jack Golden Russell, Harry Brown",7.7
+718,The Revenant,08/01/16,"Leonardo DiCaprio, Tom Hardy, Will Poulter",Alejandro G. Iñárritu,"Mark L. Smith, Alejandro G. Iñárritu, Michael Punke",8
+719,The Fugitive,06/08/93,"Harrison Ford, Tommy Lee Jones, Sela Ward",Andrew Davis,"Jeb Stuart, David Twohy, Roy Huggins",7.8
+720,Dances with Wolves,21/11/90,"Kevin Costner, Mary McDonnell, Graham Greene",Kevin Costner,Michael Blake,8.1
+721,Snow White and the Seven Dwarfs,04/02/38,"Adriana Caselotti, Harry Stockwell, Lucille La Verne","William Cottrell, David Hand, Wilfred Jackson","Jacob Grimm, Wilhelm Grimm, Ted Sears",7.6
+722,Gladiator,05/05/00,"Russell Crowe, Joaquin Phoenix, Connie Nielsen",Ridley Scott,"David Franzoni, John Logan, William Nicholson",8.5
+723,Interstellar,07/11/14,"Matthew McConaughey, Anne Hathaway, Jessica Chastain",Christopher Nolan,"Jonathan Nolan, Christopher Nolan",8.7
+724,Dunkirk,21/07/17,"Fionn Whitehead, Barry Keoghan, Mark Rylance",Christopher Nolan,Christopher Nolan,7.8
+725,Wreck-It Ralph,02/11/12,"John C. Reilly, Jack McBrayer, Jane Lynch",Rich Moore,"Rich Moore, Phil Johnston, Jim Reardon",7.7
+726,Spider-Man: Into the Spider-Verse,14/12/18,"Shameik Moore, Jake Johnson, Hailee Steinfeld","Bob Persichetti, Peter Ramsey, Rodney Rothman","Phil Lord, Rodney Rothman",8.4
+727,Toy Story,22/11/95,"Tom Hanks, Tim Allen, Don Rickles",John Lasseter,"John Lasseter, Pete Docter, Andrew Stanton",8.3
+728,Indiana Jones and the Last Crusade,24/05/89,"Harrison Ford, Sean Connery, Alison Doody",Steven Spielberg,"Jeffrey Boam, George Lucas, Menno Meyjes",8.3
+729,Gone with the Wind,17/01/40,"Clark Gable, Vivien Leigh, Thomas Mitchell","Victor Fleming, George Cukor, Sam Wood","Margaret Mitchell, Sidney Howard, Oliver H.P. Garrett",8.2
+730,Tangled,24/11/10,"Mandy Moore, Zachary Levi, Donna Murphy","Nathan Greno, Byron Howard","Dan Fogelman, Jacob Grimm, Wilhelm Grimm",7.8
+731,Terminator 2: Judgment Day,03/07/91,"Arnold Schwarzenegger, Linda Hamilton, Edward Furlong",James Cameron,"James Cameron, William Wisher",8.6
+732,Ratatouille,29/06/07,"Brad Garrett, Lou Romano, Patton Oswalt","Brad Bird, Jan Pinkava","Brad Bird, Jan Pinkava, Jim Capobianco",8.1
+733,Batman Begins,15/06/05,"Christian Bale, Michael Caine, Ken Watanabe",Christopher Nolan,"Bob Kane, David S. Goyer, Christopher Nolan",8.3
+734,Dawn of the Planet of the Apes,11/07/14,"Gary Oldman, Keri Russell, Andy Serkis",Matt Reeves,"Mark Bomback, Rick Jaffa, Amanda Silver",7.6
+735,Sherlock Holmes,25/12/09,"Robert Downey Jr., Jude Law, Rachel McAdams",Guy Ritchie,"Michael Robert Johnson, Anthony Peckham, Simon Kinberg",7.6
+736,Coco,22/11/17,"Anthony Gonzalez, Gael García Bernal, Benjamin Bratt","Lee Unkrich, Adrian Molina","Lee Unkrich, Jason Katz, Matthew Aldrich",8.4
+737,Back to the Future,03/07/85,"Michael J. Fox, Christopher Lloyd, Lea Thompson",Robert Zemeckis,"Robert Zemeckis, Bob Gale",8.6
+738,300,09/03/07,"Gerard Butler, Lena Headey, David Wenham",Zack Snyder,"Zack Snyder, Kurt Johnstad, Michael B. Gordon",7.6
+739,A Star Is Born,05/10/18,"Lady Gaga, Bradley Cooper, Sam Elliott",Bradley Cooper,"Eric Roth, Bradley Cooper, Will Fetters",7.6
+740,Kung Fu Panda,06/06/08,"Jack Black, Ian McShane, Angelina Jolie","Mark Osborne, John Stevenson","Jonathan Aibel, Glenn Berger, Ethan Reiff",7.6
+741,Bohemian Rhapsody,02/11/18,"Rami Malek, Lucy Boynton, Gwilym Lee",Bryan Singer,"Anthony McCarten, Peter Morgan",8
+742,Saving Private Ryan,24/07/98,"Tom Hanks, Matt Damon, Tom Sizemore",Steven Spielberg,Robert Rodat,8.6
+743,Aladdin,25/11/92,"Scott Weinger, Robin Williams, Linda Larkin","Ron Clements, John Musker","Ron Clements, John Musker, Ted Elliott",8.1
+744,How to Train Your Dragon,26/03/10,"Jay Baruchel, Gerard Butler, Christopher Mintz-Plasse","Dean DeBlois, Chris Sanders","William Davies, Dean DeBlois, Chris Sanders",8.1
+745,Beauty and the Beast,22/11/91,"Paige OHara, Robby Benson, Jesse Corti","Gary Trousdale, Kirk Wise","Linda Woolverton, Brenda Chapman, Chris Sanders",8.1
+746,Mission: Impossible - Fallout,27/07/18,"Tom Cruise, Henry Cavill, Ving Rhames",Christopher McQuarrie,"Bruce Geller, Christopher McQuarrie",7.7
+747,Big Hero 6,07/11/14,"Ryan Potter, Scott Adsit, Jamie Chung","Don Hall, Chris Williams","Jordan Roberts, Robert L. Baird, Daniel Gerson",7.8
+748,WALL·E,27/06/08,"Ben Burtt, Elissa Knight, Jeff Garlin",Andrew Stanton,"Andrew Stanton, Pete Docter, Jim Reardon",8.4
+749,Logan,03/03/17,"Hugh Jackman, Patrick Stewart, Dafne Keen",James Mangold,"James Mangold, Scott Frank, Michael Green",8.1
+750,The Bourne Ultimatum,03/08/07,"Matt Damon, Edgar Ramírez, Joan Allen",Paul Greengrass,"Tony Gilroy, Scott Z. Burns, George Nolfi",8
+751,The Martian,02/10/15,"Matt Damon, Jessica Chastain, Kristen Wiig",Ridley Scott,"Drew Goddard, Andy Weir",8
+752,Star Trek Into Darkness,16/05/13,"Chris Pine, Zachary Quinto, Zoe Saldana",J.J. Abrams,"Roberto Orci, Alex Kurtzman, Damon Lindelof",7.7
+753,The Exorcist,26/12/73,"Ellen Burstyn, Max von Sydow, Linda Blair",William Friedkin,William Peter Blatty,8.1
+754,Cast Away,22/12/00,"Tom Hanks, Helen Hunt, Paul Sanchez",Robert Zemeckis,William Broyles Jr.,7.8
+755,X-Men: Days of Future Past,23/05/14,"Patrick Stewart, Ian McKellen, Hugh Jackman",Bryan Singer,"Simon Kinberg, Jane Goldman, Matthew Vaughn",8
+756,Ghostbusters,08/06/84,"Bill Murray, Dan Aykroyd, Sigourney Weaver",Ivan Reitman,"Dan Aykroyd, Harold Ramis, Rick Moranis",7.8
+757,Toy Story 2,24/11/99,"Tom Hanks, Tim Allen, Joan Cusack","John Lasseter, Ash Brannon, Lee Unkrich","John Lasseter, Pete Docter, Ash Brannon",7.9
+758,Indiana Jones and the Raiders of the Lost Ark,12/06/81,"Harrison Ford, Karen Allen, Paul Freeman",Steven Spielberg,"Lawrence Kasdan, George Lucas, Philip Kaufman",8.4
+759,Moana,23/11/16,"Aulii Cravalho, Dwayne Johnson, Rachel House","Ron Clements, John Musker, Don Hall","Jared Bush, Ron Clements, John Musker",7.6
+760,Harry Potter and the Prisoner of Azkaban,04/06/04,"Daniel Radcliffe, Emma Watson, Rupert Grint",Alfonso Cuarón,"J.K. Rowling, Steve Kloves",7.9
+761,Despicable Me,09/07/10,"Steve Carell, Jason Segel, Russell Brand","Pierre Coffin, Chris Renaud","Cinco Paul, Ken Daurio, Sergio Pablos",7.6
+762,The Blind Side,20/11/09,"Quinton Aaron, Sandra Bullock, Tim McGraw",John Lee Hancock,"John Lee Hancock, Michael Lewis",7.6
+763,Star Trek,08/05/09,"Chris Pine, Zachary Quinto, Simon Pegg",J.J. Abrams,"Roberto Orci, Alex Kurtzman, Gene Roddenberry",7.9
+764,The Lego Movie,07/02/14,"Chris Pratt, Will Ferrell, Elizabeth Banks","Christopher Miller, Phil Lord","Phil Lord, Christopher Miller, Dan Hageman",7.7
+765,The Hobbit: The Desolation of Smaug,13/12/13,"Ian McKellen, Martin Freeman, Richard Armitage",Peter Jackson,"Fran Walsh, Philippa Boyens, Peter Jackson",7.8
+766,Captain America: The Winter Soldier,04/04/14,"Chris Evans, Samuel L. Jackson, Scarlett Johansson","Anthony Russo, Joe Russo","Christopher Markus, Stephen McFeely, Joe Simon",7.8
+767,Jaws,20/06/75,"Roy Scheider, Robert Shaw, Richard Dreyfuss",Steven Spielberg,"Peter Benchley, Carl Gottlieb",8.1
+768,The Incredibles,05/11/04,"Craig T. Nelson, Samuel L. Jackson, Holly Hunter",Brad Bird,Brad Bird,8
+769,Shrek,18/05/01,"Mike Myers, Eddie Murphy, Cameron Diaz","Andrew Adamson, Vicky Jenson","William Steig, Ted Elliott, Terry Rossio",7.9
+770,Gravity,04/10/13,"Sandra Bullock, George Clooney, Ed Harris",Alfonso Cuarón,"Alfonso Cuarón, Jonás Cuarón",7.7
+771,The Hangover,05/06/09,"Zach Galifianakis, Bradley Cooper, Justin Bartha",Todd Phillips,"Jon Lucas, Scott Moore",7.7
+772,Home Alone,16/11/90,"Macaulay Culkin, Joe Pesci, Daniel Stern",Chris Columbus,John Hughes,7.7
+773,"Monsters, Inc.",02/11/01,"Billy Crystal, John Goodman, Mary Gibbs","Pete Docter, David Silverman, Lee Unkrich","Pete Docter, Jill Culton, Jeff Pidgeon",8.1
+774,Harry Potter and the Goblet of Fire,18/11/05,"Daniel Radcliffe, Emma Watson, Rupert Grint",Mike Newell,"Steve Kloves, J.K. Rowling",7.7
+775,Star Wars: Episode V - The Empire Strikes Back,20/06/80,"Mark Hamill, Harrison Ford, Carrie Fisher",Irvin Kershner,"Leigh Brackett, Lawrence Kasdan, George Lucas",8.7
+776,Inception,16/07/10,"Leonardo DiCaprio, Joseph Gordon-Levitt, Elliot Page",Christopher Nolan,Christopher Nolan,8.8
+777,Up,29/05/09,"Edward Asner, Jordan Nagai, John Ratzenberger","Pete Docter, Bob Peterson","Pete Docter, Bob Peterson, Tom McCarthy",8.2
+778,The Sixth Sense,06/08/99,"Bruce Willis, Haley Joel Osment, Toni Collette",M. Night Shyamalan,M. Night Shyamalan,8.2
+779,Harry Potter and the Deathly Hallows: Part 1,19/11/10,"Daniel Radcliffe, Emma Watson, Rupert Grint",David Yates,"Steve Kloves, J.K. Rowling",7.7
+780,Harry Potter and the Half-Blood Prince,15/07/09,"Daniel Radcliffe, Emma Watson, Rupert Grint",David Yates,"Steve Kloves, J.K. Rowling",7.6
+781,The Hobbit: An Unexpected Journey,14/12/12,"Martin Freeman, Ian McKellen, Richard Armitage",Peter Jackson,"Fran Walsh, Philippa Boyens, Peter Jackson",7.8
+782,Skyfall,09/11/12,"Daniel Craig, Javier Bardem, Naomie Harris",Sam Mendes,"Neal Purvis, Robert Wade, John Logan",7.8
+783,Pirates of the Caribbean: The Curse of the Black Pearl,09/07/03,"Johnny Depp, Geoffrey Rush, Orlando Bloom",Gore Verbinski,"Ted Elliott, Terry Rossio, Stuart Beattie",8
+784,Star Wars: Episode VI - Return of the Jedi,25/05/83,"Mark Hamill, Harrison Ford, Carrie Fisher",Richard Marquand,"Lawrence Kasdan, George Lucas",8.3
+785,Thor: Ragnarok,03/11/17,"Chris Hemsworth, Tom Hiddleston, Cate Blanchett",Taika Waititi,"Eric Pearson, Craig Kyle, Christopher L. Yost",7.9
+786,The Lord of the Rings: The Fellowship of the Ring,19/12/01,"Elijah Wood, Ian McKellen, Orlando Bloom",Peter Jackson,"J.R.R. Tolkien, Fran Walsh, Philippa Boyens",8.8
+787,Harry Potter and the Sorcerers Stone,16/11/01,"Daniel Radcliffe, Rupert Grint, Richard Harris",Chris Columbus,"J.K. Rowling, Steve Kloves",7.6
+788,Iron Man,02/05/08,"Robert Downey Jr., Gwyneth Paltrow, Terrence Howard",Jon Favreau,"Mark Fergus, Hawk Ostby, Art Marcum",7.9
+789,Star Wars,25/05/77,"Mark Hamill, Harrison Ford, Carrie Fisher",George Lucas,George Lucas,8.6
+790,Deadpool 2,18/05/18,"Ryan Reynolds, Josh Brolin, Morena Baccarin",David Leitch,"Rhett Reese, Paul Wernick, Ryan Reynolds",7.7
+791,Forrest Gump,06/07/94,"Tom Hanks, Robin Wright, Gary Sinise",Robert Zemeckis,"Winston Groom, Eric Roth",8.8
+792,Guardians of the Galaxy,01/08/14,"Chris Pratt, Vin Diesel, Bradley Cooper",James Gunn,"James Gunn, Nicole Perlman, Dan Abnett",8.1
+793,Joker,04/10/19,"Joaquin Phoenix, Robert De Niro, Zazie Beetz",Todd Phillips,"Todd Phillips, Scott Silver, Bob Kane",8.4
+794,Zootopia,04/03/16,"Ginnifer Goodwin, Jason Bateman, Idris Elba","Byron Howard, Rich Moore, Jared Bush","Byron Howard, Rich Moore, Jared Bush",8
+795,The Lord of the Rings: The Two Towers,18/12/02,"Elijah Wood, Ian McKellen, Viggo Mortensen",Peter Jackson,"J.R.R. Tolkien, Fran Walsh, Philippa Boyens",8.7
+796,Inside Out,19/06/15,"Amy Poehler, Bill Hader, Lewis Black","Pete Docter, Ronnie Del Carmen","Pete Docter, Ronnie Del Carmen, Meg LeFauve",8.2
+797,Deadpool,12/02/16,"Ryan Reynolds, Morena Baccarin, T.J. Miller",Tim Miller,"Rhett Reese, Paul Wernick",8
+798,The Lord of the Rings: The Return of the King,17/12/03,"Elijah Wood, Viggo Mortensen, Ian McKellen",Peter Jackson,"J.R.R. Tolkien, Fran Walsh, Philippa Boyens",9
+799,Star Wars: Episode III - Revenge of the Sith,19/05/05,"Hayden Christensen, Natalie Portman, Ewan McGregor",George Lucas,"George Lucas, John Ostrander, Jan Duursema",7.6
+800,Finding Nemo,30/05/03,"Albert Brooks, Ellen DeGeneres, Alexander Gould","Andrew Stanton, Lee Unkrich","Andrew Stanton, Bob Peterson, David Reynolds",8.1
+801,Harry Potter and the Deathly Hallows: Part 2,15/07/11,"Daniel Radcliffe, Emma Watson, Rupert Grint",David Yates,"Steve Kloves, J.K. Rowling",8.2
+802,Guardians of the Galaxy Vol. 2,05/05/17,"Chris Pratt, Zoe Saldana, Dave Bautista",James Gunn,"James Gunn, Dan Abnett, Andy Lanning",7.6
+803,Jurassic Park,11/06/93,"Sam Neill, Laura Dern, Jeff Goldblum",Steven Spielberg,"Michael Crichton, David Koepp",8.1
+804,Captain America: Civil War,06/05/16,"Chris Evans, Robert Downey Jr., Scarlett Johansson","Anthony Russo, Joe Russo","Christopher Markus, Stephen McFeely, Joe Simon",7.8
+805,Toy Story 3,18/06/10,"Tom Hanks, Tim Allen, Joan Cusack",Lee Unkrich,"John Lasseter, Andrew Stanton, Lee Unkrich",8.3
+806,The Lion King,24/06/94,"Matthew Broderick, Jeremy Irons, James Earl Jones","Roger Allers, Rob Minkoff","Irene Mecchi, Jonathan Roberts, Linda Woolverton",8.5
+807,Toy Story 4,21/06/19,"Tom Hanks, Tim Allen, Annie Potts",Josh Cooley,"John Lasseter, Andrew Stanton, Josh Cooley",7.7
+808,E.T. the Extra-Terrestrial,11/06/82,"Henry Thomas, Drew Barrymore, Peter Coyote",Steven Spielberg,Melissa Mathison,7.9
+809,The Dark Knight Rises,20/07/12,"Christian Bale, Tom Hardy, Anne Hathaway",Christopher Nolan,"Jonathan Nolan, Christopher Nolan, David S. Goyer",8.4
+810,Rogue One: A Star Wars Story,16/12/16,"Felicity Jones, Diego Luna, Alan Tudyk",Gareth Edwards,"Chris Weitz, Tony Gilroy, John Knoll",7.8
+811,The Dark Knight,18/07/08,"Christian Bale, Heath Ledger, Aaron Eckhart",Christopher Nolan,"Jonathan Nolan, Christopher Nolan, David S. Goyer",9.1
+812,Incredibles 2,15/06/18,"Craig T. Nelson, Holly Hunter, Sarah Vowell",Brad Bird,Brad Bird,7.6
+813,The Avengers,04/05/12,"Robert Downey Jr., Chris Evans, Scarlett Johansson",Joss Whedon,"Joss Whedon, Zak Penn",8.1
+814,Titanic,19/12/97,"Leonardo DiCaprio, Kate Winslet, Billy Zane",James Cameron,James Cameron,7.8
+815,Avengers: Infinity War,27/04/18,"Robert Downey Jr., Chris Hemsworth, Mark Ruffalo","Anthony Russo, Joe Russo","Christopher Markus, Stephen McFeely, Stan Lee",8.4
+816,Avatar,18/12/09,"Sam Worthington, Zoe Saldana, Sigourney Weaver",James Cameron,James Cameron,7.9
+817,Avengers: Endgame,26/04/19,"Robert Downey Jr., Chris Evans, Mark Ruffalo","Anthony Russo, Joe Russo","Christopher Markus, Stephen McFeely, Stan Lee",8.4
+818,Star Wars: Episode VII - The Force Awakens,18/12/15,"Daisy Ridley, John Boyega, Oscar Isaac",J.J. Abrams,"Lawrence Kasdan, J.J. Abrams, Michael Arndt",7.9
+819,The Cabinet of Dr. Caligari,27/02/20,"Werner Krauss, Conrad Veidt, Friedrich Feher",Robert Wiene,"Carl Mayer, Hans Janowitz",8
+820,Nosferatu,18/05/22,"Max Schreck, Alexander Granach, Gustav von Wangenheim",F.W. Murnau,"Henrik Galeen, Bram Stoker",7.9
+821,The Circus,16/11/28,"Charles Chaplin, Merna Kennedy, Al Ernest Garcia",Charles Chaplin,Charles Chaplin,8.1
+822,Frankenstein,21/11/31,"Colin Clive, Mae Clarke, Boris Karloff",James Whale,"John L. Balderston, Mary Shelley, Peggy Webling",7.8
+823,Freaks,20/02/32,"Wallace Ford, Leila Hyams, Olga Baclanova",Tod Browning,"Clarence Aaron Tod Robbins, Willis Goldbeck, Leon Gordon",7.9
+824,Scarface,09/12/83,"Al Pacino, Michelle Pfeiffer, Steven Bauer",Brian De Palma,"Oliver Stone, Howard Hawks, Ben Hecht",8.3
+825,Duck Soup,17/11/33,"Groucho Marx, Harpo Marx, Chico Marx",Leo McCarey,"Bert Kalmar, Harry Ruby, Arthur Sheekman",7.8
+826,The Invisible Man,28/02/20,"Elisabeth Moss, Oliver Jackson-Cohen, Harriet Dyer",Leigh Whannell,"Leigh Whannell, H.G. Wells",7.1
+827,The Thin Man,25/05/34,"William Powell, Myrna Loy, Maureen OSullivan",W.S. Van Dyke,"Albert Hackett, Frances Goodrich, Dashiell Hammett",7.9
+828,The 39 Steps,31/07/35,"Robert Donat, Madeleine Carroll, Lucie Mannheim",Alfred Hitchcock,"John Buchan, Charles Bennett, Ian Hay",7.6
+829,Bringing Up Baby,18/02/38,"Katharine Hepburn, Cary Grant, Charles Ruggles",Howard Hawks,"Dudley Nichols, Hagar Wilde",7.8
+830,The Lady Vanishes,01/11/38,"Margaret Lockwood, Michael Redgrave, Paul Lukas",Alfred Hitchcock,"Ethel Lina White, Sidney Gilliat, Frank Launder",7.8
+831,The Rules of the Game,08/04/50,"Marcel Dalio, Nora Gregor, Paulette Dubost",Jean Renoir,"Jean Renoir, Carl Koch",8
+832,Stagecoach,03/03/39,"John Wayne, Claire Trevor, Andy Devine",John Ford,"Ernest Haycox, Dudley Nichols, Ben Hecht",7.8
+833,The Philadelphia Story,17/01/41,"Cary Grant, Katharine Hepburn, James Stewart",George Cukor,"Donald Ogden Stewart, Philip Barry, Waldo Salt",7.9
+834,Sullivans Travels,06/02/42,"Joel McCrea, Veronica Lake, Robert Warwick",Preston Sturges,Preston Sturges,7.9
+835,To Be or Not to Be,06/03/42,"Carole Lombard, Jack Benny, Robert Stack",Ernst Lubitsch,"Melchior Lengyel, Edwin Justus Mayer, Ernst Lubitsch",8.2
+836,Shadow of a Doubt,15/01/43,"Teresa Wright, Joseph Cotten, Macdonald Carey",Alfred Hitchcock,"Thornton Wilder, Sally Benson, Alma Reville",7.8
+837,Arsenic and Old Lace,21/09/44,"Cary Grant, Priscilla Lane, Raymond Massey",Frank Capra,"Julius J. Epstein, Philip G. Epstein, Joseph Kesselring",7.9
+838,Gaslight,16/06/44,"Charles Boyer, Ingrid Bergman, Joseph Cotten",George Cukor,"John Van Druten, Walter Reisch, John L. Balderston",7.8
+839,To Have and Have Not,20/01/45,"Humphrey Bogart, Lauren Bacall, Walter Brennan",Howard Hawks,"Ernest Hemingway, Jules Furthman, William Faulkner",7.8
+840,Brief Encounter,24/08/46,"Celia Johnson, Trevor Howard, Stanley Holloway",David Lean,"Noël Coward, Anthony Havelock-Allan, David Lean",8
+841,Its a Wonderful Life,07/01/47,"James Stewart, Donna Reed, Lionel Barrymore",Frank Capra,"Frances Goodrich, Albert Hackett, Frank Capra",8.7
+842,"Rome, Open City",08/10/45,"Anna Magnani, Aldo Fabrizi, Marcello Pagliero",Roberto Rossellini,"Sergio Amidei, Federico Fellini, Roberto Rossellini",8
+843,Out of the Past,01/12/47,"Robert Mitchum, Jane Greer, Kirk Douglas",Jacques Tourneur,"Daniel Mainwaring, James M. Cain, Frank Fenton",8
+844,Key Largo,31/07/48,"Humphrey Bogart, Edward G. Robinson, Lauren Bacall",John Huston,"Richard Brooks, John Huston, Maxwell Anderson",7.8
+845,Red River,17/09/48,"John Wayne, Montgomery Clift, Joanne Dru","Howard Hawks, Arthur Rosson","Borden Chase, Charles Schnee",7.8
+846,Rope,25/09/48,"James Stewart, John Dall, Farley Granger",Alfred Hitchcock,"Hume Cronyn, Patrick Hamilton, Arthur Laurents",8
+847,Kind Hearts and Coronets,14/06/50,"Dennis Price, Alec Guinness, Valerie Hobson",Robert Hamer,"Roy Horniman, Robert Hamer, John Dighton",8
+848,White Heat,03/09/49,"James Cagney, Virginia Mayo, Edmond OBrien",Raoul Walsh,"Ivan Goff, Ben Roberts, Virginia Kellogg",8.1
+849,The Asphalt Jungle,12/05/50,"Sterling Hayden, Louis Calhern, Jean Hagen",John Huston,"Ben Maddow, John Huston, W.R. Burnett",7.9
+850,Harvey,21/12/50,"James Stewart, Wallace Ford, William H. Lynn",Henry Koster,"Mary Chase, Oscar Brodney, Myles Connolly",7.9
+851,In a Lonely Place,01/08/50,"Humphrey Bogart, Gloria Grahame, Frank Lovejoy",Nicholas Ray,"Andrew Solt, Edmund H. North, Dorothy B. Hughes",7.9
+852,Sunset Blvd.,04/08/50,"William Holden, Gloria Swanson, Erich von Stroheim",Billy Wilder,"Charles Brackett, Billy Wilder, D.M. Marshman Jr.",8.4
+853,The Day the Earth Stood Still,12/12/08,"Keanu Reeves, Jennifer Connelly, Kathy Bates",Scott Derrickson,"David Scarpa, Edmund H. North",5.5
+854,The Big Heat,06/12/53,"Glenn Ford, Gloria Grahame, Jocelyn Brando",Fritz Lang,"Sydney Boehm, William P. McGivern",7.9
+855,Roman Holiday,02/09/53,"Gregory Peck, Audrey Hepburn, Eddie Albert",William Wyler,"Dalton Trumbo, Ian McLellan Hunter, John Dighton",8
+856,The Wages of Fear,16/02/55,"Yves Montand, Charles Vanel, Peter van Eyck",Henri-Georges Clouzot,"Georges Arnaud, Henri-Georges Clouzot, Jérôme Géronimi",8.2
+857,Stalag 17,06/06/53,"William Holden, Don Taylor, Otto Preminger",Billy Wilder,"Billy Wilder, Edwin Blum, Donald Bevan",8
+858,Tokyo Story,13/03/72,"Chishû Ryû, Chieko Higashiyama, Sô Yamamura",Yasujirô Ozu,"Kôgo Noda, Yasujirô Ozu",8.2
+859,Sabrina,15/10/54,"Humphrey Bogart, Audrey Hepburn, William Holden",Billy Wilder,"Billy Wilder, Samuel A. Taylor, Ernest Lehman",7.6
+860,The Road,25/11/09,"Viggo Mortensen, Charlize Theron, Kodi Smit-McPhee",John Hillcoat,"Joe Penhall, Cormac McCarthy",7.2
+861,East of Eden,10/04/55,"James Dean, Raymond Massey, Julie Harris",Elia Kazan,"John Steinbeck, Paul Osborn",7.8
+862,Rebel Without a Cause,29/10/55,"James Dean, Natalie Wood, Sal Mineo",Nicholas Ray,"Stewart Stern, Irving Shulman, Nicholas Ray",7.7
+863,Invasion of the Body Snatchers,22/12/78,"Donald Sutherland, Brooke Adams, Jeff Goldblum",Philip Kaufman,"W.D. Richter, Jack Finney",7.4
+864,The Killing,03/04/11,"Mireille Enos, Joel Kinnaman, Billy Campbell",N/A,Veena Sud,8.3
+865,The Searchers,26/05/56,"John Wayne, Jeffrey Hunter, Vera Miles",John Ford,"Frank S. Nugent, Alan Le May",7.9
+866,Throne of Blood,22/11/61,"Toshirô Mifune, Minoru Chiaki, Isuzu Yamada",Akira Kurosawa,"Hideo Oguni, Shinobu Hashimoto, Ryûzô Kikushima",8.1
+867,Paths of Glory,25/12/57,"Kirk Douglas, Ralph Meeker, Adolphe Menjou",Stanley Kubrick,"Stanley Kubrick, Calder Willingham, Jim Thompson",8.4
+868,The Seventh Seal,13/10/58,"Max von Sydow, Gunnar Björnstrand, Bengt Ekerot",Ingmar Bergman,Ingmar Bergman,8.1
+869,Wild Strawberries,22/06/59,"Victor Sjöström, Bibi Andersson, Ingrid Thulin",Ingmar Bergman,Ingmar Bergman,8.2
+870,Sweet Smell of Success,04/07/57,"Burt Lancaster, Tony Curtis, Susan Harrison",Alexander Mackendrick,"Clifford Odets, Ernest Lehman, Alexander Mackendrick",8
+871,The Hidden Fortress,06/10/60,"Toshirô Mifune, Misa Uehara, Minoru Chiaki",Akira Kurosawa,"Ryûzô Kikushima, Hideo Oguni, Shinobu Hashimoto",8.1
+872,The 400 Blows,16/11/59,"Jean-Pierre Léaud, Albert Rémy, Claire Maurier",François Truffaut,"François Truffaut, Marcel Moussy",8.1
+873,LAvventura,04/03/61,"Gabriele Ferzetti, Monica Vitti, Lea Massari",Michelangelo Antonioni,"Michelangelo Antonioni, Elio Bartolini, Tonino Guerra",7.8
+874,Inherit the Wind,30/08/60,"Spencer Tracy, Fredric March, Gene Kelly",Stanley Kramer,"Nedrick Young, Harold Jacob Smith, Jerome Lawrence",8.1
+875,Breakfast at Tiffanys,06/10/61,"Audrey Hepburn, George Peppard, Patricia Neal",Blake Edwards,"Truman Capote, George Axelrod",7.6
+876,Judgment at Nuremberg,18/12/61,"Spencer Tracy, Burt Lancaster, Richard Widmark",Stanley Kramer,"Abby Mann, Montgomery Clift",8.3
+877,Jules and Jim,23/01/62,"Jeanne Moreau, Oskar Werner, Henri Serre",François Truffaut,"Henri-Pierre Roché, François Truffaut, Jean Gruault",7.7
+878,Yojimbo,13/09/61,"Toshirô Mifune, Eijirô Tôno, Tatsuya Nakadai",Akira Kurosawa,"Akira Kurosawa, Ryûzô Kikushima",8.2
+879,Cape Fear,15/11/91,"Robert De Niro, Nick Nolte, Jessica Lange",Martin Scorsese,"John D. MacDonald, James R. Webb, Wesley Strick",7.3
+880,Hara-Kiri,04/08/64,"Tatsuya Nakadai, Akira Ishihama, Shima Iwashita",Masaki Kobayashi,"Yasuhiko Takiguchi, Shinobu Hashimoto",8.6
+881,Ivans Childhood,27/06/63,"Nikolay Burlyaev, Valentin Zubkov, Evgeniy Zharikov","Andrei Tarkovsky, Eduard Abalov","Vladimir Bogomolov, Mikhail Papava, Andrei Tarkovsky",8.1
+882,The Man Who Shot Liberty Valance,22/04/62,"James Stewart, John Wayne, Vera Miles",John Ford,"James Warner Bellah, Willis Goldbeck, Dorothy M. Johnson",8.1
+883,The Manchurian Candidate,30/07/04,"Denzel Washington, Liev Schreiber, Meryl Streep",Jonathan Demme,"Richard Condon, George Axelrod, Daniel Pyne",6.6
+884,Sanjuro,07/05/63,"Toshirô Mifune, Tatsuya Nakadai, Keiju Kobayashi",Akira Kurosawa,"Ryûzô Kikushima, Hideo Oguni, Akira Kurosawa",8.1
+885,To Kill a Mockingbird,16/03/63,"Gregory Peck, John Megna, Frank Overton",Robert Mulligan,"Harper Lee, Horton Foote",8.3
+886,Vivre Sa Vie,20/09/62,"Anna Karina, Sady Rebbot, André S. Labarthe",Jean-Luc Godard,"Marcel Sacotte, Jean-Luc Godard",8
+887,The Exterminating Angel,21/08/67,"Silvia Pinal, Jacqueline Andere, Enrique Rambal",Luis Buñuel,"Luis Buñuel, Luis Alcoriza",8
+888,The Leopard,29/03/63,"Burt Lancaster, Alain Delon, Claudia Cardinale",Luchino Visconti,"Giuseppe Tomasi di Lampedusa, Suso Cecchi DAmico, Pasquale Festa Campanile",8
+889,High and Low,26/11/63,"Toshirô Mifune, Yutaka Sada, Tatsuya Nakadai",Akira Kurosawa,"Hideo Oguni, Ryûzô Kikushima, Eijirô Hisaita",8.4
+890,Zulu,17/06/64,"Stanley Baker, Jack Hawkins, Ulla Jacobsson",Cy Endfield,"John Prebble, Cy Endfield",7.7
+891,Repulsion,03/10/65,"Catherine Deneuve, Ian Hendry, John Fraser",Roman Polanski,"Roman Polanski, Gérard Brach, David Stone",7.6
+892,Persona,16/03/67,"Bibi Andersson, Liv Ullmann, Margaretha Krook",Ingmar Bergman,Ingmar Bergman,8.1
+893,Whos Afraid of Virginia Woolf?,22/06/66,"Elizabeth Taylor, Richard Burton, George Segal",Mike Nichols,"Ernest Lehman, Edward Albee",8
+894,Bonnie and Clyde,14/08/67,"Warren Beatty, Faye Dunaway, Michael J. Pollard",Arthur Penn,"David Newman, Robert Benton, Robert Towne",7.8
+895,In Cold Blood,15/12/67,"Robert Blake, Scott Wilson, John Forsythe",Richard Brooks,"Truman Capote, Richard Brooks",7.9
+896,Rosemarys Baby,12/06/68,"Mia Farrow, John Cassavetes, Ruth Gordon",Roman Polanski,"Ira Levin, Roman Polanski",8
+897,Where Eagles Dare,12/03/69,"Richard Burton, Clint Eastwood, Mary Ure",Brian G. Hutton,Alistair MacLean,7.6
+898,Anand,12/03/71,"Rajesh Khanna, Amitabh Bachchan, Sumita Sanyal",Hrishikesh Mukherjee,"Hrishikesh Mukherjee, Gulzar, D.N. Mukherjee",8.1
+899,Harold and Maude,20/12/71,"Ruth Gordon, Bud Cort, Vivian Pickles",Hal Ashby,Colin Higgins,7.9
+900,"Aguirre, the Wrath of God",03/04/77,"Klaus Kinski, Ruy Guerra, Helena Rojo",Werner Herzog,Werner Herzog,7.9
+901,Solaris,26/09/72,"Natalya Bondarchuk, Donatas Banionis, Jüri Järvet",Andrei Tarkovsky,"Stanislaw Lem, Fridrikh Gorenshteyn, Andrei Tarkovsky",8
+902,Badlands,05/01/74,"Martin Sheen, Sissy Spacek, Warren Oates",Terrence Malick,Terrence Malick,7.8
+903,Dersu Uzala,20/12/77,"Maksim Munzuk, Yuriy Solomin, Mikhail Bychkov",Akira Kurosawa,"Akira Kurosawa, Yuriy Nagibin, Vladimir Arsenev",8.3
+904,Barry Lyndon,18/12/75,"Ryan ONeal, Marisa Berenson, Patrick Magee",Stanley Kubrick,"Stanley Kubrick, William Makepeace Thackeray",8.1
+905,Love and Death,10/09/75,"Woody Allen, Diane Keaton, Georges Adet",Woody Allen,Woody Allen,7.7
+906,The Man Who Would Be King,19/12/75,"Sean Connery, Michael Caine, Christopher Plummer",John Huston,"John Huston, Gladys Hill, Rudyard Kipling",7.8
+907,Sholay,15/08/75,"Sanjeev Kumar, Dharmendra, Amitabh Bachchan",Ramesh Sippy,"Javed Akhtar, Salim Khan",8.1
+908,The Message,31/01/77,"Anthony Quinn, Irene Papas, Michael Ansara",Moustapha Akkad,"H.A.L. Craig, Tewfik El-Hakim, A.B. Jawdat El-Sahhar",8.1
+909,Network,27/11/76,"Faye Dunaway, William Holden, Peter Finch",Sidney Lumet,Paddy Chayefsky,8.1
+910,Days of Heaven,06/10/78,"Richard Gere, Brooke Adams, Sam Shepard",Terrence Malick,Terrence Malick,7.8
+911,Autumn Sonata,18/10/78,"Ingrid Bergman, Liv Ullmann, Lena Nyman",Ingmar Bergman,Ingmar Bergman,8.1
+912,The Elephant Man,10/10/80,"Anthony Hopkins, John Hurt, Anne Bancroft",David Lynch,"Christopher De Vore, Eric Bergren, David Lynch",8.1
+913,Kagemusha,10/10/80,"Tatsuya Nakadai, Tsutomu Yamazaki, Kenichi Hagiwara",Akira Kurosawa,"Masato Ide, Akira Kurosawa",7.9
+914,Fitzcarraldo,10/10/82,"Klaus Kinski, Claudia Cardinale, José Lewgoy",Werner Herzog,Werner Herzog,8
+915,Come and See,03/09/85,"Aleksey Kravchenko, Olga Mironova, Liubomiras Laucevicius",Elem Klimov,"Ales Adamovich, Elem Klimov",8.4
+916,Castle in the Sky,19/07/91,"Mayumi Tanaka, Keiko Yokozawa, Kotoe Hatsui",Hayao Miyazaki,"Hayao Miyazaki, Jonathan Swift",8
+917,Grave of the Fireflies,26/07/89,"Tsutomu Tatsumi, Ayano Shiraishi, Akemi Yamaguchi",Isao Takahata,"Akiyuki Nosaka, Isao Takahata",8.5
+918,The Vanishing,27/10/88,"Bernard-Pierre Donnadieu, Gene Bervoets, Johanna ter Steege",George Sluizer,"Tim Krabbé, George Sluizer",7.7
+919,The Killer,01/09/90,"Chow Yun-Fat, Danny Lee, Sally Yeh",John Woo,John Woo,7.8
+920,Kikis Delivery Service,20/12/90,"Kirsten Dunst, Minami Takayama, Rei Sakuma",Hayao Miyazaki,"Eiko Kadono, Hayao Miyazaki",7.9
+921,Porco Rosso,16/12/94,"Shûichirô Moriyama, Tokiko Katô, Bunshi Katsura Vi",Hayao Miyazaki,Hayao Miyazaki,7.7
+922,Hard Boiled,16/04/92,"Chow Yun-Fat, Tony Chiu-Wai Leung, Teresa Mo",John Woo,"John Woo, Barry Wong, Gordon Chan",7.8
+923,Ninja Scroll,05/06/93,"Kôichi Yamadera, Emi Shinohara, Takeshi Aono",Yoshiaki Kawajiri,Yoshiaki Kawajiri,7.8
+924,Andaz Apna Apna,04/11/94,"Aamir Khan, Salman Khan, Raveena Tandon",Rajkumar Santoshi,"Rajkumar Santoshi, Dilip Shukla",8.1
+925,Dilwale Dulhania Le Jayenge,20/10/95,"Shah Rukh Khan, Kajol, Amrish Puri",Aditya Chopra,"Aditya Chopra, Javed Siddiqui",8.2
+926,Whisper of the Heart,13/12/96,"Yoko Honna, Issey Takahashi, Takashi Tachibana",Yoshifumi Kondô,"Hayao Miyazaki, Aoi Hiiragi, Cindy Davis",7.9
+927,The Bandit,29/11/96,"Sener Sen, Ugur Yücel, Sermin Hürmeriç",Yavuz Turgul,Yavuz Turgul,8.2
+928,Neon Genesis Evangelion: The End of Evangelion,01/06/02,"Megumi Ogata, Megumi Hayashibara, Yûko Miyamura","Hideaki Anno, Kazuya Tsurumaki",Hideaki Anno,8.1
+929,Sarfarosh,30/04/99,"Aamir Khan, Naseeruddin Shah, Sonali Bendre",John Mathew Matthan,"Hriday Lani, John Mathew Matthan, Pathik Vats",8.1
+930,Hera Pheri,31/03/00,"Akshay Kumar, Suniel Shetty, Paresh Rawal",Priyadarshan,"Siddique, Lal, Neeraj Vora",8.1
+931,Joint Security Area,09/09/00,"Lee Yeong-ae, Lee Byung-hun, Kang-ho Song",Park Chan-wook,"Park Chan-wook, Seong-san Jeong, Hyun-seok Kim",7.8
+932,Battle Royale,16/12/00,"Tatsuya Fujiwara, Aki Maeda, Tarô Yamamoto",Kinji Fukasaku,"Koushun Takami, Kenta Fukasaku",7.6
+933,Vizontele,02/02/01,"Yilmaz Erdogan, Demet Akbag, Altan Erkekli","Yilmaz Erdogan, Ömer Faruk Sorak",Yilmaz Erdogan,8
+934,My Sassy Girl,27/07/01,"Tae-Hyun Cha, Jun Ji-hyun, In-mun Kim",Jae-young Kwak,"Ho-sik Kim, Jae-young Kwak",8
+935,Head-On,11/03/04,"Birol Ünel, Sibel Kekilli, Güven Kiraç",Fatih Akin,Fatih Akin,7.9
+936,Munna Bhai M.B.B.S.,19/12/03,"Sanjay Dutt, Arshad Warsi, Gracy Singh",Rajkumar Hirani,"Vidhu Vinod Chopra, Rajkumar Hirani, Lajan Joseph",8.1
+937,G.O.R.A.,10/03/17,"Cem Yilmaz, Özge Özberk, Ozan Güven",Ömer Faruk Sorak,"Can Yilmaz, Cem Yilmaz",8.1
+938,C.R.A.Z.Y.,03/03/06,"Michel Côté, Marc-André Grondin, Danielle Proulx",Jean-Marc Vallée,"François Boulay, Jean-Marc Vallée",7.9
+939,My Father and My Son,18/11/05,"Eser Sariyar, Çetin Tekindor, Fikret Kuskan",Cagan Irmak,Cagan Irmak,8.3
+940,The Man from Earth,13/11/07,"David Lee Smith, Tony Todd, John Billingsley",Richard Schenkman,Jerome Bixby,7.9
+941,The Girl Who Leapt Through Time,15/07/06,"Riisa Naka, Takuya Ishida, Mitsutaka Itakura",Mamoru Hosoda,"Yasutaka Tsutsui, Satoko Okudera",7.7
+942,Mary and Max,12/03/10,"Toni Collette, Philip Seymour Hoffman, Eric Bana",Adam Elliot,Adam Elliot,8.1
+943,Soorarai Pottru,12/11/20,"Suriya, Paresh Rawal, Prakash Belawadi",Sudha Kongara,"Sudha Kongara, Shalini Ushadevi, Vijay Kumar",9.3
+944,The Father,26/02/21,"Anthony Hopkins, Olivia Colman, Mark Gatiss",Florian Zeller,"Christopher Hampton, Florian Zeller",8.3
+945,Sardar Udham,16/10/21,"Vicky Kaushal, Shaun Scott, Stephen Hogan",Shoojit Sircar,"Shubhendu Bhattacharya, Ritesh Shah",8.8
+946,Hachi: A Dogs Tale,12/03/10,"Richard Gere, Joan Allen, Cary-Hiroyuki Tagawa",Lasse Hallström,"Stephen P. Lindsey, Kaneto Shindô",8.1
+947,Another Round,18/12/20,"Mads Mikkelsen, Thomas Bo Larsen, Magnus Millang",Thomas Vinterberg,"Thomas Vinterberg, Tobias Lindholm",7.7
+948,Shershaah,12/08/21,"Sidharth Malhotra, Kiara Advani, Shiv Panditt",Vishnuvardhan,Sandeep Shrivastava,8.9
+949,Article 15,28/06/19,"Ayushmann Khurrana, Nassar, Manoj Pahwa",Anubhav Sinha,"Anubhav Sinha, Gaurav Solanki",8.2
+950,CODA,13/08/21,"Emilia Jones, Marlee Matlin, Troy Kotsur",Sian Heder,"Sian Heder, Victoria Bedos, Stanislas Carré de Malberg",8.1
+951,The Worst Person in the World,13/10/21,"Renate Reinsve, Anders Danielsen Lie, Herbert Nordrum",Joachim Trier,"Joachim Trier, Eskil Vogt",7.9
+952,Miracle in Cell No. 7,11/10/19,"Aras Bulut Iynemli, Nisa Sofiya Aksongur, Deniz Baysal",Mehmet Ada Öztekin,"Özge Efendioglu, Kubilay Tat",8.2
+953,The Trial of the Chicago 7,16/10/20,"Eddie Redmayne, Alex Sharp, Sacha Baron Cohen",Aaron Sorkin,Aaron Sorkin,7.8
+954,Spider-Man: No Way Home,17/12/21,"Tom Holland, Zendaya, Benedict Cumberbatch",Jon Watts,"Chris McKenna, Erik Sommers, Stan Lee",8.5
+955,Dune,22/10/21,"Timothée Chalamet, Rebecca Ferguson, Zendaya",Denis Villeneuve,"Jon Spaihts, Denis Villeneuve, Eric Roth",8.1
+956,Nefes: Vatan Sagolsun,16/10/09,"Mete Horozoglu, Ilker Kizmaz, Baris Bagci","Levent Semerci, Erdem Can","Mehmet Ilker Altinay, Hakan Evrensel, Levent Semerci",8
+957,The Chaser,14/02/08,"Kim Yoon-seok, Ha Jung-woo, Yeong-hie Seo",Na Hong-jin,"Won-Chan Hong, Na Hong-jin, Shinho Lee",7.8
+958,Ip Man,12/12/08,"Donnie Yen, Simon Yam, Siu-Wong Fan",Wilson Yip,"Edmond Wong, Tai-lee Chan",8
+959,Drishyam 2,19/02/21,"Mohanlal, Meena, Ansiba",Jeethu Joseph,Jeethu Joseph,8.6
+960,Zack Snyders Justice League,18/03/21,"Henry Cavill, Ben Affleck, Gal Gadot",Zack Snyder,"Jerry Siegel, Joe Shuster, Zack Snyder",8.1
+961,Celda 211,06/11/09,"Luis Tosar, Alberto Ammann, Antonio Resines",Daniel Monzón,"Jorge Guerricaechevarría, Daniel Monzón, Francisco Pérez Gandul",7.6
+962,A Wednesday,05/09/08,"Anupam Kher, Naseeruddin Shah, Virendra Saxena",Neeraj Pandey,Neeraj Pandey,8.1
+963,Drive My Car,24/11/21,"Hidetoshi Nishijima, Tôko Miura, Reika Kirishima",Ryûsuke Hamaguchi,"Haruki Murakami, Ryûsuke Hamaguchi, Takamasa Oe",7.6
+964,Jai Bhim,02/11/21,"Suriya, Lijo Mol Jose, Manikandan K.",T.J. Gnanavel,T.J. Gnanavel,9.4
+965,Confessions,05/06/10,"Takako Matsu, Yoshino Kimura, Masaki Okada",Tetsuya Nakashima,"Kanae Minato, Tetsuya Nakashima",7.7
+966,The Batman,04/03/22,"Robert Pattinson, Zoë Kravitz, Jeffrey Wright",Matt Reeves,"Matt Reeves, Peter Craig, Bill Finger",8.4
+967,Gangs of Wasseypur,22/06/12,"Manoj Bajpayee, Richa Chadha, Nawazuddin Siddiqui",Anurag Kashyap,"Akhilesh Jaiswal, Anurag Kashyap, Sachin K. Ladia",8.2
+968,Wolf Children,21/07/12,"Aoi Miyazaki, Takao Osawa, Haru Kuroki",Mamoru Hosoda,"Mamoru Hosoda, Satoko Okudera",8.1
+969,Soul,25/12/20,"Jamie Foxx, Tina Fey, Graham Norton","Pete Docter, Kemp Powers","Pete Docter, Mike Jones, Kemp Powers",8.1
+970,Pride,12/09/14,"Bill Nighy, Imelda Staunton, Dominic West",Matthew Warchus,Stephen Beresford,7.8
+971,Drishyam,31/07/15,"Ajay Devgn, Shriya Saran, Tabu",Nishikant Kamat,"Jeethu Joseph, Upendra Sidhaye",8.2
+972,Baby,23/01/15,"Akshay Kumar, Danny Denzongpa, Rana Daggubati",Neeraj Pandey,Neeraj Pandey,8.1
+973,Airlift,22/01/16,"Akshay Kumar, Nimrat Kaur, Kumud Mishra",Raja Menon,"Raja Menon, Sonu Sinha, Ritesh Shah",8.1
+974,Udta Punjab,17/06/16,"Shahid Kapoor, Alia Bhatt, Kareena Kapoor",Abhishek Chaubey,"Sudip Sharma, Abhishek Chaubey",7.8
+975,Masaan,24/06/15,"Richa Chadha, Sanjay Mishra, Vicky Kaushal",Neeraj Ghaywan,"Akbar Allahabadi, Bashir Badr, Brij Narayan Chakbast",8.1
+976,Klaus,15/11/19,"Jason Schwartzman, J.K. Simmons, Rashida Jones","Sergio Pablos, Carlos Martínez López","Sergio Pablos, Jim Mahoney, Zach Lewis",8.2
+977,The Invisible Guest,06/01/17,"Mario Casas, Ana Wagener, Jose Coronado",Oriol Paulo,"Oriol Paulo, Lara Sendim",8.1
+978,Perfect Strangers,11/02/16,"Giuseppe Battiston, Anna Foglietta, Marco Giallini",Paolo Genovese,"Filippo Bologna, Paolo Costella, Paolo Genovese",7.7
+979,Togo,20/12/19,"Willem Dafoe, Julianne Nicholson, Christopher Heyerdahl",Ericson Core,Tom Flynn,8
+980,Wolfwalkers,13/11/20,"Honor Kneafsey, Eva Whittaker, Sean Bean","Tomm Moore, Ross Stewart","Will Collins, Tomm Moore, Ross Stewart",8
+981,A Silent Voice: The Movie,17/09/16,"Miyu Irino, Saori Hayami, Aoi Yûki",Naoko Yamada,"Yoshitoki Oima, Reiko Yoshida, Kiyoshi Shigematsu",8.1
+982,Sound of Metal,04/12/20,"Riz Ahmed, Olivia Cooke, Paul Raci",Darius Marder,"Darius Marder, Abraham Marder, Derek Cianfrance",7.7
+983,Hindi Medium,19/05/17,"Irrfan Khan, Saba Qamar, Dishita Sehgal",Saket Chaudhary,"Sonu Sinha, Saket Chaudhary, Amitosh Nagpal",7.9
+984,Vikram Vedha,21/07/17,"Madhavan, Vijay Sethupathi, Shraddha Srinath","Gayatri, Pushkar","Manikandan K., Gayatri, Pushkar",8.4
+985,Roma,21/11/18,"Yalitza Aparicio, Marina de Tavira, Diego Cortina Autrey",Alfonso Cuarón,Alfonso Cuarón,7.7
+986,Ayla: The Daughter of War,27/10/17,"Çetin Tekindor, Ismail Hacioglu, Kyung-jin Lee","Can Ulkay, Halenur Uzunoglu",Yigit Güralp,8.5
+987,96,03/10/18,"Vijay Sethupathi, Adithya Bhaskar, Trisha Krishnan",C. Prem Kumar,C. Prem Kumar,8.6
+988,Raatchasan,05/10/18,"Vishnu Vishal, Amala Paul, Radha Ravi",Ram Kumar,Ram Kumar,8.4
+989,Badhaai Ho,19/10/18,"Ayushmann Khurrana, Neena Gupta, Gajraj Rao",Amit Ravindernath Sharma,"Akshat Ghildial, Jyoti Kapoor, Shantanu Srivastava",8
+990,K.G.F: Chapter 1,20/12/18,"Yash, Srinidhi Shetty, Ramachandra Raju","Prashanth Neel, Jocky",Prashanth Neel,8.5
+991,The Mitchells vs the Machines,30/04/21,"Abbi Jacobson, Danny McBride, Maya Rudolph","Michael Rianda, Jeff Rowe","Michael Rianda, Jeff Rowe, Peter Szilagyi",7.7
+992,Dil Bechara,24/07/20,"Sushant Singh Rajput, Sanjana Sanghi, Sahil Vaid",Mukesh Chhabra,"Shashank Khaitan, Suprotim Sengupta, Scott Neustadter",8.1
+993,RRR,25/03/22,"N.T. Rama Rao Jr., Ram Charan, Ajay Devgn",S.S. Rajamouli,"Vijayendra Prasad, Sai Madhav Burra, Madhan Karky",9.1
+994,Tumbbad,12/10/18,"Sohum Shah, Jyoti Malshe, Anita Date","Rahi Anil Barve, Anand Gandhi, Adesh Prasad","Mitesh Shah, Adesh Prasad, Rahi Anil Barve",8.3
+995,The Gentlemen,24/01/20,"Matthew McConaughey, Charlie Hunnam, Michelle Dockery",Guy Ritchie,"Guy Ritchie, Ivan Atkinson, Marn Davies",7.8
+996,Hamilton,03/07/20,"Lin-Manuel Miranda, Phillipa Soo, Leslie Odom Jr.",Thomas Kail,"Lin-Manuel Miranda, Ron Chernow",8.4
+997,Dark Waters,06/12/19,"Mark Ruffalo, Anne Hathaway, Tim Robbins",Todd Haynes,"Nathaniel Rich, Mario Correa, Matthew Michael Carnahan",7.6
+998,Asuran,03/10/19,"Dhanush, Manju Warrier, Prakash Raj",Vetrimaaran,"M.S. Manimaran, Vetrimaaran, Suka",8.6
