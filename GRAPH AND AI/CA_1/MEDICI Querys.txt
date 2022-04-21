@@ -1,19 +1,36 @@
 // Creating the Family Nodes, the nodes will represent the family names, upon which relationships are built.
+
+// Node PUCCI
 CREATE (n:FAMILY {name:'PUCCI'});
+// Node PERUZZI
 CREATE (n:FAMILY {name:'PERUZZI'}); 
+// Node STROZZI
 CREATE (n:FAMILY {name:'STROZZI'}); 
+// Node BISCHERI
 CREATE (n:FAMILY {name:'BISCHERI'}); 
+// Node LAMBERTES
 CREATE (n:FAMILY {name:'LAMBERTES'});
+// Node CASTELLAN
 CREATE (n:FAMILY {name:'CASTELLAN'});
+// Node RIDOLF
 CREATE (n:FAMILY {name:'RIDOLF'});
+// Node TORNABUON
 CREATE (n:FAMILY {name:'TORNABUON'});
+// Node GUADAGNI
 CREATE (n:FAMILY {name:'GUADAGNI'});
+// Node ALBIZZI
 CREATE (n:FAMILY {name:'ALBIZZI'});
+// Node BARBADORI
 CREATE (n:FAMILY {name:'BARBADORI'});
+// Node MEDICI
 CREATE (n:FAMILY {name:'MEDICI'});
+// Node GINORI
 CREATE (n:FAMILY {name:'GINORI'});
+// Node SALVIATI
 CREATE (n:FAMILY {name:'SALVIATI'});
+// Node ACCIAIUOL
 CREATE (n:FAMILY {name:'ACCIAIUOL'});
+// Node PAZZI
 CREATE (n:FAMILY {name:'PAZZI'});
 
 // Create Relations Between Family's
