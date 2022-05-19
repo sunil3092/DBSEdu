@@ -6,6 +6,12 @@ from collections import namedtuple
 pygame.init()
 font = pygame.font.SysFont('arial', 25)
 
+# Reset
+# Reward
+# play(action) -> direction
+# game_iteration
+# is_collision
+
 
 class Direction(Enum):
     RIGHT = 1
