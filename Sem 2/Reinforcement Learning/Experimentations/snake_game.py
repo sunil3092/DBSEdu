@@ -2,7 +2,7 @@ import pygame
 import random
 from enum import Enum
 from collections import namedtuple
-
+import numpy as np
 pygame.init()
 font = pygame.font.SysFont('arial', 25)
 
@@ -65,7 +65,7 @@ class SnakeGameAI:
         if self.food in self.snake:
             self._place_food()
 
-    def play_step(self):
+    def play_step(self, action):
         self.frame_iteration += 1
         # 1. collect user input
         for event in pygame.event.get():
@@ -80,7 +80,7 @@ class SnakeGameAI:
         # 3. check if game over
         reward = 0
         game_over = False
-        if self._is_collision() or self.frame_iteration > 100*len(self.snake):
+        if self.is_collision() or self.frame_iteration > 100*len(self.snake):
             game_over = True
             reward = -10
             return reward, game_over, self.score
@@ -99,7 +99,7 @@ class SnakeGameAI:
         # 6. return game over and score
         return reward, game_over, self.score
 
-    def _is_collision(self, pt=None):
+    def is_collision(self, pt=None):
         if pt is None:
             pt = self.head
         # hits boundary
@@ -128,30 +128,32 @@ class SnakeGameAI:
         pygame.display.flip()
 
     def _move(self, action):
+        # [Straight, Right, Left]
+
+        clock_wise = [Direction.RIGHT, Direction.DOWN,
+                      Direction.LEFT, Direction.UP]
+        idx = clock_wise.index(self.direction)
+
+        if np.array_equal(action, [1, 0, 0]):
+            new_direction = clock_wise[idx]
+        elif np.array_equal(action, [0, 1, 0]):
+            next_idx = (idx + 1) % 4
+            new_direction = clock_wise[next_idx]
+        else:
+            next_idx = (idx - 1) % 4
+            new_direction = clock_wise[next_idx]
+
+        self.direction = new_direction
+
         x = self.head.x
         y = self.head.y
-        if direction == Direction.RIGHT:
+        if self.direction == Direction.RIGHT:
             x += BLOCK_SIZE
-        elif direction == Direction.LEFT:
+        elif self.direction == Direction.LEFT:
             x -= BLOCK_SIZE
-        elif direction == Direction.DOWN:
+        elif self.direction == Direction.DOWN:
             y += BLOCK_SIZE
-        elif direction == Direction.UP:
+        elif self.direction == Direction.UP:
             y -= BLOCK_SIZE
 
         self.head = Point(x, y)
-
-
-if __name__ == '__main__':
-    game = SnakeGame()
-
-    # game loop
-    while True:
-        game_over, score = game.play_step()
-
-        if game_over == True:
-            break
-
-    print('Final Score', score)
-
-    pygame.quit()
