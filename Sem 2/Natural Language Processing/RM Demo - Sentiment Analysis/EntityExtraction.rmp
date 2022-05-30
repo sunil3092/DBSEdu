@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><process version="9.6.000">
+  <context>
+    <input/>
+    <output/>
+    <macros/>
+  </context>
+  <operator activated="true" class="process" compatibility="9.6.000" expanded="true" name="Process">
+    <parameter key="logverbosity" value="init"/>
+    <parameter key="random_seed" value="2001"/>
+    <parameter key="send_mail" value="never"/>
+    <parameter key="notification_email" value=""/>
+    <parameter key="process_duration_for_mail" value="30"/>
+    <parameter key="encoding" value="SYSTEM"/>
+    <process expanded="true">
+      <operator activated="true" class="retrieve" compatibility="9.6.000" expanded="true" height="68" name="Retrieve amazon_cells_labelled" width="90" x="45" y="34">
+        <parameter key="repository_entry" value="//TextMining/Data/amazon_cells_labelled"/>
+      </operator>
+      <operator activated="true" class="nominal_to_text" compatibility="9.6.000" expanded="true" height="82" name="Nominal to Text" width="90" x="179" y="34">
+        <parameter key="attribute_filter_type" value="single"/>
+        <parameter key="attribute" value="Review"/>
+        <parameter key="attributes" value=""/>
+        <parameter key="use_except_expression" value="false"/>
+        <parameter key="value_type" value="nominal"/>
+        <parameter key="use_value_type_exception" value="false"/>
+        <parameter key="except_value_type" value="file_path"/>
+        <parameter key="block_type" value="single_value"/>
+        <parameter key="use_block_type_exception" value="false"/>
+        <parameter key="except_block_type" value="single_value"/>
+        <parameter key="invert_selection" value="false"/>
+        <parameter key="include_special_attributes" value="false"/>
+      </operator>
+      <operator activated="true" class="numerical_to_polynominal" compatibility="9.6.000" expanded="true" height="82" name="Numerical to Polynominal" width="90" x="313" y="34">
+        <parameter key="attribute_filter_type" value="single"/>
+        <parameter key="attribute" value="Sentiment"/>
+        <parameter key="attributes" value=""/>
+        <parameter key="use_except_expression" value="false"/>
+        <parameter key="value_type" value="numeric"/>
+        <parameter key="use_value_type_exception" value="false"/>
+        <parameter key="except_value_type" value="real"/>
+        <parameter key="block_type" value="value_series"/>
+        <parameter key="use_block_type_exception" value="false"/>
+        <parameter key="except_block_type" value="value_series_end"/>
+        <parameter key="invert_selection" value="false"/>
+        <parameter key="include_special_attributes" value="false"/>
+      </operator>
+      <operator activated="true" class="set_role" compatibility="9.6.000" expanded="true" height="82" name="Set Role" width="90" x="447" y="34">
+        <parameter key="attribute_name" value="Sentiment"/>
+        <parameter key="target_role" value="label"/>
+        <list key="set_additional_roles"/>
+      </operator>
+      <operator activated="true" class="text:process_document_from_data" compatibility="9.3.001" expanded="true" height="82" name="Process Documents from Data" width="90" x="581" y="34">
+        <parameter key="create_word_vector" value="true"/>
+        <parameter key="vector_creation" value="TF-IDF"/>
+        <parameter key="add_meta_information" value="true"/>
+        <parameter key="keep_text" value="false"/>
+        <parameter key="prune_method" value="absolute"/>
+        <parameter key="prune_below_percent" value="3.0"/>
+        <parameter key="prune_above_percent" value="30.0"/>
+        <parameter key="prune_below_absolute" value="4"/>
+        <parameter key="prune_above_absolute" value="250"/>
+        <parameter key="prune_below_rank" value="0.05"/>
+        <parameter key="prune_above_rank" value="0.95"/>
+        <parameter key="datamanagement" value="double_sparse_array"/>
+        <parameter key="data_management" value="auto"/>
+        <parameter key="select_attributes_and_weights" value="false"/>
+        <list key="specify_weights"/>
+        <process expanded="true">
+          <operator activated="true" class="text:tokenize" compatibility="9.3.001" expanded="true" height="68" name="Tokenize" width="90" x="112" y="34">
+            <parameter key="mode" value="non letters"/>
+            <parameter key="characters" value=".:"/>
+            <parameter key="language" value="English"/>
+            <parameter key="max_token_length" value="3"/>
+          </operator>
+          <operator activated="true" class="text:transform_cases" compatibility="9.3.001" expanded="true" height="68" name="Transform Cases" width="90" x="246" y="34">
+            <parameter key="transform_to" value="lower case"/>
+          </operator>
+          <operator activated="true" class="text:filter_stopwords_dictionary" compatibility="9.3.001" expanded="true" height="82" name="Filter Stopwords (Dictionary)" width="90" x="380" y="34">
+            <parameter key="file" value="C:\Users\jchow\Desktop\SA_Stopwords.txt"/>
+            <parameter key="case_sensitive" value="false"/>
+            <parameter key="encoding" value="SYSTEM"/>
+          </operator>
+          <operator activated="false" class="text:filter_stopwords_english" compatibility="9.3.001" expanded="true" height="68" name="Filter Stopwords (English)" width="90" x="313" y="187"/>
+          <operator activated="true" class="text:stem_porter" compatibility="9.3.001" expanded="true" height="68" name="Stem (Porter)" width="90" x="514" y="34"/>
+          <operator activated="true" class="text:generate_n_grams_terms" compatibility="9.3.001" expanded="true" height="68" name="Generate n-Grams (Terms)" width="90" x="648" y="34">
+            <parameter key="max_length" value="2"/>
+          </operator>
+          <connect from_port="document" to_op="Tokenize" to_port="document"/>
+          <connect from_op="Tokenize" from_port="document" to_op="Transform Cases" to_port="document"/>
+          <connect from_op="Transform Cases" from_port="document" to_op="Filter Stopwords (Dictionary)" to_port="document"/>
+          <connect from_op="Filter Stopwords (Dictionary)" from_port="document" to_op="Stem (Porter)" to_port="document"/>
+          <connect from_op="Stem (Porter)" from_port="document" to_op="Generate n-Grams (Terms)" to_port="document"/>
+          <connect from_op="Generate n-Grams (Terms)" from_port="document" to_port="document 1"/>
+          <portSpacing port="source_document" spacing="0"/>
+          <portSpacing port="sink_document 1" spacing="0"/>
+          <portSpacing port="sink_document 2" spacing="0"/>
+        </process>
+      </operator>
+      <operator activated="true" class="concurrency:cross_validation" compatibility="9.6.000" expanded="true" height="145" name="Validation" width="90" x="715" y="34">
+        <parameter key="split_on_batch_attribute" value="false"/>
+        <parameter key="leave_one_out" value="false"/>
+        <parameter key="number_of_folds" value="10"/>
+        <parameter key="sampling_type" value="stratified sampling"/>
+        <parameter key="use_local_random_seed" value="false"/>
+        <parameter key="local_random_seed" value="1992"/>
+        <parameter key="enable_parallel_execution" value="true"/>
+        <process expanded="true">
+          <operator activated="true" class="naive_bayes" compatibility="9.6.000" expanded="true" height="82" name="Naive Bayes" width="90" x="112" y="34">
+            <parameter key="laplace_correction" value="true"/>
+          </operator>
+          <connect from_port="training set" to_op="Naive Bayes" to_port="training set"/>
+          <connect from_op="Naive Bayes" from_port="model" to_port="model"/>
+          <portSpacing port="source_training set" spacing="0"/>
+          <portSpacing port="sink_model" spacing="0"/>
+          <portSpacing port="sink_through 1" spacing="0"/>
+          <description align="left" color="green" colored="true" height="80" resized="true" width="248" x="37" y="158">In the training phase, a model is built on the current training data set. (90 % of data by default, 10 times)</description>
+        </process>
+        <process expanded="true">
+          <operator activated="true" class="apply_model" compatibility="9.6.000" expanded="true" height="82" name="Apply Model" width="90" x="45" y="34">
+            <list key="application_parameters"/>
+            <parameter key="create_view" value="false"/>
+          </operator>
+          <operator activated="true" class="performance" compatibility="9.6.000" expanded="true" height="82" name="Performance" width="90" x="179" y="34">
+            <parameter key="use_example_weights" value="true"/>
+          </operator>
+          <connect from_port="model" to_op="Apply Model" to_port="model"/>
+          <connect from_port="test set" to_op="Apply Model" to_port="unlabelled data"/>
+          <connect from_op="Apply Model" from_port="labelled data" to_op="Performance" to_port="labelled data"/>
+          <connect from_op="Performance" from_port="performance" to_port="performance 1"/>
+          <connect from_op="Performance" from_port="example set" to_port="test set results"/>
+          <portSpacing port="source_model" spacing="0"/>
+          <portSpacing port="source_test set" spacing="0"/>
+          <portSpacing port="source_through 1" spacing="0"/>
+          <portSpacing port="sink_test set results" spacing="0"/>
+          <portSpacing port="sink_performance 1" spacing="0"/>
+          <portSpacing port="sink_performance 2" spacing="0"/>
+          <description align="left" color="blue" colored="true" height="103" resized="true" width="315" x="38" y="158">The model created in the Training step is applied to the current test set (10 %).&lt;br/&gt;The performance is evaluated and sent to the operator results.</description>
+        </process>
+        <description align="center" color="transparent" colored="false" width="126">A cross-validation evaluating a decision tree model.</description>
+      </operator>
+      <connect from_op="Retrieve amazon_cells_labelled" from_port="output" to_op="Nominal to Text" to_port="example set input"/>
+      <connect from_op="Nominal to Text" from_port="example set output" to_op="Numerical to Polynominal" to_port="example set input"/>
+      <connect from_op="Numerical to Polynominal" from_port="example set output" to_op="Set Role" to_port="example set input"/>
+      <connect from_op="Set Role" from_port="example set output" to_op="Process Documents from Data" to_port="example set"/>
+      <connect from_op="Process Documents from Data" from_port="example set" to_op="Validation" to_port="example set"/>
+      <connect from_op="Validation" from_port="model" to_port="result 1"/>
+      <connect from_op="Validation" from_port="test result set" to_port="result 3"/>
+      <connect from_op="Validation" from_port="performance 1" to_port="result 2"/>
+      <portSpacing port="source_input 1" spacing="0"/>
+      <portSpacing port="sink_result 1" spacing="0"/>
+      <portSpacing port="sink_result 2" spacing="0"/>
+      <portSpacing port="sink_result 3" spacing="0"/>
+      <portSpacing port="sink_result 4" spacing="0"/>
+    </process>
+  </operator>
+</process>
