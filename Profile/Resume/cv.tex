@@ -1,0 +1,172 @@
+\begin{document}
+\documentclass[a4paper,10pt]{article}
+
+%A Few Useful Packages
+\usepackage{marvosym}
+\usepackage{fontspec} 					%for loading fonts
+\usepackage{xunicode,xltxtra,url,parskip} 	%other packages for formatting
+\RequirePackage{color,graphicx}
+\usepackage[usenames,dvipsnames]{xcolor}
+\usepackage[big]{layaureo} 				%better formatting of the A4 page
+% an alternative to Layaureo can be ** \usepackage{fullpage} **
+\usepackage{supertabular} 				%for Grades
+\usepackage{titlesec}					%custom \section
+
+%Setup hyperref package, and colours for links
+\usepackage{hyperref}
+\definecolor{linkcolour}{rgb}{0,0.2,0.6}
+\hypersetup{colorlinks,breaklinks,urlcolor=linkcolour, linkcolor=linkcolour}
+
+%FONTS
+\defaultfontfeatures{Mapping=tex-text}
+%\setmainfont[SmallCapsFont = Fontin SmallCaps]{Fontin}
+%%% modified for Karol Kozioł for ShareLaTeX use
+\setmainfont[
+SmallCapsFont = Fontin-SmallCaps.otf,
+BoldFont = Fontin-Bold.otf,
+ItalicFont = Fontin-Italic.otf
+]
+{Fontin.otf}
+%%%
+
+%CV Sections inspired by: 
+%http://stefano.italians.nl/archives/26
+\titleformat{\section}{\Large\scshape\raggedright}{}{0em}{}[\titlerule]
+\titlespacing{\section}{0pt}{3pt}{3pt}
+%Tweak a bit the top margin
+%\addtolength{\voffset}{-1.3cm}
+
+%Italian hyphenation for the word: ''corporations''
+\hyphenation{im-pre-se}
+
+%-------------WATERMARK TEST [**not part of a CV**]---------------
+\usepackage[absolute]{textpos}
+
+\setlength{\TPHorizModule}{30mm}
+\setlength{\TPVertModule}{\TPHorizModule}
+\textblockorigin{2mm}{0.65\paperheight}
+\setlength{\parindent}{0pt}
+
+%--------------------BEGIN DOCUMENT----------------------
+\begin{document}
+
+%WATERMARK TEST [**not part of a CV**]---------------
+%\font\wm=''Baskerville:color=787878'' at 8pt
+%\font\wmweb=''Baskerville:color=FF1493'' at 8pt
+%{\wm 
+%	\begin{textblock}{1}(0,0)
+%		\rotatebox{-90}{\parbox{500mm}{
+%			Typeset by Alessandro Plasmati with \XeTeX\  \today\ for 
+%			{\wmweb \href{http://www.aleplasmati.comuv.com}{aleplasmati.comuv.com}}
+%		}
+%	}
+%	\end{textblock}
+%}
+
+\pagestyle{empty} % non-numbered pages
+
+\font\fb=''[cmr10]'' %for use with \LaTeX command
+
+%--------------------TITLE-------------
+\par{\centering
+		{\Huge Sunil \textsc{Gauda}
+	}\bigskip\par}
+
+%--------------------SECTIONS-----------------------------------
+%Section: Personal Data
+\section{Personal Data}
+
+\begin{tabular}{rl}
+    \textsc{Place and Date of Birth:} & Mumbai,India  | 30 Jan 1992 \\
+    \textsc{Address:}   & R-1, Sukshanti Chawl-24, Ganpatipada,  Kalwa , Thane, 400605 \\
+    \textsc{Phone:}     & +91-8976660960 \\
+    \textsc{email:}     & \href{mailto:sunilg3011992@gmail.com}{sunilg3011992@gmail.com}\\
+    \textsc{Linkedin:}     &
+    \url{https://www.linkedin.com/in/sunil-gauda-924b4082/}
+\end{tabular}
+
+%Section: Education
+\section{Education}
+\begin{tabular}{rl}	
+ 2018 & PG-DIPLOMA \textsc{CDAC}, \textbf{YCP-AIT}, Nariman Point\\
+& CENTRE FOR DEVELOPMENT FOR ADVANCE COMPUTING(CDAC)\\
+&Post Graduate Diploma In Advance Computing (PG-DAC)\\
+
+ 2016 & B.E \textsc{Electrical}, \textbf{University Of Mumbai}, Karjat\\
+& Sarsawati Education Society Group Of Institutions Faculty of Engineering\\
+&\normalsize \textbf{Overall GPA}: 6.12/10\\
+
+ 2011&  H.S.C \textsc{Science} \\&\textbf{Maharashtra State Board of Secondary and Higher Secondary Education Pune}\\
+&New English School An1d J.R College\\
+&\normalsize {\textbf{Overall Percentage}}: 61.331\\
+
+2009&  S.S.C \textsc{Science} \\&\textbf{Maharashtra State Board of Secondary and Higher Secondary Education Pune}\\
+&New English School An1d J.R College\\
+&\normalsize {\textbf{Overall Percentage}}: 71.69\\
+\end{tabular}
+
+%Section: Skills
+\section{Technology's}
+\begin{tabular}{rl}
+ ASP.NET Core, Angular, React, ASP.NET MVC, msSQL, Entity Framework, html, Bootstrap .
+\end{tabular}
+\section{Programming Languages}
+\begin{tabular}{rl}
+  \textsc{C\#}, JavaScript, TypeScript, CSS.\\
+\end{tabular}
+
+
+%Section: Work Experience at the top
+\section{Work Experience}
+\begin{tabular}{r|p{11cm}}
+
+
+\emph{May 2021} &  Software Engineer at \textsc{LearningMate pvt ltd} \\\textsc{Present}&\emph{Software Engineer }\\&\footnotesize{ Developing solutions for education platform, to meet the needs for academics in  K-12 Education solutions using dotnet, angular and javascript based frameworks }\\\multicolumn{2}{c}{} \\
+
+\emph{June 2020} & Jr Software Engineer at \textsc{Acideas Solutions pvt ltd, CRMNEXT} \\\textsc{APR -2021}&\emph{Software Engineer }\\&\footnotesize{ Providing Solutions for Business problems of BFSI Domain, using Microsoft Dotnet and Javascript  Technology's. }\\\multicolumn{2}{c}{} \\
+
+ \emph{May 2020} & Software Developer at \textsc{DIMA Engineering PVT LTD} \\\textsc{MAR 2019}&\emph{Full Stack Developer for web applications}\\&\footnotesize{ Developing web applications suited for the needs of Pharmaceutical and Chemical Industry's which includes basic implementation of organization management and process management, the large and major part of it includes software that could communicate with remote devices to fulfill monitoring, controlling and reporting of the legacy devices working on communication protocol's like RS232,RS485,Mod-bus and serial. }\\\multicolumn{2}{c}{} \\
+ 
+ \emph{Nov 2016} & Electrical Engineer at \textsc{IUS Equipment's PVT LTD} \\\textsc{NOV 2017}&\emph{Electrical and Instrumentation Engineer}\\&\footnotesize{Designing Electrical equipment's for process management industry like Chemical and Pharmaceutical. }
+\end{tabular}
+
+
+
+
+
+
+\section{Projects}
+
+
+\begin{tabular}{r|p{11cm}}
+
+ \emph{Learning Mate} \\\textsc{DOTNET Core, Angular}&\emph{ Learning Mate Altura/Single App Mc-millian education}\\&\footnotesize{ Deleoping and maintaining application that serves K-12 digitising the process of setting curriculum for students and common platform for grading and management for staff  }. \\
+ & \textbf{Technology Used }: \\
+ & {Dotnet Core, NodeJs, Angular ,Identity Framework, Entity Framework, Typescript}\\\multicolumn{2}{c}{} \\
+
+
+ \emph{CRMNEXT Application} \\\textsc{Web API}&\emph{ CRM }\\&\footnotesize{ Writing API for providing business integration with multiple vendors depending on the business requirement.} \\
+ & \textbf{Technology Used }: \\
+ & {Dotnet API, XML,XSLT, HTML, CSS}\\\multicolumn{2}{c}{} \\
+
+
+ \emph{Hydra} \\\textsc{.NET Core}&\emph{ Communication and Monitoring Software}\\&\footnotesize{ Software that communicates with remote devices via various communication protocol and provides the data for logging and monitoring purposes.} \\
+ & \textbf{Technology Used }: \\
+ & {NET Core API, React ,MVC, msSQL, jQuery, Bootstrap}\\\multicolumn{2}{c}{} \\
+ 
+ \emph{ELN} \\\textsc{ASP.NET MVC}&\emph{ Process Management Software}\\&\footnotesize{Software that manages an organisation and its need for inventory, process of production, Hierarchy and user} \\
+ & \textbf{Technology Used }: \\
+ & {ASP.NET MVC 4, msSQL, jQuery, Bootstrap}\\
+\end{tabular}
+
+%Section:  Languages
+\section{Languages}
+\begin{tabular}{rl}
+ \textsc{Oriya:}&Mothertongue\\
+\textsc{English:}&Fluent\\
+\textsc{Hindi:}&Fluent\\
+\textsc{Marathi:}&Basic Knowledge\\
+\end{tabular}
+
+
+\end{document}
