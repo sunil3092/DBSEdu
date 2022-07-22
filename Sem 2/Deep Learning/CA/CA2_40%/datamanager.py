@@ -2,13 +2,13 @@ import os
 import shutil
 
 
-def split_data(train_ratio, ROOT, data_dir):
+def split_data(train_ratio, root_dir_str, data_dir_str, image_dir_str, train_dir_str, test_dir_str):
     TRAIN_RATIO = train_ratio
 
-    data_dir = os.path.join(ROOT, 'CUB_200_2011')
-    images_dir = os.path.join(data_dir, 'images')
-    train_dir = os.path.join(data_dir, 'train')
-    test_dir = os.path.join(data_dir, 'test')
+    data_dir = os.path.join(root_dir_str, data_dir_str)
+    images_dir = os.path.join(data_dir, image_dir_str)
+    train_dir = os.path.join(data_dir, train_dir_str)
+    test_dir = os.path.join(data_dir, test_dir_str)
 
     if os.path.exists(train_dir):
         shutil.rmtree(train_dir)
