@@ -40,6 +40,4 @@ ipython_config.py
 # Support for Project snippet scope
 
 # End of https://www.toptal.com/developers/gitignore/api/jupyternotebooks,visualstudiocode
-variables/
-
-*.pb
+saved_models
