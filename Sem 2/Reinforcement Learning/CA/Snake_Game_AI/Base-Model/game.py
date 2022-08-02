@@ -5,8 +5,7 @@ from collections import namedtuple
 import numpy as np
 
 pygame.init()
-font = pygame.font.SysFont('arial', 25)
-#Add your Path for arial.ttf here
+font = pygame.font.Font('/Users/kenny/Desktop/Base-Model/arial.ttf', 25) #Add your Path for arial.ttf here
 
 
 class Direction(Enum):
